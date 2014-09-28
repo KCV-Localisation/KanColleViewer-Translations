@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.7">
+<Quests Version="1.0.8">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -923,5 +923,26 @@
     <TR-Name>Reorganise the Strengthened 2nd Carrier Division</TR-Name>
     <JP-Detail>「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
     <TR-Detail>Have Souryuu Kai-2 (蒼龍改二) as flagship with Hiryuu Kai-2 (飛龍改二) and 2 destroyers in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>617</ID>
+    <JP-Name>「伊良湖」の準備</JP-Name>
+    <TR-Name>Preparing for Irako</TR-Name>
+    <JP-Detail>「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！</JP-Detail>
+    <TR-Detail>Scrap equipment 10 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>142</ID>
+    <JP-Name>精鋭「第三戦隊」全艦集結せよ！</JP-Name>
+    <TR-Name>Organise the Elite 3rd Battleship Division</TR-Name>
+    <JP-Detail>第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！</JP-Detail>
+    <TR-Detail>Have all four Kongou-class Kai 2 battleships in your main fleet.</TR-Detail>
+  </Quest>
+    <Quest>
+    <ID>257</ID>
+    <JP-Name>「水雷戦隊」南西へ！</JP-Name>
+    <TR-Name>Deploy a Torpedo Squadron</TR-Name>
+    <JP-Detail>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Deploy a fleet of up to 3 light cruisers (with a light cruiser flagship) and up to 5 destroyers to World 1-4. Score an S rank victory against the boss.</TR-Detail>
   </Quest>
 </Quests>
