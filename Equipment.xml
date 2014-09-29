@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.9">
+<Equipment Version="1.0.10">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -421,8 +421,8 @@
     <TR-Name>Prototype 41cm Triple Gun Mount</TR-Name>
   </Item>
   <Item>
-    <JP-Name>Type 13 Air RADAR Kai</JP-Name>
-    <TR-Name></TR-Name>
+    <JP-Name>13号対空電探改</JP-Name>
+    <TR-Name>Type 13 Air RADAR Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>艦隊司令部施設</JP-Name>
