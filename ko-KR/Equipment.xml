@@ -90,7 +90,7 @@
   </Item>
   <Item>
     <JP-Name>九九式艦爆</JP-Name>
-    <TR-Name>99식 함상폭격기</TR-Name>
+    <TR-Name>99식함폭</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星</JP-Name>
@@ -206,11 +206,11 @@
   </Item>
   <Item>
     <JP-Name>流星改</JP-Name>
-    <TR-Name>류세이 改</TR-Name>
+    <TR-Name>류세이改</TR-Name>
   </Item>
   <Item>
     <JP-Name>烈風改</JP-Name>
-    <TR-Name>렛푸 改</TR-Name>
+    <TR-Name>렛푸改</TR-Name>
   </Item>
   <Item>
     <JP-Name>彩雲</JP-Name>
@@ -218,11 +218,11 @@
   </Item>
   <Item>
     <JP-Name>紫電改二</JP-Name>
-    <TR-Name>시덴 改2</TR-Name>
+    <TR-Name>시덴改2</TR-Name>
   </Item>
   <Item>
     <JP-Name>震電改</JP-Name>
-    <TR-Name>신덴 改</TR-Name>
+    <TR-Name>신덴改</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星一二型甲</JP-Name>
@@ -246,15 +246,15 @@
   </Item>
   <Item>
     <JP-Name>試製晴嵐</JP-Name>
-    <TR-Name>시작형 세이란</TR-Name>
+    <TR-Name>시재형 세이란</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲B型改二</JP-Name>
-    <TR-Name>12.7cm 연장포B형 改2</TR-Name>
+    <TR-Name>12.7cm 연장포B형改2</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ju87C改</JP-Name>
-    <TR-Name>Ju 87C 改</TR-Name>
+    <TR-Name>Ju 87C改</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.2cm連装砲</JP-Name>
@@ -378,66 +378,62 @@
   </Item>
   <Item>
     <JP-Name>照明弾</JP-Name>
-    <TR-Name>Star Shell</TR-Name>
+    <TR-Name>조명탄</TR-Name>
   </Item>
   <Item>
     <JP-Name>九八式水上偵察機(夜偵)</JP-Name>
-    <TR-Name>Type 98 Recon Seaplane (Night Scout)</TR-Name>
+    <TR-Name>98식정찰항공기(야정)</TR-Name>
   </Item>
   <Item>
     <JP-Name>九七式艦攻(熟練)</JP-Name>
-    <TR-Name>Type 97 Torpedo Bomber (Skilled)</TR-Name>
+    <TR-Name>97식함상공격기(숙련)</TR-Name>
   </Item>
   <Item>
     <JP-Name>九九式艦爆(江草隊)</JP-Name>
-    <TR-Name>Type 99 Dive Bomber (Ekusa Squadron)</TR-Name>
+    <TR-Name>99식함폭(에쿠사대)</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星(江草隊)</JP-Name>
-    <TR-Name>Suisei (Ekusa Squadron)</TR-Name>
+    <TR-Name>스이세이(에쿠사대)</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製35.6cm三連装砲</JP-Name>
-    <TR-Name>Prototype 35.6cm Triple Gun Mount</TR-Name>
+    <TR-Name>시재형 35.6cm 3연장포</TR-Name>
   </Item>
   <Item>
     <JP-Name>35.6cm連装砲(ダズル迷彩)</JP-Name>
-    <TR-Name>35.6cm Twin Gun Mount (Dazzle camo)</TR-Name>
+    <TR-Name>35.6cm 연장포(다즐 미채)</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製41cm三連装砲</JP-Name>
-    <TR-Name>Prototype 41cm Triple Gun Mount</TR-Name>
-  </Item>
-  <Item>
-    <JP-Name>Type 13 Air RADAR Kai</JP-Name>
-    <TR-Name></TR-Name>
+    <TR-Name>시재형 41cm 3연장포</TR-Name>
   </Item>
   <Item>
     <JP-Name>艦隊司令部施設</JP-Name>
-    <TR-Name>Fleet Command Facility</TR-Name>
+    <TR-Name>함대 사령부 설비</TR-Name>
   </Item>
   <Item>
     <JP-Name>熟練艦載機整備員</JP-Name>
-    <TR-Name>Skilled Carrier-based Aircraft Maintenance Personnel</TR-Name>
+    <TR-Name>숙련  함재기 정비원</TR-Name>
   </Item>
   <Item>
     <JP-Name>零戦52型丙(六〇一空)</JP-Name>
-    <TR-Name>Type 52-C Zero Fighter (601 Air Group)</TR-Name>
+    <TR-Name>영전52형丙(601공)</TR-Name>
   </Item>
   <Item>
     <JP-Name>烈風(六〇一空)</JP-Name>
-    <TR-Name>Reppuu (601 Air Group)</TR-Name>
+    <TR-Name>렛푸(601공)</TR-Name>
   </Item>
   <Item>
     <JP-Name>彗星(六〇一空)</JP-Name>
-    <TR-Name>Suisei (601 Air Group)</TR-Name>
+    <TR-Name>스이세이(601공)</TR-Name>
   </Item>
   <Item>
     <JP-Name>天山(六〇一空)</JP-Name>
-    <TR-Name>Tenzan (601 Air Group)</TR-Name>
+    <TR-Name>텐잔(601공)</TR-Name>
   </Item>
   <Item>
     <JP-Name>流星(六〇一空)</JP-Name>
-    <TR-Name>Ryuusei (601 Air Group)</TR-Name>
+    <TR-Name>류세이(601공)</TR-Name>
   </Item>
 </Equipment>
