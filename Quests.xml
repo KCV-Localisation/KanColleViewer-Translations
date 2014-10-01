@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.8">
+<Quests Version="1.0.9">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -859,7 +859,7 @@
     <JP-Name>「第五戦隊」出撃せよ！</JP-Name>
     <TR-Name>Deploy the 5th Fleet</TR-Name>
     <JP-Detail>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Deploy Myoukou (妙高), Nachi  (那智) and Haguro (羽黒) to World 2-5. You may add 3 other ships. Score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>Deploy Myoukou (妙高), Nachi (那智) and Haguro (羽黒) to World 2-5. You may add 3 other ships. Score an S rank victory against the boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>250</ID>
@@ -944,5 +944,19 @@
     <TR-Name>Deploy a Torpedo Squadron</TR-Name>
     <JP-Detail>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Deploy a fleet of up to 3 light cruisers (with a light cruiser flagship) and up to 5 destroyers to World 1-4. Score an S rank victory against the boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>254</ID>
+    <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
+    <TR-Name>Deploy a Light Carrier Squadron</TR-Name>
+    <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet of 1-2 light aircraft carriers, 1 light cruiser and 3-4 destroyers to World 2-1 and score an S rank victory against the boss.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>255</ID>
+    <JP-Name>「水雷戦隊」バシー島沖緊急展開</JP-Name>
+    <TR-Name>Deploy a Torpedo Squadron to Bashi Islands</TR-Name>
+    <JP-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet of 1-2 light cruisers (with one of them as the flagship) and 4-5 destroyers to World 2-2. Score a victory at the boss and sink the enemy flagship.</TR-Detail>
   </Quest>
 </Quests>
