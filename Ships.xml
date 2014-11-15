@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.14">
+<Ships Version="1.0.15">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1295,5 +1295,49 @@
   <Ship>
     <JP-Name>隼鷹改二</JP-Name>
     <TR-Name>Jun'you Kai2</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Prinz Eugen</JP-Name>
+    <TR-Name>Prinz Eugen</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Prinz Eugen改</JP-Name>
+    <TR-Name>Prinz Eugen Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>初春改二</JP-Name>
+    <TR-Name>Hatsuharu Kai2</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝雲</JP-Name>
+    <TR-Name>Asagumo</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝雲改</JP-Name>
+    <TR-Name>Asagumo Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>野分</JP-Name>
+    <TR-Name>Nowaki</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>野分改</JP-Name>
+    <TR-Name>Nowaki Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>秋月</JP-Name>
+    <TR-Name>Akizuki</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>秋月改</JP-Name>
+    <TR-Name>Akizuki Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>潮改二</JP-Name>
+    <TR-Name>Ushio Kai2</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>扶桑改二</JP-Name>
+    <TR-Name>Fusou Kai2</TR-Name>
   </Ship>
 </Ships>
