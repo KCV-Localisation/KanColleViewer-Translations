@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.9">
+<Quests Version="1.0.10">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -153,13 +153,6 @@
     <TR-Name>Form the Nishimura Fleet!</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上) and Shigure (時雨) in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>A23</ID>
-    <JP-Name>「第五航空戦隊」を編成せよ！</JP-Name>
-    <TR-Name>Form the Carrier Division 5!</TR-Name>
-    <JP-Detail>「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Shoukaku (翔鶴), Zuikaku (瑞鶴) and 2 DD in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>A24</ID>
@@ -386,27 +379,6 @@
     <TR-Detail>Deploy a fleet with Mutsuki, Kisaragi, Yayoi, Mochizuki and 2 DD. Score a victory against World 3-2 Boss.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd1</ID>
-    <JP-Name>敵艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Daily Sortie 1</TR-Name>
-    <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat an enemy fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bd2</ID>
-    <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Daily Sortie 2</TR-Name>
-    <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat the flagship of an enemy fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bd3</ID>
-    <JP-Name>敵艦隊を10回邀撃せよ！</JP-Name>
-    <TR-Name>Daily Sortie 3</TR-Name>
-    <JP-Detail>艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！</JP-Detail>
-    <TR-Detail>Defeat 10 enemy fleets.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>Bd4</ID>
     <JP-Name>敵空母を３隻撃沈せよ！</JP-Name>
     <TR-Name>Daily Sortie 4</TR-Name>
@@ -414,81 +386,11 @@
     <TR-Detail>Sink 3 enemy aircraft carriers.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bd5</ID>
-    <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
-    <TR-Name>Daily Sortie 5</TR-Name>
-    <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 3 enemy transport ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bd6</ID>
-    <JP-Name>敵輸送船団を叩け！</JP-Name>
-    <TR-Name>Daily Sortie 6</TR-Name>
-    <JP-Detail>敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>Sink 5 enemy transport ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bd7</ID>
-    <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
-    <TR-Name>Daily Sortie 7</TR-Name>
-    <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 5 bosses in World 2.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bd8</ID>
-    <JP-Name>敵潜水艦を制圧せよ！</JP-Name>
-    <TR-Name>Daily Sortie 8</TR-Name>
-    <JP-Detail>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</JP-Detail>
-    <TR-Detail>Sink 6 enemy submarines.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bw1</ID>
-    <JP-Name>あ号作戦</JP-Name>
-    <TR-Name>Weekly Sortie 1</TR-Name>
-    <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
-    <TR-Detail>Deploy your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S RATING victories.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bw2</ID>
-    <JP-Name>い号作戦</JP-Name>
-    <TR-Name>Weekly Sortie 2</TR-Name>
-    <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 20 aircraft carriers.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bw3</ID>
-    <JP-Name>海上通商破壊作戦</JP-Name>
-    <TR-Name>Weekly Sortie 3</TR-Name>
-    <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
-    <TR-Detail>Sink 20 transport ships.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>Bw4</ID>
     <JP-Name>ろ号作戦</JP-Name>
     <TR-Name>Weekly Sortie 4</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！</JP-Detail>
     <TR-Detail>Sink 50 transport ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bw5</ID>
-    <JP-Name>海上護衛戦</JP-Name>
-    <TR-Name>Weekly Sortie 5</TR-Name>
-    <JP-Detail>有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 15 submarines.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bw6</ID>
-    <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
-    <TR-Name>Weekly Sortie 6</TR-Name>
-    <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 12 bosses in World 4.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>Bw7</ID>
-    <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Weekly Sortie 7</TR-Name>
-    <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 5 bosses in World 3-3 and 3-4. </TR-Detail>
   </Quest>
   <Quest>
     <ID>Bw8</ID>
@@ -512,53 +414,11 @@
     <TR-Detail>Challenge another fleet in practice mode.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>C2</ID>
-    <JP-Name>「演習」で練度向上！</JP-Name>
-    <TR-Name>Daily Exercises 1</TR-Name>
-    <JP-Detail>本日中に他の司令官の艦隊に対して3回「演習」を挑もう！</JP-Detail>
-    <TR-Detail>Challenge 3 other fleets in practice mode within the same day.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>C3</ID>
-    <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
-    <TR-Name>Daily Exercises 2</TR-Name>
-    <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>Get 5 victories in practice mode within the same day.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>C4</ID>
-    <JP-Name>大規模演習</JP-Name>
-    <TR-Name>Weekly Exercises</TR-Name>
-    <JP-Detail>今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！</JP-Detail>
-    <TR-Detail>Get 20 victories in practice mode within the same week.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>D1</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
     <TR-Name>First Expedition</TR-Name>
     <JP-Detail>艦隊を「遠征」に出発させよう！</JP-Detail>
     <TR-Detail>Perform an expedition.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>D2</ID>
-    <JP-Name>「遠征」を３回成功させよう！</JP-Name>
-    <TR-Name>Daily Expeditions 1</TR-Name>
-    <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 3 successful expeditions within the same day.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>D3</ID>
-    <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
-    <TR-Name>Daily Expeditions 2</TR-Name>
-    <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 10 successful expeditions within the same day.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>D4</ID>
-    <JP-Name>大規模遠征作戦、発令！</JP-Name>
-    <TR-Name>Weekly Expeditions</TR-Name>
-    <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 30 successful expeditions within the same week.</TR-Detail>
   </Quest>
   <Quest>
     <ID>D5</ID>
@@ -596,20 +456,6 @@
     <TR-Detail>Repair a ship.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>E3</ID>
-    <JP-Name>艦隊大整備！</JP-Name>
-    <TR-Name>Daily Repairs</TR-Name>
-    <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
-    <TR-Detail>Repair 5 ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>E4</ID>
-    <JP-Name>艦隊酒保祭り！</JP-Name>
-    <TR-Name>Daily Resupplies</TR-Name>
-    <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
-    <TR-Detail>Resupply your ships 15 times.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>F1</ID>
     <JP-Name>はじめての「建造」！</JP-Name>
     <TR-Name>First Construction</TR-Name>
@@ -638,39 +484,11 @@
     <TR-Detail>Scrap a piece of equipment.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>F5</ID>
-    <JP-Name>新装備「開発」指令</JP-Name>
-    <TR-Name>Daily Equipment Development 1</TR-Name>
-    <JP-Detail>「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！</JP-Detail>
-    <TR-Detail>Craft a piece of equipment. (Failures are OK)</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F6</ID>
-    <JP-Name>新造艦「建造」指令</JP-Name>
-    <TR-Name>Daily Ship Construction 1</TR-Name>
-    <JP-Detail>「工廠」で艦娘を本日中に新たに「建造」しよう！</JP-Detail>
-    <TR-Detail>Craft a ship.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F7</ID>
-    <JP-Name>装備「開発」集中強化！</JP-Name>
-    <TR-Name>Daily Development 2</TR-Name>
-    <JP-Detail>「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！</JP-Detail>
-    <TR-Detail>Craft 3 pieces of equipment. (Failures are OK)</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>F8</ID>
     <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
     <TR-Name>Daily Construction 2</TR-Name>
     <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
     <TR-Detail>Craft 3 ships.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F9</ID>
-    <JP-Name>軍縮条約対応！</JP-Name>
-    <TR-Name>Daily Dismantlement</TR-Name>
-    <JP-Detail>少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！</JP-Detail>
-    <TR-Detail>Scrap 2 ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>F10</ID>
@@ -685,34 +503,12 @@
     <TR-Name>Preparation for Transport Drum Canisters</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用ドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times.</TR-Detail>
-  </Quest>
-    <Quest>
-    <ID>F12</ID>
-    <JP-Name>資源の再利用</JP-Name>
-    <TR-Name>Weekly Dismantlement</TR-Name>
-    <JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
-    <TR-Detail>Scrap equipment 24 times.</TR-Detail>
-  </Quest>
   <Quest>
     <ID>G1</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>First Modernization</TR-Name>
     <JP-Detail>任意の艦を近代化改修(合成)して、強化せよ！</JP-Detail>
     <TR-Detail>Perform a successful modernization.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>G2</ID>
-    <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
-    <TR-Name>Daily Modernization</TR-Name>
-    <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
-    <TR-Detail>Perform 2 successful modernizations within the same day.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>G3</ID>
-    <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
-    <TR-Name>Weekly Modernization</TR-Name>
-    <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
-    <TR-Detail>Perform 15 successful modernizations within the same week.</TR-Detail>
   </Quest>
   <Quest>
     <ID>G4</ID>
@@ -764,11 +560,229 @@
     <TR-Detail>Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S victory or higher against the boss.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>123</ID>
+    <JP-Name>「第五航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>Form the Carrier Division 5!</TR-Name>
+    <JP-Detail>「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Shoukaku (翔鶴), Zuikaku (瑞鶴) and 2 DD in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>201</ID>
+    <JP-Name>敵艦隊を撃破せよ！</JP-Name>
+    <TR-Name>Daily Sortie 1</TR-Name>
+    <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Defeat an enemy fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>210</ID>
+    <JP-Name>敵艦隊を10回邀撃せよ！</JP-Name>
+    <TR-Name>Daily Sortie 3</TR-Name>
+    <JP-Detail>艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！</JP-Detail>
+    <TR-Detail>Defeat 10 enemy fleets.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>212</ID>
+    <JP-Name>敵輸送船団を叩け！</JP-Name>
+    <TR-Name>Daily Sortie 6</TR-Name>
+    <JP-Detail>敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！</JP-Detail>
+    <TR-Detail>Sink 5 enemy transport ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>213</ID>
+    <JP-Name>海上通商破壊作戦</JP-Name>
+    <TR-Name>Weekly Sortie 3</TR-Name>
+    <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
+    <TR-Detail>Sink 20 transport ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>214</ID>
+    <JP-Name>あ号作戦</JP-Name>
+    <TR-Name>Weekly Sortie 1</TR-Name>
+    <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
+    <TR-Detail>Deploy your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S RATING victories.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>216</ID>
+    <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
+    <TR-Name>Daily Sortie 2</TR-Name>
+    <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Defeat the flagship of an enemy fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>218</ID>
+    <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
+    <TR-Name>Daily Sortie 5</TR-Name>
+    <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sink 3 enemy transport ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>220</ID>
+    <JP-Name>い号作戦</JP-Name>
+    <TR-Name>Weekly Sortie 2</TR-Name>
+    <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sink 20 aircraft carriers.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>226</ID>
+    <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
+    <TR-Name>Daily Sortie 7</TR-Name>
+    <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
+    <TR-Detail>Defeat 5 bosses in World 2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>228</ID>
+    <JP-Name>海上護衛戦</JP-Name>
+    <TR-Name>Weekly Sortie 5</TR-Name>
+    <JP-Detail>有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sink 15 submarines.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>229</ID>
+    <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
+    <TR-Name>Weekly Sortie 6</TR-Name>
+    <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Defeat 12 bosses in World 4.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>230</ID>
+    <JP-Name>敵潜水艦を制圧せよ！</JP-Name>
+    <TR-Name>Daily Sortie 8</TR-Name>
+    <JP-Detail>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</JP-Detail>
+    <TR-Detail>Sink 6 enemy submarines.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>241</ID>
+    <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
+    <TR-Name>Weekly Sortie 7</TR-Name>
+    <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Defeat 5 bosses in World 3-3 and 3-4. </TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>256</ID>
+    <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
+    <TR-Name>Deploy a Submarine Fleet to World 6-1</TR-Name>
+    <JP-Detail>潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！</JP-Detail>
+    <TR-Detail>Deploy to World 6-1 and obtain an S-rank victory at the boss node 3 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>302</ID>
+    <JP-Name>大規模演習</JP-Name>
+    <TR-Name>Weekly Exercises</TR-Name>
+    <JP-Detail>今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！</JP-Detail>
+    <TR-Detail>Get 20 victories in practice mode within the same week.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>303</ID>
+    <JP-Name>「演習」で練度向上！</JP-Name>
+    <TR-Name>Daily Exercises 1</TR-Name>
+    <JP-Detail>本日中に他の司令官の艦隊に対して3回「演習」を挑もう！</JP-Detail>
+    <TR-Detail>Challenge 3 other fleets in practice mode within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>304</ID>
+    <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
+    <TR-Name>Daily Exercises 2</TR-Name>
+    <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
+    <TR-Detail>Get 5 victories in practice mode within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>402</ID>
+    <JP-Name>「遠征」を３回成功させよう！</JP-Name>
+    <TR-Name>Daily Expeditions 1</TR-Name>
+    <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
+    <TR-Detail>Perform 3 successful expeditions within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>403</ID>
+    <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
+    <TR-Name>Daily Expeditions 2</TR-Name>
+    <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
+    <TR-Detail>Perform 10 successful expeditions within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>404</ID>
+    <JP-Name>大規模遠征作戦、発令！</JP-Name>
+    <TR-Name>Weekly Expeditions</TR-Name>
+    <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
+    <TR-Detail>Perform 30 successful expeditions within the same week.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>503</ID>
+    <JP-Name>艦隊大整備！</JP-Name>
+    <TR-Name>Daily Repairs</TR-Name>
+    <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
+    <TR-Detail>Repair 5 ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>504</ID>
+    <JP-Name>艦隊酒保祭り！</JP-Name>
+    <TR-Name>Daily Resupplies</TR-Name>
+    <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
+    <TR-Detail>Resupply your ships 15 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>605</ID>
+    <JP-Name>新装備「開発」指令</JP-Name>
+    <TR-Name>Daily Equipment Development 1</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！</JP-Detail>
+    <TR-Detail>Craft a piece of equipment. (Failures are OK)</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>606</ID>
+    <JP-Name>新造艦「建造」指令</JP-Name>
+    <TR-Name>Daily Ship Construction 1</TR-Name>
+    <JP-Detail>「工廠」で艦娘を本日中に新たに「建造」しよう！</JP-Detail>
+    <TR-Detail>Craft a ship.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>607</ID>
+    <JP-Name>装備「開発」集中強化！</JP-Name>
+    <TR-Name>Daily Development 2</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！</JP-Detail>
+    <TR-Detail>Craft 3 pieces of equipment. (Failures are OK)</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>608</ID>
+    <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
+    <TR-Name>Daily Construction 2</TR-Name>
+    <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
+    <TR-Detail>Craft 3 ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>609</ID>
+    <JP-Name>軍縮条約対応！</JP-Name>
+    <TR-Name>Daily Dismantlement</TR-Name>
+    <JP-Detail>少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！</JP-Detail>
+    <TR-Detail>Scrap 2 ships.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>702</ID>
+    <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
+    <TR-Name>Daily Modernization</TR-Name>
+    <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
+    <TR-Detail>Perform 2 successful modernizations within the same day.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>703</ID>
+    <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
+    <TR-Name>Weekly Modernization</TR-Name>
+    <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
+    <TR-Detail>Perform 15 successful modernizations within the same week.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>612</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
     <TR-Name>Prepare the shipping barrel</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times to acquire a shipping barrel</TR-Detail>
+  </Quest>
+  </Quest>
+    <Quest>
+    <ID>613</ID>
+    <JP-Name>資源の再利用</JP-Name>
+    <TR-Name>Weekly Dismantlement</TR-Name>
+    <JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
+    <TR-Detail>Scrap equipment 24 times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>409</ID>
@@ -958,5 +972,26 @@
     <TR-Name>Deploy a Torpedo Squadron to Bashi Islands</TR-Name>
     <JP-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet of 1-2 light cruisers (with one of them as the flagship) and 4-5 destroyers to World 2-2. Score a victory at the boss and sink the enemy flagship.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>144</ID>
+    <JP-Name>主力戦艦部隊「第二戦隊」を編成せよ！</JP-Name>
+    <TR-Name>Organise the Main Battleship Fleet: the 2nd Squadron</TR-Name>
+    <JP-Detail>長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet.</TR-Detail>
+  </Quest>
+<Quest>
+    <ID>146</ID>
+    <JP-Name>改修工廠を準備せよ！</JP-Name>
+    <TR-Name>Prepare the Arsenal for Renovations</TR-Name>
+    <JP-Detail>第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！</JP-Detail>
+    <TR-Detail>Have Akashi (明石) as your flagship in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>147</ID>
+    <JP-Name>「西村艦隊」を再編成せよ！</JP-Name>
+    <TR-Name>Organise the Nishimura Fleet</TR-Name>
+    <JP-Detail>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.</TR-Detail>
   </Quest>
 </Quests>
