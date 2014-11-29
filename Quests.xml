@@ -994,4 +994,11 @@
     <JP-Detail>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.</TR-Detail>
   </Quest>
+    <Quest>
+    <ID>261</ID>
+    <JP-Name>海上輸送路の安全確保に努めよ！</JP-Name>
+    <TR-Name>Weekly Sortie 10</TR-Name>
+    <JP-Detail>鎮守府正面の対潜哨戒を反復実施し、安全な海上輸送路を確保せよ！</JP-Detail>
+    <TR-Detail>Sortie to 1-5 and get at least A-rank at the boss node 3 times.</TR-Detail>
+  </Quest>
 </Quests>
