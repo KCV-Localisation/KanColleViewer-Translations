@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Quests Version="1.0.11">
   <Quest>
     <ID>A1</ID>
@@ -1042,5 +1042,12 @@
     <TR-Name>Deploy the Nishimura Fleet in the Southern Waters</TR-Name>
     <JP-Detail>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Deploy Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>261</ID>
+    <JP-Name>海上輸送路の安全確保に努めよ！</JP-Name>
+    <TR-Name>Weekly Sortie 10</TR-Name>
+    <JP-Detail>鎮守府正面の対潜哨戒を反復実施し、安全な海上輸送路を確保せよ！</JP-Detail>
+    <TR-Detail>Deploy to World 1-5 and score an A rank victory (or higher) at the boss node 3 times.</TR-Detail>
   </Quest>
 </Quests>
