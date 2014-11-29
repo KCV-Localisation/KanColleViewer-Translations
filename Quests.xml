@@ -798,8 +798,7 @@
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times to acquire a shipping barrel</TR-Detail>
   </Quest>
-  </Quest>
-    <Quest>
+  <Quest>
     <ID>613</ID>
     <JP-Name>資源の再利用</JP-Name>
     <TR-Name>Weekly Dismantlement</TR-Name>
