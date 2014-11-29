@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.11">
+<Quests Version="1.0.12">
   <Quest>
     <ID>A1</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -399,12 +399,13 @@
     <JP-Detail>大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！</JP-Detail>
     <TR-Detail>Scrap equipment 4 times.</TR-Detail>
   </Quest>
-    <Quest>
+  <Quest>
     <ID>F11</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
     <TR-Name>Preparation for Transport Drum Canisters</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用ドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times.</TR-Detail>
+  </Quest>
   <Quest>
     <ID>G1</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
