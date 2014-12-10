@@ -1,19 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.16">
-  <Quest>
-    <ID>B22</ID>
-    <JP-Name>「第三十駆逐隊（第一次）」出撃せよ！</JP-Name>
-    <TR-Name>Deploy the 30th Destroyer Fleet (Gen.1)</TR-Name>
-    <JP-Detail>「第三十駆逐隊(第一次)」を含む艦隊で出撃しキス島沖の主力艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Deploy a fleet that consists of Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生), Mochizuki (望月) and up to 2 additional DDs to world 3-2 and encounter the boss.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F11</ID>
-    <JP-Name>輸送用ドラム缶の準備</JP-Name>
-    <TR-Name>Preparation for Transport Drum Canisters</TR-Name>
-    <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用ドラム缶を準備します。</JP-Detail>
-    <TR-Detail>Scrap equipment 3 times.</TR-Detail>
-  </Quest>
+<Quests Version="1.0.17">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -612,9 +598,9 @@
   <Quest>
     <ID>244</ID>
     <JP-Name>「第三十駆逐隊(第一次)」出撃せよ！</JP-Name>
-    <TR-Name>Sortie the Destroyer Division 30 (Gen-1)!</TR-Name>
+    <TR-Name>Deploy the Destroyer Division 30 (Gen-1)</TR-Name>
     <JP-Detail>「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Deploy a fleet with Mutsuki, Kisaragi, Yayoi, Mochizuki and 2 DD. Score a victory against World 3-2 Boss.</TR-Detail>
+    <TR-Detail>Deploy a fleet that consists of Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生), Mochizuki (望月) and up to 2 additional DDs to world 3-2 and encounter the boss. C rank or above is required.</TR-Detail>
   </Quest>
   <Quest>
     <ID>245</ID>
@@ -1004,7 +990,7 @@
   <Quest>
     <ID>612</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
-    <TR-Name>Prepare the shipping barrel</TR-Name>
+    <TR-Name>Prepare the Drum Canisters</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times to acquire a shipping barrel</TR-Detail>
   </Quest>
