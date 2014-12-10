@@ -1,75 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.15">
-  <Quest>
-    <ID>A1</ID>
-    <JP-Name>はじめての「編成」！</JP-Name>
-    <TR-Name>First Formation!</TR-Name>
-    <JP-Detail>2隻以上の艦で編成される「艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have 2 ships in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>A2</ID>
-    <JP-Name>「駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>Form a Destroyer Squadron!</TR-Name>
-    <JP-Detail>駆逐艦4隻以上で編成される「駆逐隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have 4 DD in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>A3</ID>
-    <JP-Name>「水雷戦隊」を編成せよ！</JP-Name>
-    <TR-Name>Form a Torpedo Squadron!</TR-Name>
-    <JP-Detail>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have a CL as a flagship and 5 DD in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>A4</ID>
-    <JP-Name>6隻編成の艦隊を編成せよ！</JP-Name>
-    <TR-Name>Form a Six Ship Fleet!</TR-Name>
-    <JP-Detail>全6隻で構成される主力艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 6 ships in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>A5</ID>
-    <JP-Name>軽巡２隻を擁する隊を編成せよ！</JP-Name>
-    <TR-Name>Form a Squadron with Two CL!</TR-Name>
-    <JP-Detail>軽巡洋艦２隻を擁する高速艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 2 CL in your main fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>A6</ID>
-    <JP-Name>第２艦隊を編成せよ！</JP-Name>
-    <TR-Name>Form the Second Fleet!</TR-Name>
-    <JP-Detail>二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have a flagship in your second fleet.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>B1</ID>
-    <JP-Name>はじめての「出撃」！</JP-Name>
-    <TR-Name>First Sortie!</TR-Name>
-    <JP-Detail>艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Deploy your main fleet on a combat mission.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>B2</ID>
-    <JP-Name>鎮守府正面海域を護れ！</JP-Name>
-    <TR-Name>Protect the Seas of Chinju-Fu!</TR-Name>
-    <JP-Detail>鎮守府正面海域に艦隊を出撃させ、敵艦の跋梁を阻止せよ！</JP-Detail>
-    <TR-Detail>Deploy to World 1-1 and clear the stage.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>B4</ID>
-    <JP-Name>南西諸島沖に出撃せよ！</JP-Name>
-    <TR-Name>Sortie to the Coast of Nansei Islands!</TR-Name>
-    <JP-Detail>南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Deploy to World 1-2 and clear the stage.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>B5</ID>
-    <JP-Name>接近する「敵前衛艦隊」を迎撃せよ！</JP-Name>
-    <TR-Name>Intercept Approaching Enemy Vanguard Fleet!</TR-Name>
-    <JP-Detail>南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Deploy to World 1-2 after defeating its boss and clear the stage.</TR-Detail>
-  </Quest>
+<Quests Version="1.0.16">
   <Quest>
     <ID>B22</ID>
     <JP-Name>「第三十駆逐隊（第一次）」出撃せよ！</JP-Name>
@@ -78,74 +8,46 @@
     <TR-Detail>Deploy a fleet that consists of Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生), Mochizuki (望月) and up to 2 additional DDs to world 3-2 and encounter the boss.</TR-Detail>
   </Quest>
   <Quest>
-    <ID>Bw8</ID>
-    <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Weekly Sortie 8</TR-Name>
-    <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Defeat a boss in World 4-4.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>243</ID>
-    <JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
-    <TR-Name>Weekly Sortie 9</TR-Name>
-    <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
-    <TR-Detail>Score two S rank victories at the boss node of World 5-2.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>D1</ID>
-    <JP-Name>はじめての「遠征」！</JP-Name>
-    <TR-Name>First Expedition</TR-Name>
-    <JP-Detail>艦隊を「遠征」に出発させよう！</JP-Detail>
-    <TR-Detail>Perform an expedition.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>D7</ID>
-    <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
-    <TR-Name>Continuation of Submarine Operations</TR-Name>
-    <JP-Detail>第3次及び第4次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 two more times.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>E1</ID>
-    <JP-Name>はじめての「補給」！</JP-Name>
-    <TR-Name>First Supply</TR-Name>
-    <JP-Detail>補給は大事です！燃料・弾薬を艦に「補給」しよう！</JP-Detail>
-    <TR-Detail>Resupply a ship.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>E2</ID>
-    <JP-Name>はじめての「入渠」！</JP-Name>
-    <TR-Name>First Docking</TR-Name>
-    <JP-Detail>戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！</JP-Detail>
-    <TR-Detail>Repair a ship.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F2</ID>
-    <JP-Name>はじめての「開発」！</JP-Name>
-    <TR-Name>First Development</TR-Name>
-    <JP-Detail>「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！</JP-Detail>
-    <TR-Detail>Craft a piece of equipment.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F4</ID>
-    <JP-Name>はじめての「廃棄」！</JP-Name>
-    <TR-Name>First Disposal</TR-Name>
-    <JP-Detail>「工廠」で不要な装備アイテムを「廃棄」してみよう！</JP-Detail>
-    <TR-Detail>Scrap a piece of equipment.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>F8</ID>
-    <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
-    <TR-Name>Daily Construction 2</TR-Name>
-    <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
-    <TR-Detail>Craft 3 ships.</TR-Detail>
-  </Quest>
-  <Quest>
     <ID>F11</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
     <TR-Name>Preparation for Transport Drum Canisters</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用ドラム缶を準備します。</JP-Detail>
     <TR-Detail>Scrap equipment 3 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>101</ID>
+    <JP-Name>はじめての「編成」！</JP-Name>
+    <TR-Name>First Formation!</TR-Name>
+    <JP-Detail>２隻以上の艦で構成される「艦隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have 2 ships in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>102</ID>
+    <JP-Name>「駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>Form a Destroyer Squadron!</TR-Name>
+    <JP-Detail>駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have 4 DD in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>103</ID>
+    <JP-Name>「水雷戦隊」を編成せよ！</JP-Name>
+    <TR-Name>Form a Torpedo Squadron!</TR-Name>
+    <JP-Detail>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have a CL as a flagship and 5 DD in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>104</ID>
+    <JP-Name>６隻編成の艦隊を編成せよ！</JP-Name>
+    <TR-Name>Form a Six Ship Fleet!</TR-Name>
+    <JP-Detail>全6隻で構成される主力艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have 6 ships in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>105</ID>
+    <JP-Name>軽巡２隻を擁する隊を編成せよ！</JP-Name>
+    <TR-Name>Form a Squadron with Two CL!</TR-Name>
+    <JP-Detail>軽巡洋艦２隻を擁する高速艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have 2 CL in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>106</ID>
@@ -209,6 +111,13 @@
     <TR-Name>Form the Nagumo Task Force!</TR-Name>
     <JP-Detail>一航戦「赤城」「加賀」二航戦「飛龍」「蒼龍」からなる第一機動部隊を編成せよ！</JP-Detail>
     <TR-Detail>Have ONLY Akagi (赤城), Kaga (加賀), Hiryuu (飛龍) and Souryuu (蒼龍) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>115</ID>
+    <JP-Name>第２艦隊を編成せよ！</JP-Name>
+    <TR-Name>Form the Second Fleet!</TR-Name>
+    <JP-Detail>二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have a flagship in your second fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>116</ID>
@@ -442,6 +351,34 @@
     <TR-Detail>Defeat an enemy fleet.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>202</ID>
+    <JP-Name>はじめての「出撃」！</JP-Name>
+    <TR-Name>First Sortie!</TR-Name>
+    <JP-Detail>艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
+    <TR-Detail>Deploy your main fleet on a combat mission.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>203</ID>
+    <JP-Name>鎮守府正面海域を護れ！</JP-Name>
+    <TR-Name>Protect the Seas of Chinju-Fu!</TR-Name>
+    <JP-Detail>鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！</JP-Detail>
+    <TR-Detail>Deploy to World 1-1 and clear the stage.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>204</ID>
+    <JP-Name>南西諸島沖に出撃せよ！</JP-Name>
+    <TR-Name>Sortie to the Coast of Nansei Islands!</TR-Name>
+    <JP-Detail>南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
+    <TR-Detail>Deploy to World 1-2 and clear the stage.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>205</ID>
+    <JP-Name>接近する「敵前衛艦隊」を迎撃せよ！</JP-Name>
+    <TR-Name>Intercept Approaching Enemy Vanguard Fleet!</TR-Name>
+    <JP-Detail>南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Deploy to World 1-2 after defeating its boss and clear the stage.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>206</ID>
     <JP-Name>「水雷戦隊」で出撃せよ！</JP-Name>
     <TR-Name>Sortie the Torpedo Squadron!</TR-Name>
@@ -659,6 +596,20 @@
     <TR-Detail>Defeat 5 bosses in World 3-3 and 3-4. </TR-Detail>
   </Quest>
   <Quest>
+    <ID>242</ID>
+    <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
+    <TR-Name>Weekly Sortie 8</TR-Name>
+    <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
+    <TR-Detail>Defeat a boss in World 4-4.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>243</ID>
+    <JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
+    <TR-Name>Weekly Sortie 9</TR-Name>
+    <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
+    <TR-Detail>Score two S rank victories at the boss node of World 5-2.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>244</ID>
     <JP-Name>「第三十駆逐隊(第一次)」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Destroyer Division 30 (Gen-1)!</TR-Name>
@@ -848,6 +799,13 @@
     <TR-Detail>Show your love by getting 2 victories in practice mode.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>401</ID>
+    <JP-Name>はじめての「遠征」！</JP-Name>
+    <TR-Name>First Expedition</TR-Name>
+    <JP-Detail>艦隊を「遠征」に出発させよう！</JP-Detail>
+    <TR-Detail>Perform an expedition.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
     <TR-Name>Daily Expeditions 1</TR-Name>
@@ -881,6 +839,13 @@
     <TR-Name>The Second Submarine Operation</TR-Name>
     <JP-Detail>第二次潜水艦派遣作戦を成功させよう！</JP-Detail>
     <TR-Detail>Complete Expedition 30 one more time.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>408</ID>
+    <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
+    <TR-Name>Continuation of Submarine Operations</TR-Name>
+    <JP-Detail>第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
+    <TR-Detail>Complete Expedition 30 two more times.</TR-Detail>
   </Quest>
   <Quest>
     <ID>409</ID>
@@ -932,6 +897,20 @@
     <TR-Detail>Complete expedition 39 two more times.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>501</ID>
+    <JP-Name>はじめての「補給」！</JP-Name>
+    <TR-Name>First Supply</TR-Name>
+    <JP-Detail>補給は大事です！燃料・弾薬を艦に「補給」しよう！</JP-Detail>
+    <TR-Detail>Resupply a ship.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>502</ID>
+    <JP-Name>はじめての「入渠」！</JP-Name>
+    <TR-Name>First Docking</TR-Name>
+    <JP-Detail>戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！</JP-Detail>
+    <TR-Detail>Repair a ship.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>503</ID>
     <JP-Name>艦隊大整備！</JP-Name>
     <TR-Name>Daily Repairs</TR-Name>
@@ -953,11 +932,25 @@
     <TR-Detail>Craft a ship.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>602</ID>
+    <JP-Name>はじめての「開発」！</JP-Name>
+    <TR-Name>First Development</TR-Name>
+    <JP-Detail>「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！</JP-Detail>
+    <TR-Detail>Craft a piece of equipment.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>603</ID>
     <JP-Name>はじめての「解体」！</JP-Name>
     <TR-Name>First Dismantlement</TR-Name>
     <JP-Detail>「工廠」で不要な艦を「解体」してみよう！</JP-Detail>
     <TR-Detail>Dismantle a ship.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>604</ID>
+    <JP-Name>はじめての「廃棄」！</JP-Name>
+    <TR-Name>First Disposal</TR-Name>
+    <JP-Detail>「工廠」で不要な装備アイテムを「廃棄」してみよう！</JP-Detail>
+    <TR-Detail>Scrap a piece of equipment.</TR-Detail>
   </Quest>
   <Quest>
     <ID>605</ID>
@@ -1025,21 +1018,21 @@
   <Quest>
     <ID>614</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>Model Conversion</TR-Name>
+    <TR-Name>Model Conversion (to Tenzan)</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
     <TR-Detail>With an aircraft carrier equipped with Type 97 Torpedo Bomber (Tomonaga Squadron) as your secretary, scrap 2 Tenzans (simultaneously) to upgrade the Type 97 to Tenzan Model 12 (Tomonaga Squadron). The Type 97 must not be locked or you'll lose the Tenzans.</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>Model Conversion</TR-Name>
+    <TR-Name>Model Conversion (to Suisei)</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
     <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Ekusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Ekusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>Model Conversion</TR-Name>
+    <TR-Name>Model Conversion (to Reppuu)</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
     <TR-Detail>With an aircraft carrier equipped with Zero Fighter Type 52 Type C (601 Air Group) as your secretary, scrap 2 Reppuus to upgrade the Type 52 to Reppuu (601 Air Group). The Type 52 must not be locked or you'll lose the Reppuus.</TR-Detail>
   </Quest>
