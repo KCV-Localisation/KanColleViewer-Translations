@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.18">
+<Quests Version="1.0.19">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -756,6 +756,7 @@
     <JP-Detail>鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！</JP-Detail>
     <TR-Detail>Deploy a fleet to World 1-5 and score 10 A rank (or above) victories at the boss node.</TR-Detail>
   </Quest>
+  <Quest>
     <ID>266</ID>
     <JP-Name>「水上反撃部隊」突入せよ！</JP-Name>
     <TR-Name>Deploy the Counterattack Squadron</TR-Name>
