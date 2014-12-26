@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.17">
+<Quests Version="1.0.18">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -328,6 +328,13 @@
     <TR-Name>Organise the Nishimura Fleet</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>148</ID>
+    <JP-Name>軽快な「水上反撃部隊」を編成せよ！</JP-Name>
+    <TR-Name>Organise the Counterattack Squadron</TR-Name>
+    <JP-Detail>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), 1 CL and 3 more DDs in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -748,6 +755,12 @@
     <TR-Name>Monthly Escort Duty</TR-Name>
     <JP-Detail>鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！</JP-Detail>
     <TR-Detail>Deploy a fleet to World 1-5 and score 10 A rank (or above) victories at the boss node.</TR-Detail>
+  </Quest>
+    <ID>266</ID>
+    <JP-Name>「水上反撃部隊」突入せよ！</JP-Name>
+    <TR-Name>Deploy the Counterattack Squadron</TR-Name>
+    <JP-Detail>駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！</JP-Detail>
+    <TR-Detail>Deploy a fleet with 1 CA, 1 CL and 4 DD to World 2-5.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
