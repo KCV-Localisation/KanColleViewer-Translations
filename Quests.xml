@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.19">
+<Quests Version="1.0.20">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -335,6 +335,20 @@
     <TR-Name>Organise the Counterattack Squadron</TR-Name>
     <JP-Detail>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), 1 CL and 3 more DDs in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>149</ID>
+    <JP-Name>「第十一駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>Organise the 11th Destroyer Division</TR-Name>
+    <JP-Detail>特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have the 4 Special-type destroyers: Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo(叢雲) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>150</ID>
+    <JP-Name>「第二一駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>Organise the 21st Destroyer Division</TR-Name>
+    <JP-Detail>「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have only Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -762,6 +776,27 @@
     <TR-Name>Deploy the Counterattack Squadron</TR-Name>
     <JP-Detail>駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！</JP-Detail>
     <TR-Detail>Deploy a fleet with 1 CA, 1 CL and 4 DD to World 2-5.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>267</ID>
+    <JP-Name>「第十一駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>Deploy the 11th Destroyer Division</TR-Name>
+    <JP-Detail>「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！</JP-Detail>
+    <TR-Detail>Deploy Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪), Murakumo(叢雲) and up to 2 additional ships to World 2-3 and score a victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>268</ID>
+    <JP-Name>「第十一駆逐隊」対潜哨戒！</JP-Name>
+    <TR-Name>11th Destroyer Division's Anti-Submarine Patrol</TR-Name>
+    <JP-Detail>「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
+    <TR-Detail>Deploy Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo(叢雲) to World 1-5 and get a score of at least C at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>269</ID>
+    <JP-Name>「第二一駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>Deploy the 21st Destroyer Division</TR-Name>
+    <JP-Detail>「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Deploy Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
