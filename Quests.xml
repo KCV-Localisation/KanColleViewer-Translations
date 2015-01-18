@@ -341,7 +341,7 @@
     <JP-Name>「第十一駆逐隊」を編成せよ！</JP-Name>
     <TR-Name>Organise the 11th Destroyer Division</TR-Name>
     <JP-Detail>特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have the 4 Special-type destroyers: Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo(叢雲) in your main fleet.</TR-Detail>
+    <TR-Detail>Have the 4 Special-type destroyers: Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo(叢雲) in your main fleet. One of them should be the flagship.</TR-Detail>
   </Quest>
   <Quest>
     <ID>150</ID>
@@ -446,7 +446,7 @@
     <JP-Name>あ号作戦</JP-Name>
     <TR-Name>Weekly Sortie 1</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
-    <TR-Detail>Deploy your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S RATING victories.</TR-Detail>
+    <TR-Detail>Deploy your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S rank victories.</TR-Detail>
   </Quest>
   <Quest>
     <ID>215</ID>
@@ -579,7 +579,7 @@
     <JP-Name>「第六戦隊」出撃せよ！</JP-Name>
     <TR-Name>Sortie the Cruiser Division 6!</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
-    <TR-Detail>Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S RATING victory or higher against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S rank victory against World 2-3 Boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
@@ -600,7 +600,7 @@
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
     <TR-Name>Weekly Sortie 7</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 5 bosses in World 3-3 and 3-4. </TR-Detail>
+    <TR-Detail>Defeat 5 bosses in Worlds 3-3, 3-4 or 3-5.</TR-Detail>
   </Quest>
   <Quest>
     <ID>242</ID>
@@ -628,14 +628,14 @@
     <JP-Name>式の準備！(最終)</JP-Name>
     <TR-Name>In Preparation of Love! (Final)</TR-Name>
     <JP-Detail>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！</JP-Detail>
-    <TR-Detail>Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S victory or higher against the boss.</TR-Detail>
+    <TR-Detail>Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>246</ID>
     <JP-Name>二人でする初めての任務！</JP-Name>
     <TR-Name>Your First Mission Together!</TR-Name>
     <JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
-    <TR-Detail>Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S victory or higher against the boss.</TR-Detail>
+    <TR-Detail>Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>247</ID>
@@ -649,7 +649,7 @@
     <JP-Name>「第三十駆逐隊」対潜哨戒！</JP-Name>
     <TR-Name>30th Destroyer Fleet's Anti-Submarine Patrol</TR-Name>
     <JP-Detail>「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Deploy Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) and Mochizuki (望月) to World 1-5.</TR-Detail>
+    <TR-Detail>Deploy Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) and Mochizuki (望月) to World 1-5 and reach the boss, scoring at least a C rank.</TR-Detail>
   </Quest>
   <Quest>
     <ID>249</ID>
