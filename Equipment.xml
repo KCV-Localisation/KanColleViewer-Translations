@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.12">
+<Equipment Version="1.0.13">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -285,11 +285,11 @@
     <TR-Name>10cm Twin High-angle Carriage Mount</TR-Name>
   </Item>
   <Item>
-    <JP-Name>増設バルジ（中型艦）</JP-Name>
+    <JP-Name>増設バルジ(中型艦)</JP-Name>
     <TR-Name>Anti-Torpedo Bulge (M)</TR-Name>
   </Item>
   <Item>
-    <JP-Name>増設バルジ（大型艦）</JP-Name>
+    <JP-Name>増設バルジ(大型艦)</JP-Name>
     <TR-Name>Anti-Torpedo Bulge (L)</TR-Name>
   </Item>
   <Item>
