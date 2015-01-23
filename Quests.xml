@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.21">
+<Quests Version="1.0.22">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -797,6 +797,13 @@
     <TR-Name>Deploy the 21st Destroyer Division</TR-Name>
     <JP-Detail>「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Deploy Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>271</ID>
+    <JP-Name>「那智戦隊」抜錨せよ！</JP-Name>
+    <TR-Name>Deploy Nachi's Squadron</TR-Name>
+    <JP-Detail>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Nachi (那智) as flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and one additional ship to world 2-2 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
