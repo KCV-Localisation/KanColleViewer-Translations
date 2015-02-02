@@ -1,1120 +1,1140 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.13">
+<?xml version="1.0" encoding="utf-8"?>
+<Ships Version="1.0.20">
   <Ship>
     <JP-Name>長門</JP-Name>
-    <TR-Name>Nagato</TR-Name>
+    <TR-Name>长门</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長門改</JP-Name>
-    <TR-Name>Nagato Kai</TR-Name>
+    <TR-Name>长门改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陸奥</JP-Name>
-    <TR-Name>Mutsu</TR-Name>
+    <TR-Name>陆奥</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陸奥改</JP-Name>
-    <TR-Name>Mutsu Kai</TR-Name>
+    <TR-Name>陆奥改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊勢</JP-Name>
-    <TR-Name>Ise</TR-Name>
+    <TR-Name>伊势</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊勢改</JP-Name>
-    <TR-Name>Ise Kai</TR-Name>
+    <TR-Name>伊势改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>日向</JP-Name>
-    <TR-Name>Hyuuga</TR-Name>
+    <TR-Name>日向</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>日向改</JP-Name>
-    <TR-Name>Hyuuga Kai</TR-Name>
+    <TR-Name>日向改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雪風</JP-Name>
-    <TR-Name>Yukikaze</TR-Name>
+    <TR-Name>雪风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雪風改</JP-Name>
-    <TR-Name>Yukikaze Kai</TR-Name>
+    <TR-Name>雪风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>赤城</JP-Name>
-    <TR-Name>Akagi</TR-Name>
+    <TR-Name>赤城</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>赤城改</JP-Name>
-    <TR-Name>Akagi Kai</TR-Name>
+    <TR-Name>赤城改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>加賀</JP-Name>
-    <TR-Name>Kaga</TR-Name>
+    <TR-Name>加贺</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>加賀改</JP-Name>
-    <TR-Name>Kaga Kai</TR-Name>
+    <TR-Name>加贺改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>蒼龍</JP-Name>
-    <TR-Name>Souryuu</TR-Name>
+    <TR-Name>苍龙</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>蒼龍改</JP-Name>
-    <TR-Name>Souryuu Kai</TR-Name>
+    <TR-Name>苍龙改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛龍</JP-Name>
-    <TR-Name>Hiryuu</TR-Name>
+    <TR-Name>飞龙</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛龍改</JP-Name>
-    <TR-Name>Hiryuu Kai</TR-Name>
+    <TR-Name>飞龙改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>島風</JP-Name>
-    <TR-Name>Shimakaze</TR-Name>
+    <TR-Name>岛风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>島風改</JP-Name>
-    <TR-Name>Shimakaze Kai</TR-Name>
+    <TR-Name>岛风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>吹雪</JP-Name>
-    <TR-Name>Fubuki</TR-Name>
+    <TR-Name>吹雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>吹雪改</JP-Name>
-    <TR-Name>Fubuki Kai</TR-Name>
+    <TR-Name>吹雪改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>吹雪改二</JP-Name>
+    <TR-Name>吹雪改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白雪</JP-Name>
-    <TR-Name>Shirayuki</TR-Name>
+    <TR-Name>白雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白雪改</JP-Name>
-    <TR-Name>Shirayuki Kai</TR-Name>
+    <TR-Name>白雪改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初雪</JP-Name>
-    <TR-Name>Hatsuyuki</TR-Name>
+    <TR-Name>初雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初雪改</JP-Name>
-    <TR-Name>Hatsuyuki Kai</TR-Name>
+    <TR-Name>初雪改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>深雪</JP-Name>
-    <TR-Name>Miyuki</TR-Name>
+    <TR-Name>深雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>深雪改</JP-Name>
-    <TR-Name>Miyuki Kai</TR-Name>
+    <TR-Name>深雪改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>叢雲</JP-Name>
-    <TR-Name>Murakumo</TR-Name>
+    <TR-Name>丛云</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>叢雲改</JP-Name>
-    <TR-Name>Murakumo Kai</TR-Name>
+    <TR-Name>丛云改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯波</JP-Name>
-    <TR-Name>Isonami</TR-Name>
+    <TR-Name>矶波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯波改</JP-Name>
-    <TR-Name>Isonami Kai</TR-Name>
+    <TR-Name>矶波改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>綾波</JP-Name>
-    <TR-Name>Ayanami</TR-Name>
+    <TR-Name>绫波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>綾波改</JP-Name>
-    <TR-Name>Ayanami Kai</TR-Name>
+    <TR-Name>绫波改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>敷波</JP-Name>
-    <TR-Name>Shikinami</TR-Name>
+    <TR-Name>敷波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>敷波改</JP-Name>
-    <TR-Name>Shikinami Kai</TR-Name>
+    <TR-Name>敷波改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大井</JP-Name>
-    <TR-Name>Ooi</TR-Name>
+    <TR-Name>大井</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大井改</JP-Name>
-    <TR-Name>Ooi Kai</TR-Name>
+    <TR-Name>大井改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大井改二</JP-Name>
-    <TR-Name>Ooi Kai2</TR-Name>
+    <TR-Name>大井改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>北上</JP-Name>
-    <TR-Name>Kitakami</TR-Name>
+    <TR-Name>北上</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>北上改</JP-Name>
-    <TR-Name>Kitakami Kai</TR-Name>
+    <TR-Name>北上改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>北上改二</JP-Name>
-    <TR-Name>Kitakami Kai2</TR-Name>
+    <TR-Name>北上改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>金剛</JP-Name>
-    <TR-Name>Kongou</TR-Name>
+    <TR-Name>金刚</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>金剛改</JP-Name>
-    <TR-Name>Kongou Kai</TR-Name>
+    <TR-Name>金刚改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>金剛改二</JP-Name>
-    <TR-Name>Kongou Kai2</TR-Name>
+    <TR-Name>金刚改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>比叡</JP-Name>
-    <TR-Name>Hiei</TR-Name>
+    <TR-Name>比睿</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>比叡改</JP-Name>
-    <TR-Name>Hiei Kai</TR-Name>
+    <TR-Name>比睿改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>比叡改二</JP-Name>
-    <TR-Name>Hiei Kai2</TR-Name>
+    <TR-Name>比睿改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>榛名</JP-Name>
-    <TR-Name>Haruna</TR-Name>
+    <TR-Name>榛名</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>榛名改</JP-Name>
-    <TR-Name>Haruna Kai</TR-Name>
+    <TR-Name>榛名改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霧島</JP-Name>
-    <TR-Name>Kirishima</TR-Name>
+    <TR-Name>雾岛</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霧島改</JP-Name>
-    <TR-Name>Kirishima Kai</TR-Name>
+    <TR-Name>雾岛改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霧島改二</JP-Name>
-    <TR-Name>Kirishima Kai2</TR-Name>
+    <TR-Name>雾岛改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳳翔</JP-Name>
-    <TR-Name>Houshou</TR-Name>
+    <TR-Name>凤翔</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳳翔改</JP-Name>
-    <TR-Name>Houshou Kai</TR-Name>
+    <TR-Name>凤翔改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>扶桑</JP-Name>
-    <TR-Name>Fusou</TR-Name>
+    <TR-Name>扶桑</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>扶桑改</JP-Name>
-    <TR-Name>Fusou Kai</TR-Name>
+    <TR-Name>扶桑改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>山城</JP-Name>
-    <TR-Name>Yamashiro</TR-Name>
+    <TR-Name>山城</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>山城改</JP-Name>
-    <TR-Name>Yamashiro Kai</TR-Name>
+    <TR-Name>山城改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天龍</JP-Name>
-    <TR-Name>Tenryuu</TR-Name>
+    <TR-Name>天龙</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天龍改</JP-Name>
-    <TR-Name>Tenryuu Kai</TR-Name>
+    <TR-Name>天龙改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍田</JP-Name>
-    <TR-Name>Tatsuta</TR-Name>
+    <TR-Name>龙田</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍田改</JP-Name>
-    <TR-Name>Tatsuta Kai</TR-Name>
+    <TR-Name>龙田</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍驤</JP-Name>
-    <TR-Name>Ryuujou</TR-Name>
+    <TR-Name>龙骧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍驤改</JP-Name>
-    <TR-Name>Ryuujou Kai</TR-Name>
+    <TR-Name>龙骧改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>睦月</JP-Name>
-    <TR-Name>Mutsuki</TR-Name>
+    <TR-Name>睦月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>睦月改</JP-Name>
-    <TR-Name>Mutsuki Kai</TR-Name>
+    <TR-Name>睦月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>如月</JP-Name>
-    <TR-Name>Kisaragi</TR-Name>
+    <TR-Name>如月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>如月改</JP-Name>
-    <TR-Name>Kisaragi Kai</TR-Name>
+    <TR-Name>如月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>皐月</JP-Name>
-    <TR-Name>Satsuki</TR-Name>
+    <TR-Name>皋月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>皐月改</JP-Name>
-    <TR-Name>Satsuki Kai</TR-Name>
+    <TR-Name>皋月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>文月</JP-Name>
-    <TR-Name>Fumizuki</TR-Name>
+    <TR-Name>文月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>文月改</JP-Name>
-    <TR-Name>Fumizuki Kai</TR-Name>
+    <TR-Name>文月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長月</JP-Name>
-    <TR-Name>Nagatsuki</TR-Name>
+    <TR-Name>长月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長月改</JP-Name>
-    <TR-Name>Nagatsuki Kai</TR-Name>
+    <TR-Name>长月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>菊月</JP-Name>
-    <TR-Name>Kikuzuki</TR-Name>
+    <TR-Name>菊月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>菊月改</JP-Name>
-    <TR-Name>Kikuzuki Kai</TR-Name>
+    <TR-Name>菊月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>三日月</JP-Name>
-    <TR-Name>Mikazuki</TR-Name>
+    <TR-Name>三日月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>三日月改</JP-Name>
-    <TR-Name>Mikazuki Kai</TR-Name>
+    <TR-Name>三日月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>望月</JP-Name>
-    <TR-Name>Mochizuki</TR-Name>
+    <TR-Name>望月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>望月改</JP-Name>
-    <TR-Name>Mochizuki Kai</TR-Name>
+    <TR-Name>望月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>球磨</JP-Name>
-    <TR-Name>Kuma</TR-Name>
+    <TR-Name>球磨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>球磨改</JP-Name>
-    <TR-Name>Kuma Kai</TR-Name>
+    <TR-Name>球磨改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>多摩</JP-Name>
-    <TR-Name>Tama</TR-Name>
+    <TR-Name>多摩</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>多摩改</JP-Name>
-    <TR-Name>Tama Kai</TR-Name>
+    <TR-Name>多摩改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>木曾</JP-Name>
-    <TR-Name>Kiso</TR-Name>
+    <TR-Name>木曾</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>木曾改</JP-Name>
-    <TR-Name>Kiso Kai</TR-Name>
+    <TR-Name>木曾改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>木曾改二</JP-Name>
-    <TR-Name>Kiso Kai2</TR-Name>
+    <TR-Name>木曾改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長良</JP-Name>
-    <TR-Name>Nagara</TR-Name>
+    <TR-Name>长良</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長良改</JP-Name>
-    <TR-Name>Nagara Kai</TR-Name>
+    <TR-Name>长良改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五十鈴</JP-Name>
-    <TR-Name>Isuzu</TR-Name>
+    <TR-Name>五十铃</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五十鈴改</JP-Name>
-    <TR-Name>Isuzu Kai</TR-Name>
+    <TR-Name>五十铃改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五十鈴改二</JP-Name>
-    <TR-Name>Isuzu Kai2</TR-Name>
+    <TR-Name>五十铃改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>名取</JP-Name>
-    <TR-Name>Natori</TR-Name>
+    <TR-Name>名取</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>名取改</JP-Name>
-    <TR-Name>Natori Kai</TR-Name>
+    <TR-Name>名取改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>由良</JP-Name>
-    <TR-Name>Yura</TR-Name>
+    <TR-Name>由良</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>由良改</JP-Name>
-    <TR-Name>Yura Kai</TR-Name>
+    <TR-Name>由良改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>川内</JP-Name>
-    <TR-Name>Sendai</TR-Name>
+    <TR-Name>川内</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>川内改</JP-Name>
-    <TR-Name>Sendai Kai</TR-Name>
+    <TR-Name>川内改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>神通</JP-Name>
-    <TR-Name>Jintsuu</TR-Name>
+    <TR-Name>神通</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>神通改</JP-Name>
-    <TR-Name>Jintsuu Kai</TR-Name>
+    <TR-Name>神通改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>神通改二</JP-Name>
-    <TR-Name>Jintsuu Kai2</TR-Name>
+    <TR-Name>神通改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那珂</JP-Name>
-    <TR-Name>Naka</TR-Name>
+    <TR-Name>那珂</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那珂改</JP-Name>
-    <TR-Name>Naka Kai</TR-Name>
+    <TR-Name>那珂改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那珂改二</JP-Name>
-    <TR-Name>Naka Kai2</TR-Name>
+    <TR-Name>那珂改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳</JP-Name>
-    <TR-Name>Chitose</TR-Name>
+    <TR-Name>千岁</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳改</JP-Name>
-    <TR-Name>Chitose Kai</TR-Name>
+    <TR-Name>千岁改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳甲</JP-Name>
-    <TR-Name>Chitose A</TR-Name>
+    <TR-Name>千岁甲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳航</JP-Name>
-    <TR-Name>Chitose CVL</TR-Name>
+    <TR-Name>千岁航</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳航改</JP-Name>
-    <TR-Name>Chitose CVL Kai</TR-Name>
+    <TR-Name>千岁航改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳航改二</JP-Name>
-    <TR-Name>Chitose CVL Kai2</TR-Name>
+    <TR-Name>千岁航改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田</JP-Name>
-    <TR-Name>Chiyoda</TR-Name>
+    <TR-Name>千代田</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田改</JP-Name>
-    <TR-Name>Chiyoda Kai</TR-Name>
+    <TR-Name>千代田改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田甲</JP-Name>
-    <TR-Name>Chiyoda A</TR-Name>
+    <TR-Name>千代田甲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田航</JP-Name>
-    <TR-Name>Chiyoda CVL</TR-Name>
+    <TR-Name>千代田航</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田航改</JP-Name>
-    <TR-Name>Chiyoda CVL Kai</TR-Name>
+    <TR-Name>千代田航改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田航改二</JP-Name>
-    <TR-Name>Chiyoda CVL Kai2</TR-Name>
+    <TR-Name>千代田航改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>最上</JP-Name>
-    <TR-Name>Mogami</TR-Name>
+    <TR-Name>最上</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>最上改</JP-Name>
-    <TR-Name>Mogami Kai</TR-Name>
+    <TR-Name>最上改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>古鷹</JP-Name>
-    <TR-Name>Furutaka</TR-Name>
+    <TR-Name>古鹰</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>古鷹改</JP-Name>
-    <TR-Name>Furutaka Kai</TR-Name>
+    <TR-Name>古鹰改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>古鷹改二</JP-Name>
+    <TR-Name>古鹰改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>加古</JP-Name>
-    <TR-Name>Kako</TR-Name>
+    <TR-Name>加古</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>加古改</JP-Name>
-    <TR-Name>Kako Kai</TR-Name>
+    <TR-Name>加古改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>青葉</JP-Name>
-    <TR-Name>Aoba</TR-Name>
+    <TR-Name>青叶</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>青葉改</JP-Name>
-    <TR-Name>Aoba Kai</TR-Name>
+    <TR-Name>青叶改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>妙高</JP-Name>
-    <TR-Name>Myoukou</TR-Name>
+    <TR-Name>妙高</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>妙高改</JP-Name>
-    <TR-Name>Myoukou Kai</TR-Name>
+    <TR-Name>妙高改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那智</JP-Name>
-    <TR-Name>Nachi</TR-Name>
+    <TR-Name>那智</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那智改</JP-Name>
-    <TR-Name>Nachi Kai</TR-Name>
+    <TR-Name>那智改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>那智改二</JP-Name>
+    <TR-Name>那智改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>足柄</JP-Name>
-    <TR-Name>Ashigara</TR-Name>
+    <TR-Name>足柄</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>足柄改</JP-Name>
-    <TR-Name>Ashigara Kai</TR-Name>
+    <TR-Name>足柄改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>足柄改二</JP-Name>
+    <TR-Name>足柄改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>羽黒</JP-Name>
-    <TR-Name>Haguro</TR-Name>
+    <TR-Name>羽黑</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>羽黒改</JP-Name>
-    <TR-Name>Haguro Kai</TR-Name>
+    <TR-Name>羽黑改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>高雄</JP-Name>
-    <TR-Name>Takao</TR-Name>
+    <TR-Name>高雄</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>高雄改</JP-Name>
-    <TR-Name>Takao Kai</TR-Name>
+    <TR-Name>高雄改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>愛宕</JP-Name>
-    <TR-Name>Atago</TR-Name>
+    <TR-Name>爱宕</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>愛宕改</JP-Name>
-    <TR-Name>Atago Kai</TR-Name>
+    <TR-Name>爱宕改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>摩耶</JP-Name>
-    <TR-Name>Maya</TR-Name>
+    <TR-Name>摩耶</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>摩耶改</JP-Name>
-    <TR-Name>Maya Kai</TR-Name>
+    <TR-Name>摩耶改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳥海</JP-Name>
-    <TR-Name>Choukai</TR-Name>
+    <TR-Name>鸟海</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳥海改</JP-Name>
-    <TR-Name>Choukai Kai</TR-Name>
+    <TR-Name>鸟海改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>利根</JP-Name>
-    <TR-Name>Tone</TR-Name>
+    <TR-Name>利根</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>利根改</JP-Name>
-    <TR-Name>Tone Kai</TR-Name>
+    <TR-Name>利根改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>利根改二</JP-Name>
-    <TR-Name>Tone Kai2</TR-Name>
+    <TR-Name>利根改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>筑摩</JP-Name>
-    <TR-Name>Chikuma</TR-Name>
+    <TR-Name>筑摩</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>筑摩改</JP-Name>
-    <TR-Name>Chikuma Kai</TR-Name>
+    <TR-Name>筑摩改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>筑摩改二</JP-Name>
-    <TR-Name>Chikuma Kai2</TR-Name>
+    <TR-Name>筑摩改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛鷹</JP-Name>
-    <TR-Name>Hiyou</TR-Name>
+    <TR-Name>飞鹰</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛鷹改</JP-Name>
-    <TR-Name>Hiyou Kai</TR-Name>
+    <TR-Name>飞鹰改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>隼鷹</JP-Name>
-    <TR-Name>Junyou</TR-Name>
+    <TR-Name>隼鹰</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>隼鷹改</JP-Name>
-    <TR-Name>Junyou Kai</TR-Name>
+    <TR-Name>隼鹰改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朧</JP-Name>
-    <TR-Name>Oboro</TR-Name>
+    <TR-Name>胧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朧改</JP-Name>
-    <TR-Name>Oboro Kai</TR-Name>
+    <TR-Name>胧改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>曙</JP-Name>
-    <TR-Name>Akebono</TR-Name>
+    <TR-Name>曙</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>曙改</JP-Name>
-    <TR-Name>Akebono Kai</TR-Name>
+    <TR-Name>曙改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>漣</JP-Name>
-    <TR-Name>Sazanami</TR-Name>
+    <TR-Name>涟</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>漣改</JP-Name>
-    <TR-Name>Sazanami Kai</TR-Name>
+    <TR-Name>涟改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>潮</JP-Name>
-    <TR-Name>Ushio</TR-Name>
+    <TR-Name>潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>潮改</JP-Name>
-    <TR-Name>Ushio Kai</TR-Name>
+    <TR-Name>潮改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>暁</JP-Name>
-    <TR-Name>Akatsuki</TR-Name>
+    <TR-Name>晓</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>暁改</JP-Name>
-    <TR-Name>Akatsuki Kai</TR-Name>
+    <TR-Name>晓改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>響</JP-Name>
-    <TR-Name>Hibiki</TR-Name>
+    <TR-Name>响</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>響改</JP-Name>
-    <TR-Name>Hibiki Kai</TR-Name>
+    <TR-Name>响改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Верный</JP-Name>
-    <TR-Name>Vérnyj</TR-Name>
+    <TR-Name>Верный</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雷</JP-Name>
-    <TR-Name>Ikazuchi</TR-Name>
+    <TR-Name>雷</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雷改</JP-Name>
-    <TR-Name>Ikazuchi Kai</TR-Name>
+    <TR-Name>雷改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>電</JP-Name>
-    <TR-Name>Inazuma</TR-Name>
+    <TR-Name>电</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>電改</JP-Name>
-    <TR-Name>Inazuma Kai</TR-Name>
+    <TR-Name>电改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初春</JP-Name>
-    <TR-Name>Hatsuharu</TR-Name>
+    <TR-Name>初春</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初春改</JP-Name>
-    <TR-Name>Hatsuharu Kai</TR-Name>
+    <TR-Name>初春改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>子日</JP-Name>
-    <TR-Name>Nenohi</TR-Name>
+    <TR-Name>子日</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>子日改</JP-Name>
-    <TR-Name>Nenohi Kai</TR-Name>
+    <TR-Name>子日改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>若葉</JP-Name>
-    <TR-Name>Wakaba</TR-Name>
+    <TR-Name>若叶</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>若葉改</JP-Name>
-    <TR-Name>Wakaba Kai</TR-Name>
+    <TR-Name>若叶改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初霜</JP-Name>
-    <TR-Name>Hatsushimo</TR-Name>
+    <TR-Name>初霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初霜改</JP-Name>
-    <TR-Name>Hatsushimo Kai</TR-Name>
+    <TR-Name>初霜改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>初霜改二</JP-Name>
+    <TR-Name>初霜改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白露</JP-Name>
-    <TR-Name>Shiratsuyu</TR-Name>
+    <TR-Name>白露</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白露改</JP-Name>
-    <TR-Name>Shiratsuyu Kai</TR-Name>
+    <TR-Name>白露改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時雨</JP-Name>
-    <TR-Name>Shigure</TR-Name>
+    <TR-Name>时雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時雨改</JP-Name>
-    <TR-Name>Shigure Kai</TR-Name>
+    <TR-Name>时雨改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時雨改二</JP-Name>
-    <TR-Name>Shigure Kai2</TR-Name>
+    <TR-Name>时雨改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>村雨</JP-Name>
-    <TR-Name>Murasame</TR-Name>
+    <TR-Name>村雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>村雨改</JP-Name>
-    <TR-Name>Murasame Kai</TR-Name>
+    <TR-Name>村雨改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕立</JP-Name>
-    <TR-Name>Yuudachi</TR-Name>
+    <TR-Name>夕立</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕立改</JP-Name>
-    <TR-Name>Yuudachi Kai</TR-Name>
+    <TR-Name>夕立改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕立改二</JP-Name>
-    <TR-Name>Yuudachi Kai2</TR-Name>
+    <TR-Name>夕立改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五月雨</JP-Name>
-    <TR-Name>Samidare</TR-Name>
+    <TR-Name>五月雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五月雨改</JP-Name>
-    <TR-Name>Samidare Kai</TR-Name>
+    <TR-Name>五月雨改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>涼風</JP-Name>
-    <TR-Name>Suzukaze</TR-Name>
+    <TR-Name>凉风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>涼風改</JP-Name>
-    <TR-Name>Suzukaze Kai</TR-Name>
+    <TR-Name>凉风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朝潮</JP-Name>
-    <TR-Name>Asashio</TR-Name>
+    <TR-Name>朝潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朝潮改</JP-Name>
-    <TR-Name>Asashio Kai</TR-Name>
+    <TR-Name>朝潮改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大潮</JP-Name>
-    <TR-Name>Ooshio</TR-Name>
+    <TR-Name>大潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大潮改</JP-Name>
-    <TR-Name>Ooshio Kai</TR-Name>
+    <TR-Name>大潮改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>満潮</JP-Name>
-    <TR-Name>Michishio</TR-Name>
+    <TR-Name>满潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>満潮改</JP-Name>
-    <TR-Name>Michishio Kai</TR-Name>
+    <TR-Name>满潮改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>荒潮</JP-Name>
-    <TR-Name>Arashio</TR-Name>
+    <TR-Name>荒潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>荒潮改</JP-Name>
-    <TR-Name>Arashio Kai</TR-Name>
+    <TR-Name>荒潮改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霰</JP-Name>
-    <TR-Name>Arare</TR-Name>
+    <TR-Name>霰</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霰改</JP-Name>
-    <TR-Name>Arare Kai</TR-Name>
+    <TR-Name>霰改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霞</JP-Name>
-    <TR-Name>Kasumi</TR-Name>
+    <TR-Name>霞</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霞改</JP-Name>
-    <TR-Name>Kasumi Kai</TR-Name>
+    <TR-Name>霞改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陽炎</JP-Name>
-    <TR-Name>Kagerou</TR-Name>
+    <TR-Name>阳炎</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陽炎改</JP-Name>
-    <TR-Name>Kagerou Kai</TR-Name>
+    <TR-Name>阳炎改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>不知火</JP-Name>
-    <TR-Name>Shiranui</TR-Name>
+    <TR-Name>不知火</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>不知火改</JP-Name>
-    <TR-Name>Shiranui Kai</TR-Name>
+    <TR-Name>不知火改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>黒潮</JP-Name>
-    <TR-Name>Kuroshio</TR-Name>
+    <TR-Name>黑潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>黒潮改</JP-Name>
-    <TR-Name>Kuroshio Kai</TR-Name>
+    <TR-Name>黑潮改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>祥鳳</JP-Name>
-    <TR-Name>Shouhou</TR-Name>
+    <TR-Name>祥凤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>祥鳳改</JP-Name>
-    <TR-Name>Shouhou Kai</TR-Name>
+    <TR-Name>祥凤改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>翔鶴</JP-Name>
-    <TR-Name>Shoukaku</TR-Name>
+    <TR-Name>翔鹤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>翔鶴改</JP-Name>
-    <TR-Name>Shoukaku Kai</TR-Name>
+    <TR-Name>翔鹤改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鶴</JP-Name>
-    <TR-Name>Zuikaku</TR-Name>
+    <TR-Name>瑞鹤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鶴改</JP-Name>
-    <TR-Name>Zuikaku Kai</TR-Name>
+    <TR-Name>瑞鹤改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鬼怒</JP-Name>
-    <TR-Name>Kinu</TR-Name>
+    <TR-Name>鬼怒</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鬼怒改</JP-Name>
-    <TR-Name>Kinu Kai</TR-Name>
+    <TR-Name>鬼怒改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>阿武隈</JP-Name>
-    <TR-Name>Abukuma</TR-Name>
+    <TR-Name>阿武隈</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>阿武隈改</JP-Name>
-    <TR-Name>Abukuma Kai</TR-Name>
+    <TR-Name>阿武隈改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕張</JP-Name>
-    <TR-Name>Yuubari</TR-Name>
+    <TR-Name>夕张</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕張改</JP-Name>
-    <TR-Name>Yuubari Kai</TR-Name>
+    <TR-Name>夕张改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鳳</JP-Name>
-    <TR-Name>Zuihou</TR-Name>
+    <TR-Name>瑞凤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鳳改</JP-Name>
-    <TR-Name>Zuihou Kai</TR-Name>
+    <TR-Name>瑞凤改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>三隈</JP-Name>
-    <TR-Name>Mikuma</TR-Name>
+    <TR-Name>三隈</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>三隈改</JP-Name>
-    <TR-Name>Mikuma Kai</TR-Name>
+    <TR-Name>三隈改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初風</JP-Name>
-    <TR-Name>Hatsukaze</TR-Name>
+    <TR-Name>初风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初風改</JP-Name>
-    <TR-Name>Hatsukaze Kai</TR-Name>
+    <TR-Name>初风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>舞風</JP-Name>
-    <TR-Name>Maikaze</TR-Name>
+    <TR-Name>舞风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>舞風改</JP-Name>
-    <TR-Name>Maikaze Kai</TR-Name>
+    <TR-Name>舞风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>衣笠</JP-Name>
-    <TR-Name>Kinugasa</TR-Name>
+    <TR-Name>衣笠</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>衣笠改</JP-Name>
-    <TR-Name>Kinugasa Kai</TR-Name>
+    <TR-Name>衣笠改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>衣笠改二</JP-Name>
-    <TR-Name>Kinugasa Kai2</TR-Name>
+    <TR-Name>衣笠改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊19</JP-Name>
-    <TR-Name>I-19</TR-Name>
+    <TR-Name>伊19</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊19改</JP-Name>
-    <TR-Name>I-19 Kai</TR-Name>
+    <TR-Name>伊19改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鈴谷</JP-Name>
-    <TR-Name>Suzuya</TR-Name>
+    <TR-Name>铃谷</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鈴谷改</JP-Name>
-    <TR-Name>Suzuya Kai</TR-Name>
+    <TR-Name>铃谷改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>熊野</JP-Name>
-    <TR-Name>Kumano</TR-Name>
+    <TR-Name>熊野</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>熊野改</JP-Name>
-    <TR-Name>Kumano Kai</TR-Name>
+    <TR-Name>熊野改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊168</JP-Name>
-    <TR-Name>I-168</TR-Name>
+    <TR-Name>伊168</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊168改</JP-Name>
-    <TR-Name>I-168 Kai</TR-Name>
+    <TR-Name>伊168改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊58</JP-Name>
-    <TR-Name>I-58</TR-Name>
+    <TR-Name>伊58</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊58改</JP-Name>
-    <TR-Name>I-58 Kai</TR-Name>
+    <TR-Name>伊58改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊8</JP-Name>
-    <TR-Name>I-8</TR-Name>
+    <TR-Name>伊8</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊8改</JP-Name>
-    <TR-Name>I-8 Kai</TR-Name>
+    <TR-Name>伊8改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大和</JP-Name>
-    <TR-Name>Yamato</TR-Name>
+    <TR-Name>大和</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大和改</JP-Name>
-    <TR-Name>Yamato Kai</TR-Name>
+    <TR-Name>大和改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>秋雲</JP-Name>
-    <TR-Name>Akigumo</TR-Name>
+    <TR-Name>秋云</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>秋雲改</JP-Name>
-    <TR-Name>Akigumo Kai</TR-Name>
+    <TR-Name>秋云改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕雲</JP-Name>
-    <TR-Name>Yuugumo</TR-Name>
+    <TR-Name>夕云</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕雲改</JP-Name>
-    <TR-Name>Yuugumo Kai</TR-Name>
+    <TR-Name>夕云改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>巻雲</JP-Name>
-    <TR-Name>Makigumo</TR-Name>
+    <TR-Name>卷云</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>巻雲改</JP-Name>
-    <TR-Name>Makigumo Kai</TR-Name>
+    <TR-Name>卷云改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長波</JP-Name>
-    <TR-Name>Naganami</TR-Name>
+    <TR-Name>长波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長波改</JP-Name>
-    <TR-Name>Naganami Kai</TR-Name>
+    <TR-Name>长波改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>阿賀野</JP-Name>
-    <TR-Name>Agano</TR-Name>
+    <TR-Name>阿贺野</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>阿賀野改</JP-Name>
-    <TR-Name>Agano Kai</TR-Name>
+    <TR-Name>阿贺野改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>能代</JP-Name>
-    <TR-Name>Noshiro</TR-Name>
+    <TR-Name>能代</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>能代改</JP-Name>
-    <TR-Name>Noshiro Kai</TR-Name>
+    <TR-Name>能代改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>矢矧</JP-Name>
-    <TR-Name>Yahagi</TR-Name>
+    <TR-Name>矢矧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>矢矧改</JP-Name>
-    <TR-Name>Yahagi Kai</TR-Name>
+    <TR-Name>矢矧改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>武蔵</JP-Name>
-    <TR-Name>Musashi</TR-Name>
+    <TR-Name>武藏</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>武蔵改</JP-Name>
-    <TR-Name>Musashi Kai</TR-Name>
+    <TR-Name>武藏改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大鳳</JP-Name>
-    <TR-Name>Taihou</TR-Name>
+    <TR-Name>大凤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大鳳改</JP-Name>
-    <TR-Name>Taihou Kai</TR-Name>
+    <TR-Name>大凤改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊401</JP-Name>
-    <TR-Name>I-401</TR-Name>
+    <TR-Name>伊401</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊401改</JP-Name>
-    <TR-Name>I-401 Kai</TR-Name>
+    <TR-Name>伊401改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>あきつ丸</JP-Name>
-    <TR-Name>Akitsu Maru</TR-Name>
+    <TR-Name>秋津丸</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>あきつ丸改</JP-Name>
-    <TR-Name>Akitsu Maru Kai</TR-Name>
+    <TR-Name>秋津丸改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>まるゆ</JP-Name>
-    <TR-Name>Maruyu</TR-Name>
+    <TR-Name>圈由</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>まるゆ改</JP-Name>
-    <TR-Name>Maruyu Kai</TR-Name>
+    <TR-Name>圈由改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>弥生</JP-Name>
-    <TR-Name>Yayoi</TR-Name>
+    <TR-Name>弥生</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>弥生改</JP-Name>
-    <TR-Name>Yayoi Kai</TR-Name>
+    <TR-Name>弥生改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>卯月</JP-Name>
-    <TR-Name>Uzuki</TR-Name>
+    <TR-Name>卯月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>卯月改</JP-Name>
-    <TR-Name>Uzuki Kai</TR-Name>
+    <TR-Name>卯月改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>イオナ</JP-Name>
-    <TR-Name>IONA</TR-Name>
+    <TR-Name>伊欧娜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>タカオ</JP-Name>
-    <TR-Name>TAKAO</TR-Name>
+    <TR-Name>雾舰高雄</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>ハルナ</JP-Name>
-    <TR-Name>HARUNA</TR-Name>
+    <TR-Name>雾舰榛名</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Bismarck</JP-Name>
-    <TR-Name>Bismarck</TR-Name>
+    <TR-Name>俾斯麦</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Bismarck改</JP-Name>
-    <TR-Name>Bismarck Kai</TR-Name>
+    <TR-Name>俾斯麦改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Bismarck zwei</JP-Name>
-    <TR-Name>Bismarck zwei</TR-Name>
+    <TR-Name>俾斯麦 zwei</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Z1</JP-Name>
@@ -1122,11 +1142,11 @@
   </Ship>
   <Ship>
     <JP-Name>Z1改</JP-Name>
-    <TR-Name>Z1 Kai</TR-Name>
+    <TR-Name>Z1改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Z1 zwei</JP-Name>
-    <TR-Name>Z1 Zwei</TR-Name>
+    <TR-Name>Z1 zwei</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Z3</JP-Name>
@@ -1134,158 +1154,222 @@
   </Ship>
   <Ship>
     <JP-Name>Z3改</JP-Name>
-    <TR-Name>Z3 Kai</TR-Name>
+    <TR-Name>Z3改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Z3 zwei</JP-Name>
-    <TR-Name>Z3 Zwei</TR-Name>
+    <TR-Name>Z3 zwei</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浜風</JP-Name>
-    <TR-Name>Hamakaze</TR-Name>
+    <TR-Name>浜风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浜風改</JP-Name>
-    <TR-Name>Hamakaze Kai</TR-Name>
+    <TR-Name>浜风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天津風</JP-Name>
-    <TR-Name>Amatsukaze</TR-Name>
+    <TR-Name>天津风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天津風改</JP-Name>
-    <TR-Name>Amatsukaze Kai</TR-Name>
+    <TR-Name>天津风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>谷風</JP-Name>
-    <TR-Name>Tanikaze</TR-Name>
+    <TR-Name>谷风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>谷風改</JP-Name>
-    <TR-Name>Tanikaze Kai</TR-Name>
+    <TR-Name>谷风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>明石</JP-Name>
-    <TR-Name>Akashi</TR-Name>
+    <TR-Name>明石</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>明石改</JP-Name>
-    <TR-Name>Akashi Kai</TR-Name>
+    <TR-Name>明石改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>酒匂</JP-Name>
-    <TR-Name>Sakawa</TR-Name>
+    <TR-Name>酒匂</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>酒匂改</JP-Name>
-    <TR-Name>Sakawa Kai</TR-Name>
+    <TR-Name>酒匂改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浦風</JP-Name>
-    <TR-Name>Urakaze</TR-Name>
+    <TR-Name>浦风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浦風改</JP-Name>
-    <TR-Name>Urakaze Kai</TR-Name>
+    <TR-Name>浦风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>羽黒改二</JP-Name>
-    <TR-Name>Haguro Kai2</TR-Name>
+    <TR-Name>羽黑改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍驤改二</JP-Name>
-    <TR-Name>Ryuujou Kai2</TR-Name>
+    <TR-Name>龙骧改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛龍改二</JP-Name>
-    <TR-Name>Hiryuu Kai2</TR-Name>
+    <TR-Name>飞龙改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>蒼龍改二</JP-Name>
-    <TR-Name>Souryuu Kai2</TR-Name>
+    <TR-Name>苍龙改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大鯨</JP-Name>
-    <TR-Name>Taigei</TR-Name>
+    <TR-Name>大鲸</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍鳳</JP-Name>
-    <TR-Name>Ryuuhou</TR-Name>
+    <TR-Name>龙凤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍鳳改</JP-Name>
-    <TR-Name>Ryuuhou Kai</TR-Name>
+    <TR-Name>龙凤改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>川内改二</JP-Name>
-    <TR-Name>Sendai Kai2</TR-Name>
+    <TR-Name>川内改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>綾波改二</JP-Name>
-    <TR-Name>Ayanami Kai2</TR-Name>
+    <TR-Name>绫波改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>妙高改二</JP-Name>
-    <TR-Name>Myoukou Kai2</TR-Name>
+    <TR-Name>妙高改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>榛名改二</JP-Name>
-    <TR-Name>Haruna Kai2</TR-Name>
+    <TR-Name>榛名改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯風</JP-Name>
-    <TR-Name>Isokaze</TR-Name>
+    <TR-Name>矶风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯風改</JP-Name>
-    <TR-Name>Isokaze Kai</TR-Name>
+    <TR-Name>矶风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大淀</JP-Name>
-    <TR-Name>Ooyodo</TR-Name>
+    <TR-Name>大淀</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大淀改</JP-Name>
-    <TR-Name>Ooyodo Kai</TR-Name>
+    <TR-Name>大淀改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時津風</JP-Name>
-    <TR-Name>Tokitsukaze</TR-Name>
+    <TR-Name>时津风</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時津風改</JP-Name>
-    <TR-Name>Tokitsukaze Kai</TR-Name>
+    <TR-Name>时津风改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雲龍</JP-Name>
-    <TR-Name>Unryuu</TR-Name>
+    <TR-Name>云龙</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雲龍改</JP-Name>
-    <TR-Name>Unryuu Kai</TR-Name>
+    <TR-Name>云龙改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>春雨</JP-Name>
-    <TR-Name>Harusame</TR-Name>
+    <TR-Name>春雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>春雨改</JP-Name>
-    <TR-Name>Harusame Kai</TR-Name>
+    <TR-Name>春雨改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>早霜</JP-Name>
-    <TR-Name>Hayashimo</TR-Name>
+    <TR-Name>早霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>早霜改</JP-Name>
-    <TR-Name>Hayashimo Kai</TR-Name>
+    <TR-Name>早霜改</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>清霜</JP-Name>
-    <TR-Name>Kiyoshimo</TR-Name>
+    <TR-Name>清霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>清霜改</JP-Name>
-    <TR-Name>Kiyoshimo Kai</TR-Name>
+    <TR-Name>清霜改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Bismarck drei</JP-Name>
+    <TR-Name>俾斯麦 drei</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>隼鷹改二</JP-Name>
+    <TR-Name>隼鹰改二</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Prinz Eugen</JP-Name>
+    <TR-Name>欧根亲王</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Prinz Eugen改</JP-Name>
+    <TR-Name>欧根亲王改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>初春改二</JP-Name>
+    <TR-Name>初春改二</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝雲</JP-Name>
+    <TR-Name>朝云</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝雲改</JP-Name>
+    <TR-Name>朝云改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>野分</JP-Name>
+    <TR-Name>野分</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>野分改</JP-Name>
+    <TR-Name>野分改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>秋月</JP-Name>
+    <TR-Name>秋月</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>秋月改</JP-Name>
+    <TR-Name>秋月改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>潮改二</JP-Name>
+    <TR-Name>潮改二</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>扶桑改二</JP-Name>
+    <TR-Name>扶桑改二</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>山城改二</JP-Name>
+    <TR-Name>山城改二</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>山雲</JP-Name>
+    <TR-Name>山云</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>山雲改</JP-Name>
+    <TR-Name>山云改</TR-Name>
   </Ship>
 </Ships>
