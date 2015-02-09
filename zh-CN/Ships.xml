@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.20">
+<Ships Version="1.0.21">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>长门</TR-Name>
@@ -1371,5 +1371,41 @@
   <Ship>
     <JP-Name>山雲改</JP-Name>
     <TR-Name>山云改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>香取</JP-Name>
+    <TR-Name>香取</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>香取改</JP-Name>
+    <TR-Name>香取改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>天城</JP-Name>
+    <TR-Name>天城</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>天城改</JP-Name>
+    <TR-Name>天城改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>U-511</JP-Name>
+    <TR-Name>U-511</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>U-511改</JP-Name>
+    <TR-Name>U-511改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>呂500</JP-Name>
+    <TR-Name>吕500</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝霜</JP-Name>
+    <TR-Name>朝霜</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝霜改</JP-Name>
+    <TR-Name>朝霜改</TR-Name>
   </Ship>
 </Ships>
