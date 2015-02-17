@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.14">
+<Equipment Version="1.0.15">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -513,7 +513,11 @@
     <TR-Name>Prototype FaT Type 95 Oxygen Torpedo Kai</TR-Name>
   </Item>
   <Item>
-    <JP-Name>Prototype 51cm Twin Gun Mount</JP-Name>
+    <JP-Name>試製51cm連装砲</JP-Name>
     <TR-Name>FuMO25 RADAR</TR-Name>
+  </Item>
+  <Item>
+  	<JP-Name>熟練見張員</JP-Name>
+  	<TR-Name>Skilled Spotting Personnel</TR-Name>
   </Item>
 </Equipment>
