@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.15">
+<Equipment Version="1.0.16">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -514,7 +514,7 @@
   </Item>
   <Item>
     <JP-Name>試製51cm連装砲</JP-Name>
-    <TR-Name>FuMO25 RADAR</TR-Name>
+    <TR-Name>Prototype 51cm Twin Gun Mount</TR-Name>
   </Item>
   <Item>
   	<JP-Name>熟練見張員</JP-Name>
