@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.24">
+<Quests Version="1.0.25">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -822,9 +822,16 @@
  <Quest>
     <ID>272</ID>
     <JP-Name>桃の節句：「菱餅」を集めよう！</JP-Name>
-    <TR-Name>The Puppet Festival: Let's Gather Hishimochi</TR-Name>
+    <TR-Name>Let's Gather Hishimochi</TR-Name>
     <JP-Detail>出撃により特定海域の敵艦隊を撃破して、「菱餅」を3つ集めよう！</JP-Detail>
     <TR-Detail>Defeat enemy forces in World 3-3 and above (1-5 and 2-5 also count) and gather 3 hishimochi (菱餅).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>273</ID>
+    <JP-Name>桃の節句：「菱餅」を沢山集めるのです！</JP-Name>
+    <TR-Name>Let's Gather More Hishimochi</TR-Name>
+    <JP-Detail>結構大変だけれど、敵艦隊を撃破して「菱餅」を10個集めるのです！</JP-Detail>
+    <TR-Detail>Defeat the enemy forces and gather a total of 10 hishimochi (previous quest's 3 mochi count toward this one).</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
