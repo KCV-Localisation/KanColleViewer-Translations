@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.16">
+<Equipment Version="1.0.17">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -490,7 +490,7 @@
   </Item>
   <Item>
     <JP-Name>10cm連装高角砲+高射装置</JP-Name>
-    <TR-Name>10cm Twin High-angle Mount + Anti-Aircraft Fire Detector</TR-Name>
+    <TR-Name>10cm Twin High-angle Mount + Anti-Aircraft Fire Director</TR-Name>
   </Item>
   <Item>
     <JP-Name>SKC34 20.3cm連装砲</JP-Name>
@@ -519,5 +519,13 @@
   <Item>
   	<JP-Name>熟練見張員</JP-Name>
   	<TR-Name>Skilled Spotting Personnel</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>12.7cm高角砲+高射装置</JP-Name>
+    <TR-Name>12.7cm High-Angle Mount + Anti-Aircraft Fire Director</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>25mm三連装機銃 集中配備</JP-Name>
+    <TR-Name>25mm Triple Autocannon Mount (Concentrated Deployment)</TR-Name>
   </Item>
 </Equipment>
