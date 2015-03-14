@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.25">
+<Quests Version="1.0.26">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -821,17 +821,10 @@
   </Quest>
  <Quest>
     <ID>272</ID>
-    <JP-Name>桃の節句：「菱餅」を集めよう！</JP-Name>
-    <TR-Name>Let's Gather Hishimochi</TR-Name>
-    <JP-Detail>出撃により特定海域の敵艦隊を撃破して、「菱餅」を3つ集めよう！</JP-Detail>
-    <TR-Detail>Defeat enemy forces in World 3-3 and above (1-5 and 2-5 also count) and gather 3 hishimochi (菱餅).</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>273</ID>
-    <JP-Name>桃の節句：「菱餅」を沢山集めるのです！</JP-Name>
-    <TR-Name>Let's Gather More Hishimochi</TR-Name>
-    <JP-Detail>結構大変だけれど、敵艦隊を撃破して「菱餅」を10個集めるのです！</JP-Detail>
-    <TR-Detail>Defeat the enemy forces and gather a total of 10 hishimochi (previous quest's 3 mochi count toward this one).</TR-Detail>
+    <JP-Name>「改装防空重巡」出撃せよ！</JP-Name>
+    <TR-Name>Deploy the Remodelled Anti-Aircraft Heavy Cruiser</TR-Name>
+    <JP-Detail>摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Maya (摩耶) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
@@ -965,6 +958,20 @@
     <TR-Name>Blue Waters Extended Submarine Operation</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
     <TR-Detail>Complete expedition 39 two more times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>416</ID>
+    <JP-Name>防空射撃演習を実施せよ！</JP-Name>
+    <TR-Name>Air Defence Exercises</TR-Name>
+    <JP-Detail>「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！</JP-Detail>
+    <TR-Detail>Complete expedition 6 (防空射撃演習) three times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>417</ID>
+    <JP-Name>囮機動部隊支援作戦を実施せよ！</JP-Name>
+    <TR-Name>Deploy the Decoy Task Force</TR-Name>
+    <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
+    <TR-Detail>Complete expedition 15 (囮機動部隊支援作戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
