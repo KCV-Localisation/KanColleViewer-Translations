@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.27">
+<Quests Version="1.0.29">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -362,7 +362,7 @@
     <JP-Name>「三川艦隊」を新編、突入準備せよ！</JP-Name>
     <TR-Name>Organise the New Edition of the Mikawa Fleet</TR-Name>
     <JP-Detail>第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa Kai Ni (衣笠改ニ), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) in your main fleet.</TR-Detail>
+    <TR-Detail>Have Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>153</ID>
@@ -845,7 +845,7 @@
     <JP-Name>新編「三川艦隊」ソロモン方面へ！</JP-Name>
     <TR-Name>Deploy the Mikawa Fleet to Solomon Islands</TR-Name>
     <JP-Detail>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa Kai Ni (衣笠改ニ), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>274</ID>
