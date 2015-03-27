@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.26">
+<Quests Version="1.0.27">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -356,6 +356,20 @@
     <TR-Name>Organise the 22nd Destroyer Division</TR-Name>
     <JP-Detail>「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！</JP-Detail>
     <TR-Detail>Have only Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月) and 1 more DD in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>152</ID>
+    <JP-Name>「三川艦隊」を新編、突入準備せよ！</JP-Name>
+    <TR-Name>Organise the New Edition of the Mikawa Fleet</TR-Name>
+    <JP-Detail>第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！</JP-Detail>
+    <TR-Detail>Have Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa Kai Ni (衣笠改ニ), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>153</ID>
+    <JP-Name>「第十八戦隊」を新編成せよ！</JP-Name>
+    <TR-Name>Organise the 18th Cruiser Division</TR-Name>
+    <JP-Detail>軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！</JP-Detail>
+    <TR-Detail>Have Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -827,6 +841,27 @@
     <TR-Detail>Sortie a fleet with Maya (摩耶) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>273</ID>
+    <JP-Name>新編「三川艦隊」ソロモン方面へ！</JP-Name>
+    <TR-Name>Deploy the Mikawa Fleet to Solomon Islands</TR-Name>
+    <JP-Detail>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa Kai Ni (衣笠改ニ), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>274</ID>
+    <JP-Name>「第六駆逐隊」対潜哨戒なのです！</JP-Name>
+    <TR-Name>6th Destroyer Division's Anti-Submarine Patrol</TR-Name>
+    <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
+    <TR-Detail>Deploy Akatsuki (暁), Hibiki (響 or Верный), Inazuma (雷) and Ikazuchi (電) to World 1-5. At least C rank is required at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>275</ID>
+    <JP-Name>抜錨！「第十八戦隊」</JP-Name>
+    <TR-Name>18th Cruiser Division, Set Sail</TR-Name>
+    <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships to World 2-3 and sink the enemy flagship at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>First Exercise!</TR-Name>
@@ -860,6 +895,13 @@
     <TR-Name>In Preparation of Love (Part 2)</TR-Name>
     <JP-Detail>本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！</JP-Detail>
     <TR-Detail>Show your love by getting 2 victories in practice mode.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>307</ID>
+    <JP-Name>艦隊の練度向上に努めよ！</JP-Name>
+    <TR-Name>Improve the Efficiency of the Fleet</TR-Name>
+    <JP-Detail>作戦前に艦隊の練度向上を図る！本日中に「演習」で3回以上「勝利」をおさめよう！</JP-Detail>
+    <TR-Detail>Get 3 victories in exercises (practice mode).</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
