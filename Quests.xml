@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.30">
+<Quests Version="1.0.31">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1024,8 +1024,8 @@
   </Quest>
   <Quest>
     <ID>418</ID>
-    <JP-Name>Naval Ceremony Preparations</JP-Name>
-    <TR-Name>観艦式予行を実施せよ！</TR-Name>
+    <JP-Name>観艦式予行を実施せよ！</JP-Name>
+    <TR-Name>Naval Ceremony Preparations</TR-Name>
     <JP-Detail>観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！</JP-Detail>
     <TR-Detail>Complete expedition 7 (観艦式予行) two times.</TR-Detail>
   </Quest>
