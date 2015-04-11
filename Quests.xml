@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.29">
+<Quests Version="1.0.30">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -904,6 +904,13 @@
     <TR-Detail>Get 3 victories in exercises (practice mode).</TR-Detail>
   </Quest>
   <Quest>
+    <ID>308</ID>
+    <JP-Name>演習を強化、艦隊の練度向上に努めよ！</JP-Name>
+    <TR-Name>Improve the Efficiency of the Fleet One More Time</TR-Name>
+    <JP-Detail>艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！</JP-Detail>
+    <TR-Detail>Get 4 victories in exercises (practice mode).</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
     <TR-Name>First Expedition</TR-Name>
@@ -1014,6 +1021,20 @@
     <TR-Name>Deploy the Decoy Task Force</TR-Name>
     <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
     <TR-Detail>Complete expedition 15 (囮機動部隊支援作戦).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>418</ID>
+    <JP-Name>Naval Ceremony Preparations</JP-Name>
+    <TR-Name>観艦式予行を実施せよ！</TR-Name>
+    <JP-Detail>観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！</JP-Detail>
+    <TR-Detail>Complete expedition 7 (観艦式予行) two times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>419</ID>
+    <JP-Name>観艦式を敢行せよ！</JP-Name>
+    <TR-Name>Naval Ceremony</TR-Name>
+    <JP-Detail>練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！</JP-Detail>
+    <TR-Detail>Complete expedition 8.</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>

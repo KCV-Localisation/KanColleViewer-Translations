@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.23">
+<Ships Version="1.0.24">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -123,6 +123,10 @@
   <Ship>
     <JP-Name>叢雲改</JP-Name>
     <TR-Name>Murakumo Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>叢雲改二</JP-Name>
+    <TR-Name>Murakumo Kai2</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯波</JP-Name>
