@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.25">
+<Ships Version="1.0.26">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1427,5 +1427,45 @@
   <Ship>
     <JP-Name>朝霜改</JP-Name>
     <TR-Name>Asashimo Kai</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>葛城</JP-Name>
+  	<TR-Name>Katsuragi</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>葛城改</JP-Name>
+  	<TR-Name>Katsuragi Kai</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>高波</JP-Name>
+  	<TR-Name>Takanami</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>高波改</JP-Name>
+  	<TR-Name>Takanami Kai</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>Littorio</JP-Name>
+  	<TR-Name>Littorio</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>Italia</JP-Name>
+  	<TR-Name>Italia</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>Roma</JP-Name>
+  	<TR-Name>Roma</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>Roma改</JP-Name>
+  	<TR-Name>Roma Kai</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>秋津洲</JP-Name>
+  	<TR-Name>Akitsushima</TR-Name>
+  </Ship>
+  <Ship>
+  	<JP-Name>秋津洲改</JP-Name>
+  	<TR-Name>Akitsushima Kai</TR-Name>
   </Ship>
 </Ships>
