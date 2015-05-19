@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.19">
+<Equipment Version="1.0.20">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -259,6 +259,10 @@
   <Item>
     <JP-Name>15.2cm連装砲</JP-Name>
     <TR-Name>15.2cm Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>15.2cm連装砲改</JP-Name>
+    <TR-Name>15.2cm Twin Gun Mount Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>8cm高角砲</JP-Name>
