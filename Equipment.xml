@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.20">
+<Equipment Version="1.0.21">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -559,5 +559,9 @@
   <Item>
     <JP-Name>二式大艇</JP-Name>
     <TR-Name>Type 2 Large-sized Flying Boat</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>96式150cm探照灯</JP-Name>
+    <TR-Name>Type 96 150cm Searchlight</TR-Name>
   </Item>
 </Equipment>
