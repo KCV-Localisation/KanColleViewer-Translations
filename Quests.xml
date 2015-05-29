@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.31">
+<Quests Version="1.0.32">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -290,7 +290,7 @@
   <Quest>
     <ID>142</ID>
     <JP-Name>精鋭「第三戦隊」全艦集結せよ！</JP-Name>
-    <TR-Name>Organise the Elite 3rd Battleship Division</TR-Name>
+    <TR-Name>Form the Elite 3rd Battleship Division</TR-Name>
     <JP-Detail>第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！</JP-Detail>
     <TR-Detail>Have all four Kongou-class Kai 2 battleships in your main fleet.</TR-Detail>
   </Quest>
@@ -304,14 +304,14 @@
   <Quest>
     <ID>144</ID>
     <JP-Name>主力戦艦部隊「第二戦隊」を編成せよ！</JP-Name>
-    <TR-Name>Organise the Main Battleship Fleet: the 2nd Squadron</TR-Name>
+    <TR-Name>Form the Main Battleship Fleet: the 2nd Squadron</TR-Name>
     <JP-Detail>長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>145</ID>
     <JP-Name>戦艦を主力とした水上打撃部隊を編成せよ！</JP-Name>
-    <TR-Name>Organise the Main Battleship Force</TR-Name>
+    <TR-Name>Form the Main Battleship Force</TR-Name>
     <JP-Detail>大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！</JP-Detail>
     <TR-Detail>Have three battleships of Nagato, Fusou, Ise or Yamato classes and a light cruiser in your fleet.</TR-Detail>
   </Quest>
@@ -325,51 +325,65 @@
   <Quest>
     <ID>147</ID>
     <JP-Name>「西村艦隊」を再編成せよ！</JP-Name>
-    <TR-Name>Organise the Nishimura Fleet</TR-Name>
+    <TR-Name>Form the Nishimura Fleet</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>148</ID>
     <JP-Name>軽快な「水上反撃部隊」を編成せよ！</JP-Name>
-    <TR-Name>Organise the Counterattack Squadron</TR-Name>
+    <TR-Name>Form the Counterattack Squadron</TR-Name>
     <JP-Detail>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), 1 CL and 3 more DDs in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>149</ID>
     <JP-Name>「第十一駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>Organise the 11th Destroyer Division</TR-Name>
+    <TR-Name>Form the 11th Destroyer Division</TR-Name>
     <JP-Detail>特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！</JP-Detail>
     <TR-Detail>Have the 4 Special-type destroyers: Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo(叢雲) in your main fleet. One of them should be the flagship.</TR-Detail>
   </Quest>
   <Quest>
     <ID>150</ID>
     <JP-Name>「第二一駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>Organise the 21st Destroyer Division</TR-Name>
+    <TR-Name>Form the 21st Destroyer Division</TR-Name>
     <JP-Detail>「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！</JP-Detail>
     <TR-Detail>Have only Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>151</ID>
     <JP-Name>「第二二駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>Organise the 22nd Destroyer Division</TR-Name>
+    <TR-Name>Form the 22nd Destroyer Division</TR-Name>
     <JP-Detail>「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！</JP-Detail>
     <TR-Detail>Have only Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月) and 1 more DD in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>152</ID>
     <JP-Name>「三川艦隊」を新編、突入準備せよ！</JP-Name>
-    <TR-Name>Organise the New Edition of the Mikawa Fleet</TR-Name>
+    <TR-Name>Form the New Edition of the Mikawa Fleet</TR-Name>
     <JP-Detail>第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！</JP-Detail>
     <TR-Detail>Have Choukai Kai2 (鳥海改ニ) as the flagship and any five of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>153</ID>
     <JP-Name>「第十八戦隊」を新編成せよ！</JP-Name>
-    <TR-Name>Organise the 18th Cruiser Division</TR-Name>
+    <TR-Name>Form the 18th Cruiser Division</TR-Name>
     <JP-Detail>軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！</JP-Detail>
     <TR-Detail>Have Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>154</ID>
+    <JP-Name>海上突入部隊を編成せよ！</JP-Name>
+    <TR-Name>Form the Maritime Assault Fleet</TR-Name>
+    <JP-Detail>戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi (雷) and Inazuma (電) in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>155</ID>
+    <JP-Name>新編「第六駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>Form the New 6th Destroyer Division</TR-Name>
+    <JP-Detail>「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have only Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響), Ikazuchi (雷) and Inazuma (電) in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -860,6 +874,20 @@
     <TR-Name>18th Cruiser Division, Set Sail</TR-Name>
     <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships to World 2-3 and sink the enemy flagship at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>276</ID>
+    <JP-Name>海上突入部隊、進発せよ！</JP-Name>
+    <TR-Name>Sortie the Maritime Assault Fleet</TR-Name>
+    <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi (雷) and Inazuma (電) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>277</ID>
+    <JP-Name>「第六駆逐隊」対潜哨戒を徹底なのです！</JP-Name>
+    <TR-Name>6th Destroyer Division's Thorough Anti-Submarine Patrol na no desu!</TR-Name>
+    <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
+    <TR-Detail>Sortie Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響), Ikazuchi (雷) and Inazuma (電) to World 1-5 and score an A rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
