@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.21">
+<Equipment Version="1.0.22">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -123,6 +123,10 @@
   <Item>
     <JP-Name>32号対水上電探</JP-Name>
     <TR-Name>Type 32 Surface RADAR</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>32号対水上電探改</JP-Name>
+    <TR-Name>Type 32 Surface RADAR Kai</TR-Name>
   </Item>
   <Item>
     <JP-Name>14号対空電探</JP-Name>
