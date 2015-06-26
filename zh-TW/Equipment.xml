@@ -474,7 +474,7 @@
   </Item>
   <Item>
     <JP-Name>紫雲</JP-Name>
-    <TR-Name>紫云</TR-Name>
+    <TR-Name>紫雲</TR-Name>
   </Item>
   <Item>
     <JP-Name>14cm連装砲</JP-Name>
@@ -527,5 +527,37 @@
   <Item>
     <JP-Name>25mm三連装機銃 集中配備</JP-Name>
     <TR-Name>25mm三連裝機槍 集中配備</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零式水中聴音機</JP-Name>
+    <TR-Name>零式水中聴音機</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>381mm/50 三連装砲</JP-Name>
+    <TR-Name>381mm/50 三連裝砲</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>OTO 152mm三連装速射砲</JP-Name>
+    <TR-Name>OTO 152mm三連裝速射砲</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>90mm単装高角砲</JP-Name>
+    <TR-Name>90mm單裝高角砲</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>プリエーゼ式水中防御隔壁</JP-Name>
+    <TR-Name>普列賽式水中防御隔壁</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>381mm/50 三連装砲改</JP-Name>
+    <TR-Name>381mm/50 三連裝砲改</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>二式大艇</JP-Name>
+    <TR-Name>二式大艇</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>96式150cm探照灯</JP-Name>
+    <TR-Name>96式150cm探照燈</TR-Name>
   </Item>
 </Equipment>
