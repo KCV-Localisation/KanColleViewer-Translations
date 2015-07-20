@@ -2,63 +2,63 @@
 <Equipment Version="1.0.17">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
-    <TR-Name>12cm 单装炮</TR-Name>
+    <TR-Name>12cm单装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲</JP-Name>
-    <TR-Name>12.7cm 联装炮</TR-Name>
+    <TR-Name>12.7cm联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>10cm連装高角砲</JP-Name>
-    <TR-Name>10cm 联装高角炮</TR-Name>
+    <TR-Name>10cm联装高角炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>14cm単装砲</JP-Name>
-    <TR-Name>14cm 单装炮</TR-Name>
+    <TR-Name>14cm单装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.5cm三連装砲</JP-Name>
-    <TR-Name>15.5cm 三联装炮</TR-Name>
+    <TR-Name>15.5cm三联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>20.3cm連装砲</JP-Name>
-    <TR-Name>20.3cm 联装炮</TR-Name>
+    <TR-Name>20.3cm联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>35.6cm連装砲</JP-Name>
-    <TR-Name>35.6cm 联装炮</TR-Name>
+    <TR-Name>35.6cm联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>41cm連装砲</JP-Name>
-    <TR-Name>41cm 联装炮</TR-Name>
+    <TR-Name>41cm联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>46cm三連装砲</JP-Name>
-    <TR-Name>46cm 三联装炮</TR-Name>
+    <TR-Name>46cm三联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>12.7cm連装高角砲</JP-Name>
-    <TR-Name>12.7cm 联装高角炮</TR-Name>
+    <TR-Name>12.7cm联装高角炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.2cm単装砲</JP-Name>
-    <TR-Name>15.2cm 单装炮</TR-Name>
+    <TR-Name>15.2cm单装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>15.5cm三連装副砲</JP-Name>
-    <TR-Name>15.5cm 三联装炮</TR-Name>
+    <TR-Name>15.5cm三联装副炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm三連装魚雷</JP-Name>
-    <TR-Name>61cm 三联装鱼雷</TR-Name>
+    <TR-Name>61cm三联装鱼雷</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm四連装魚雷</JP-Name>
-    <TR-Name>61cm 四联装鱼雷</TR-Name>
+    <TR-Name>61cm四联装鱼雷</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm四連装(酸素)魚雷</JP-Name>
-    <TR-Name>61cm 四联装酸素鱼雷</TR-Name>
+    <TR-Name>61cm四联装(酸素)鱼雷</TR-Name>
   </Item>
   <Item>
     <JP-Name>九七式艦攻</JP-Name>
@@ -142,7 +142,7 @@
   </Item>
   <Item>
     <JP-Name>九一式徹甲弾</JP-Name>
-    <TR-Name>九一式彻甲弹</TR-Name>
+    <TR-Name>九一式穿甲弹</TR-Name>
   </Item>
   <Item>
     <JP-Name>7.7mm機銃</JP-Name>
@@ -162,11 +162,11 @@
   </Item>
   <Item>
     <JP-Name>甲標的</JP-Name>
-    <TR-Name>甲標的</TR-Name>
+    <TR-Name>甲标的</TR-Name>
   </Item>
   <Item>
     <JP-Name>応急修理要員</JP-Name>
-    <TR-Name>应急修理员</TR-Name>
+    <TR-Name>应急修理要员</TR-Name>
   </Item>
   <Item>
     <JP-Name>応急修理女神</JP-Name>
@@ -198,11 +198,11 @@
   </Item>
   <Item>
     <JP-Name>20.3cm(3号)連装砲</JP-Name>
-    <TR-Name>20.3cm(三号)联装炮</TR-Name>
+    <TR-Name>20.3cm(3号)联装炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>12cm30連装噴進砲</JP-Name>
-    <TR-Name>12cm 30联装喷进炮</TR-Name>
+    <TR-Name>12cm30联装喷进炮</TR-Name>
   </Item>
   <Item>
     <JP-Name>流星改</JP-Name>
@@ -230,7 +230,7 @@
   </Item>
   <Item>
     <JP-Name>61cm五連装(酸素)魚雷</JP-Name>
-    <TR-Name>61cm五联装酸素鱼雷</TR-Name>
+    <TR-Name>61cm五联装(酸素)鱼雷</TR-Name>
   </Item>
   <Item>
     <JP-Name>零式水上観測機</JP-Name>
@@ -266,7 +266,7 @@
   </Item>
   <Item>
     <JP-Name>53cm艦首(酸素)魚雷</JP-Name>
-    <TR-Name>53cm舰首酸素鱼雷</TR-Name>
+    <TR-Name>53cm舰首(酸素)鱼雷</TR-Name>
   </Item>
   <Item>
     <JP-Name>大発動艇</JP-Name>
@@ -286,11 +286,11 @@
   </Item>
   <Item>
     <JP-Name>増設バルジ(中型艦)</JP-Name>
-    <TR-Name>加厚船底(中型)</TR-Name>
+    <TR-Name>增设装甲(中型舰)</TR-Name>
   </Item>
   <Item>
     <JP-Name>増設バルジ(大型艦)</JP-Name>
-    <TR-Name>加厚船底(大型)</TR-Name>
+    <TR-Name>增设装甲(大型舰)</TR-Name>
   </Item>
   <Item>
     <JP-Name>探照灯</JP-Name>
@@ -298,7 +298,7 @@
   </Item>
   <Item>
     <JP-Name>ドラム缶(輸送用)</JP-Name>
-    <TR-Name>桶(输送用)</TR-Name>
+    <TR-Name>桶(运输用)</TR-Name>
   </Item>
   <Item>
     <JP-Name>38cm連装砲</JP-Name>
@@ -414,7 +414,7 @@
   </Item>
   <Item>
     <JP-Name>35.6cm連装砲(ダズル迷彩)</JP-Name>
-    <TR-Name>35.6cm联装炮(黑白炫光迷彩)</TR-Name>
+    <TR-Name>35.6cm联装炮(炫目迷彩)</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製41cm三連装砲</JP-Name>
@@ -466,7 +466,7 @@
   </Item>
   <Item>
     <JP-Name>一式徹甲弾</JP-Name>
-    <TR-Name>一式彻甲弹</TR-Name>
+    <TR-Name>一式穿甲弹</TR-Name>
   </Item>
   <Item>
     <JP-Name>試製46cm連装砲</JP-Name>
@@ -498,11 +498,11 @@
   </Item>
   <Item>
     <JP-Name>FuMO25 レーダー</JP-Name>
-    <TR-Name>FuMO25 电探</TR-Name>
+    <TR-Name>FuMO25 雷达</TR-Name>
   </Item>
   <Item>
     <JP-Name>61cm三連装(酸素)魚雷</JP-Name>
-    <TR-Name>61cm三联装酸素鱼雷</TR-Name>>
+    <TR-Name>61cm三联装(酸素)鱼雷</TR-Name>>
   </Item>
   <Item>
     <JP-Name>WG42 (Wurfgerät 42)</JP-Name>
@@ -522,10 +522,46 @@
   </Item>
   <Item>
     <JP-Name>12.7cm高角砲+高射装置</JP-Name>
-    <TR-Name>12.7cm High-Angle Mount + Anti-Aircraft Fire Director</TR-Name>
+    <TR-Name>12.7cm高角炮+高射装置</TR-Name>
   </Item>
   <Item>
     <JP-Name>25mm三連装機銃 集中配備</JP-Name>
-    <TR-Name>25mm Triple Autocannon Mount (Concentrated Deployment)</TR-Name>
+    <TR-Name>25mm三联装机枪 集中配备</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零式水中聴音機</JP-Name>
+    <TR-Name>零式水中听音机</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>381mm/50 三連装砲</JP-Name>
+    <TR-Name>381mm/50 三联装炮</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>OTO 152mm三連装速射砲</JP-Name>
+    <TR-Name>OTO 152mm三联装速射炮</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>90mm単装高角砲</JP-Name>
+    <TR-Name>90mm单装高角炮</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>プリエーゼ式水中防御隔壁</JP-Name>
+    <TR-Name>普列塞式水中防御隔壁</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>381mm/50 三連装砲改</JP-Name>
+    <TR-Name>381mm/50 三联装炮改</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>二式大艇</JP-Name>
+    <TR-Name>二式大艇</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>96式150cm探照灯</JP-Name>
+    <TR-Name>96式150cm探照灯</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>32号対水上電探改</JP-Name>
+    <TR-Name>32号对水上电探改</TR-Name>
   </Item>
 </Equipment>
