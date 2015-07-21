@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.18">
+<Equipment Version="1.0.19">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm单装炮</TR-Name>
@@ -563,5 +563,9 @@
   <Item>
     <JP-Name>32号対水上電探改</JP-Name>
     <TR-Name>32号对水上电探改</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>15m二重測距儀+21号電探改二</JP-Name>
+    <TR-Name>15m二重测距仪+21号电探改二</TR-Name>
   </Item>
 </Equipment>
