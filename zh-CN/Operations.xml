@@ -2,107 +2,119 @@
 <Operations Version="1.0.4">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
-    <TR-Name>World 1-1</TR-Name>
+    <TR-Name>镇守府正面海域</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西諸島沖</JP-Name>
-    <TR-Name>World 1-2</TR-Name>
+    <TR-Name>南西群岛近海</TR-Name>
   </Map>
   <Map>
     <JP-Name>製油所地帯沿岸</JP-Name>
-    <TR-Name>World 1-3</TR-Name>
+    <TR-Name>炼油厂地带沿岸</TR-Name>
   </Map>
   <Map>
     <JP-Name>南西諸島防衛線</JP-Name>
-    <TR-Name>World 1-4</TR-Name>
+    <TR-Name>南西群岛防卫线</TR-Name>
   </Map>
   <Map>
     <JP-Name>カムラン半島</JP-Name>
-    <TR-Name>World 2-1</TR-Name>
+    <TR-Name>金兰半岛</TR-Name>
   </Map>
   <Map>
     <JP-Name>バシー島沖</JP-Name>
-    <TR-Name>World 2-2</TR-Name>
+    <TR-Name>巴士岛近海</TR-Name>
   </Map>
   <Map>
     <JP-Name>東部オリョール海</JP-Name>
-    <TR-Name>World 2-3</TR-Name>
+    <TR-Name>东部奥廖尔海</TR-Name>
   </Map>
   <Map>
     <JP-Name>沖ノ島海域</JP-Name>
-    <TR-Name>World 2-4</TR-Name>
+    <TR-Name>冲之岛海域</TR-Name>
   </Map>
   <Map>
     <JP-Name>モーレイ海哨戒</JP-Name>
-    <TR-Name>World 3-1</TR-Name>
+    <TR-Name>莫雷海警戒</TR-Name>
   </Map>
   <Map>
     <JP-Name>キス島沖</JP-Name>
-    <TR-Name>World 3-2</TR-Name>
+    <TR-Name>基斯岛近海</TR-Name>
   </Map>
   <Map>
     <JP-Name>アルフォンシーノ方面</JP-Name>
-    <TR-Name>World 3-3</TR-Name>
+    <TR-Name>阿尔锋西诺方向</TR-Name>
   </Map>
   <Map>
     <JP-Name>北方海域全域</JP-Name>
-    <TR-Name>World 3-4</TR-Name>
+    <TR-Name>北方海域全域</TR-Name>
   </Map>
   <Map>
     <JP-Name>ジャム島攻略作戦</JP-Name>
-    <TR-Name>World 4-1</TR-Name>
+    <TR-Name>爪姆岛攻略作战</TR-Name>
   </Map>
   <Map>
     <JP-Name>カレー洋制圧戦</JP-Name>
-    <TR-Name>World 4-2</TR-Name>
+    <TR-Name>咖哩洋压制战</TR-Name>
   </Map>
   <Map>
     <JP-Name>リランカ島空襲</JP-Name>
-    <TR-Name>World 4-3</TR-Name>
+    <TR-Name>里兰卡岛空袭</TR-Name>
   </Map>
   <Map>
     <JP-Name>カスガダマ沖海戦</JP-Name>
-    <TR-Name>World 4-4</TR-Name>
+    <TR-Name>加斯加达马近海海战</TR-Name>
   </Map>
   <Map>
     <JP-Name>南方海域前面</JP-Name>
-    <TR-Name>World 5-1</TR-Name>
+    <TR-Name>南方海域前方</TR-Name>
   </Map>
   <Map>
     <JP-Name>珊瑚諸島沖</JP-Name>
-    <TR-Name>World 5-2</TR-Name>
+    <TR-Name>珊瑚群岛近海</TR-Name>
   </Map>
   <Map>
     <JP-Name>サブ島沖海域</JP-Name>
-    <TR-Name>World 5-3</TR-Name>
+    <TR-Name>萨部岛近海海域</TR-Name>
   </Map>
   <Map>
     <JP-Name>サーモン海域</JP-Name>
-    <TR-Name>World 5-4</TR-Name>
+    <TR-Name>沙门海域</TR-Name>
   </Map>
   <Map>
     <JP-Name>鎮守府近海</JP-Name>
-    <TR-Name>World 1-5</TR-Name>
+    <TR-Name>镇守府近海</TR-Name>
   </Map>
   <Map>
-    <JP-Name>南西海域サメワニ沖</JP-Name>
-    <TR-Name>E-1</TR-Name>
+    <JP-Name>鎮守府近海航路</JP-Name>
+    <TR-Name>镇守府近海航路</TR-Name>
   </Map>
   <Map>
-    <JP-Name>南西海域ズンダ海峡</JP-Name>
-    <TR-Name>E-2</TR-Name>
+    <JP-Name>沖ノ島沖</JP-Name>
+    <TR-Name>冲之岛近海</TR-Name>
   </Map>
   <Map>
-    <JP-Name>ポートワイン沖海域</JP-Name>
-    <TR-Name>E-3</TR-Name>
+    <JP-Name>北方AL海域</JP-Name>
+    <TR-Name>北方阿留申海域</TR-Name>
   </Map>
   <Map>
-    <JP-Name>中部太平洋海域</JP-Name>
-    <TR-Name>E-4</TR-Name>
+    <JP-Name>カレー洋リランカ島沖</JP-Name>
+    <TR-Name>咖喱洋里兰卡岛海域</TR-Name>
   </Map>
   <Map>
-    <JP-Name>北太平洋海域</JP-Name>
-    <TR-Name>E-5</TR-Name>
+    <JP-Name>サーモン海域北方</JP-Name>
+    <TR-Name>沙门海域北方</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>中部海域哨戒線</JP-Name>
+    <TR-Name>中部海域警戒线</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>MS諸島沖</JP-Name>
+    <TR-Name>马绍尔群岛近海</TR-Name>
+  </Map>
+  <Map>
+    <JP-Name>グアノ環礁沖海域</JP-Name>
+    <TR-Name>古阿诺环礁海域</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>渦潮</JP-Name>
@@ -294,7 +306,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊本隊</JP-Name>
-    <TR-Name>敌机动部队本队(Boss)</TR-Name>
+    <TR-Name>敌机动部队本队</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊</JP-Name>
@@ -318,7 +330,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵サーモン方面主力艦隊</JP-Name>
-    <TR-Name>敌萨门方面主力舰队</TR-Name>
+    <TR-Name>敌沙门方面主力舰队</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵偵察潜水艦</JP-Name>
@@ -350,7 +362,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵ピケット艦隊</JP-Name>
-    <TR-Name>敌纠察舰队</TR-Name>
+    <TR-Name>敌放哨舰队</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵遊撃部隊</JP-Name>
@@ -427,5 +439,193 @@
   <Sortie>
     <JP-Name>敵潜水主力艦隊</JP-Name>
     <TR-Name>敌潜水主力舰队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 前衛部隊</JP-Name>
+    <TR-Name>任务部队C群 前卫部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 II群</JP-Name>
+    <TR-Name>通商破坏潜水舰队 II群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊(第二波)</JP-Name>
+    <TR-Name>任务部队A群 机动部队(第二波)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 III群</JP-Name>
+    <TR-Name>通商破坏潜水舰队 III群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 機動部隊</JP-Name>
+    <TR-Name>任务部队C群 机动部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 I群</JP-Name>
+    <TR-Name>通商破坏潜水舰队 I群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊本隊</JP-Name>
+    <TR-Name>任务部队A群 机动部队本队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊支援 水上打撃部隊</JP-Name>
+    <TR-Name>任务部队支队 水上打击部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
+    <TR-Name>任务部队A群 机动部队(第一波)</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵機動艦隊</JP-Name>
+    <TR-Name>敌机动部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵侵攻部隊</JP-Name>
+    <TR-Name>敌侵略部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方前衛警戒部隊</JP-Name>
+    <TR-Name>北方前卫警戒部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛A</JP-Name>
+    <TR-Name>北方增援部队前卫A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方派遣任務部隊</JP-Name>
+    <TR-Name>北方派遣任务部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方遊撃部隊</JP-Name>
+    <TR-Name>北方游击部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方AL泊地</JP-Name>
+    <TR-Name>北方AL泊地</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛B</JP-Name>
+    <TR-Name>北方增援部队前卫B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊主力</JP-Name>
+    <TR-Name>北方增援部队主力</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>能動分岐</JP-Name>
+    <TR-Name>能动分歧</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面反攻先遣隊</JP-Name>
+    <TR-Name>东洋方面反攻先遣队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面威力偵察部隊</JP-Name>
+    <TR-Name>东洋方面威力侦察部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋艦隊新編水上打撃部隊</JP-Name>
+    <TR-Name>东洋舰队新编水上打击部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋方面潜水艦隊</JP-Name>
+    <TR-Name>深海东洋方面潜水舰队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋艦隊機動部隊</JP-Name>
+    <TR-Name>深海东洋舰队机动部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>東洋方面后方兵站部隊</JP-Name>
+    <TR-Name>东洋方面后方兵站部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海東洋方面増援艦隊</JP-Name>
+    <TR-Name>深海东洋方面增援舰队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>リランカ島港湾守備隊</JP-Name>
+    <TR-Name>里兰卡岛港湾守备队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵新鋭战舰部隊</JP-Name>
+    <TR-Name>敌新锐战舰部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域 敵遊撃部隊</JP-Name>
+    <TR-Name>中部海域 敌游击部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 A地点</JP-Name>
+    <TR-Name>中部海域警戒战 A地点</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 B地点</JP-Name>
+    <TR-Name>中部海域警戒战 B地点</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 D地点</JP-Name>
+    <TR-Name>中部海域警戒战 D地点</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域敵輸送船団</JP-Name>
+    <TR-Name>中部海域敌运输船队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵回航中空母</JP-Name>
+    <TR-Name>敌返航中空母</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵攻略支援部隊A群</JP-Name>
+    <TR-Name>敌攻略支援部队A群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵攻略支援部隊B群</JP-Name>
+    <TR-Name>敌攻略支援部队B群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵高速水上打撃部隊</JP-Name>
+    <TR-Name>敌高速水上打击部队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵任務部隊B群</JP-Name>
+    <TR-Name>敌任务部队B群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵任務部隊A群</JP-Name>
+    <TR-Name>敌任务部队A群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵攻略部隊本体</JP-Name>
+    <TR-Name>敌任务部队本体</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>泊地哨戒線</JP-Name>
+    <TR-Name>泊地哨戒线</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海潜水艦隊</JP-Name>
+    <TR-Name>深海潜水舰队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海ピケット艦隊</JP-Name>
+    <TR-Name>深海放哨舰队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海哨戒水雷戦隊</JP-Name>
+    <TR-Name>深海哨戒水雷战队</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海中部水上打撃群</JP-Name>
+    <TR-Name>深海中部水上打击群</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>航空偵察</JP-Name>
+    <TR-Name>航空侦察</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>留守泊地旗艦艦隊</JP-Name>
+    <TR-Name>留守泊地旗舰舰队</TR-Name>
   </Sortie>
 </Operations>
