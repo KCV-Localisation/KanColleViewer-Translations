@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.5">
+<Operations Version="1.0.6">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>镇守府正面海域</TR-Name>
@@ -154,7 +154,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵主力艦隊</JP-Name>
-    <TR-Name>敌主力舰队</TR-Name>
+    <TR-Name>敌主力舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前衛艦隊</JP-Name>
@@ -162,7 +162,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵主力部隊</JP-Name>
-    <TR-Name>敌主力部队</TR-Name>
+    <TR-Name>敌主力部队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵支援艦隊</JP-Name>
@@ -174,7 +174,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊</JP-Name>
-    <TR-Name>敌机动部队</TR-Name>
+    <TR-Name>敌机动部队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵護衛空母群</JP-Name>
@@ -190,7 +190,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵通商破壊艦隊</JP-Name>
-    <TR-Name>敌通商破坏舰队</TR-Name>
+    <TR-Name>敌通商破坏舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵巡洋艦隊</JP-Name>
@@ -202,7 +202,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵主力打撃群</JP-Name>
-    <TR-Name>敌主力打击群</TR-Name>
+    <TR-Name>敌主力打击群(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵水上打撃艦隊</JP-Name>
@@ -218,7 +218,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵侵攻中核艦隊</JP-Name>
-    <TR-Name>敌侵攻中核舰队</TR-Name>
+    <TR-Name>敌侵攻中核舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵哨戒艦隊</JP-Name>
@@ -226,15 +226,15 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵北方侵攻艦隊</JP-Name>
-    <TR-Name>敌北方侵攻舰队</TR-Name>
+    <TR-Name>敌北方侵攻舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵キス島包囲艦隊</JP-Name>
-    <TR-Name>敌基斯岛包围舰队</TR-Name>
+    <TR-Name>敌基斯岛包围舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦泊地艦隊</JP-Name>
-    <TR-Name>深海栖舰泊地舰队</TR-Name>
+    <TR-Name>深海栖舰泊地舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦泊地防衛艦隊</JP-Name>
@@ -242,7 +242,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦北方艦隊中枢</JP-Name>
-    <TR-Name>深海栖舰北方舰队中枢</TR-Name>
+    <TR-Name>深海栖舰北方舰队中枢(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦水上打撃艦隊</JP-Name>
@@ -258,7 +258,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>東方派遣艦隊</JP-Name>
-    <TR-Name>东方派遣舰队</TR-Name>
+    <TR-Name>东方派遣舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水教導艦隊</JP-Name>
@@ -266,7 +266,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>東方主力艦隊</JP-Name>
-    <TR-Name>东方主力舰队</TR-Name>
+    <TR-Name>东方主力舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給船団</JP-Name>
@@ -286,7 +286,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵東方中枢艦隊</JP-Name>
-    <TR-Name>敌东方中枢舰队</TR-Name>
+    <TR-Name>敌东方中枢舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前線哨戒艦隊</JP-Name>
@@ -298,7 +298,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵前線司令艦隊</JP-Name>
-    <TR-Name>敌前线司令舰队</TR-Name>
+    <TR-Name>敌前线司令舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊</JP-Name>
@@ -306,7 +306,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊本隊</JP-Name>
-    <TR-Name>敌机动部队本队</TR-Name>
+    <TR-Name>敌机动部队本队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊</JP-Name>
@@ -330,7 +330,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵サーモン方面主力艦隊</JP-Name>
-    <TR-Name>敌沙门方面主力舰队</TR-Name>
+    <TR-Name>敌沙门方面主力舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵偵察潜水艦</JP-Name>
@@ -358,7 +358,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵通商破壊主力艦隊</JP-Name>
-    <TR-Name>敌通商破坏主力舰队</TR-Name>
+    <TR-Name>敌通商破坏主力舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵ピケット艦隊</JP-Name>
@@ -390,7 +390,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵補給部隊本体</JP-Name>
-    <TR-Name>敌补给部队本体</TR-Name>
+    <TR-Name>敌补给部队本体(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵前衛警戒部隊</JP-Name>
@@ -406,7 +406,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵任務部隊本隊</JP-Name>
-    <TR-Name>敌任务部队本队</TR-Name>
+    <TR-Name>敌任务部队本队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵緊急派遣艦隊</JP-Name>
@@ -414,7 +414,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>ABDA主力艦隊</JP-Name>
-    <TR-Name>ABDA主力舰队</TR-Name>
+    <TR-Name>ABDA主力舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵増援任務部隊B群</JP-Name>
@@ -426,7 +426,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>深海棲艦ポートワイン泊地</JP-Name>
-    <TR-Name>深海栖舰瓦伊恩海港泊地</TR-Name>
+    <TR-Name>深海栖舰瓦伊恩海港泊地(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵増援任務部隊</JP-Name>
@@ -434,11 +434,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵潜水主力艦隊</JP-Name>
-    <TR-Name>敌潜水主力舰队</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>敵潜水主力艦隊</JP-Name>
-    <TR-Name>敌潜水主力舰队</TR-Name>
+    <TR-Name>敌潜水主力舰队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊C群 前衛部隊</JP-Name>
@@ -510,7 +506,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>北方増援部隊主力</JP-Name>
-    <TR-Name>北方增援部队主力</TR-Name>
+    <TR-Name>北方增援部队主力(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>能動分岐</JP-Name>
@@ -546,7 +542,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>リランカ島港湾守備隊</JP-Name>
-    <TR-Name>里兰卡岛港湾守备队</TR-Name>
+    <TR-Name>里兰卡岛港湾守备队(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵新鋭战舰部隊</JP-Name>
@@ -574,7 +570,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵回航中空母</JP-Name>
-    <TR-Name>敌返航中空母</TR-Name>
+    <TR-Name>敌返航中空母(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>敵攻略支援部隊A群</JP-Name>
@@ -598,7 +594,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵攻略部隊本体</JP-Name>
-    <TR-Name>敌任务部队本体</TR-Name>
+    <TR-Name>敌攻略部队本体(Boss)</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>泊地哨戒線</JP-Name>
@@ -626,6 +622,6 @@
   </Sortie>
   <Sortie>
     <JP-Name>留守泊地旗艦艦隊</JP-Name>
-    <TR-Name>留守泊地旗舰舰队</TR-Name>
+    <TR-Name>留守泊地旗舰舰队(Boss)</TR-Name>
   </Sortie>
 </Operations>
