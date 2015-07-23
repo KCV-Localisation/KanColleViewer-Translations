@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.32.x">
+<Quests Version="1.0.32">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -264,7 +264,7 @@
     <JP-Name>新編「第二航空戦隊」を編成せよ！</JP-Name>
     <TR-Name>Form the new 2nd Carrier Division</TR-Name>
     <JP-Detail>「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
-    <TR-Detail>Have Hiryuu Kai Ni (飛龍改二, as the flagship), Souryuu (蒼龍) and 2 destroyers in your fleet.</TR-Detail>
+    <TR-Detail>Have Hiryuu Kai2 (飛龍改二, as the flagship), Souryuu (蒼龍) and 2 destroyers in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>139</ID>
@@ -285,14 +285,14 @@
     <JP-Name>再編成「第二航空戦隊」を強化せよ！</JP-Name>
     <TR-Name>Reorganise the Strengthened 2nd Carrier Division</TR-Name>
     <JP-Detail>「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
-    <TR-Detail>Have Souryuu Kai-2 (蒼龍改二) as flagship with Hiryuu Kai-2 (飛龍改二) and 2 destroyers in your fleet.</TR-Detail>
+    <TR-Detail>Have Souryuu Kai2 (蒼龍改二) as flagship with Hiryuu Kai2 (飛龍改二) and 2 destroyers in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>142</ID>
     <JP-Name>精鋭「第三戦隊」全艦集結せよ！</JP-Name>
     <TR-Name>Form the Elite 3rd Battleship Division</TR-Name>
     <JP-Detail>第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！</JP-Detail>
-    <TR-Detail>Have all four Kongou-class Kai 2 battleships in your main fleet.</TR-Detail>
+    <TR-Detail>Have all four Kongou-class Kai2 battleships in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>143</ID>
@@ -384,6 +384,13 @@
     <TR-Name>Form the New 6th Destroyer Division</TR-Name>
     <JP-Detail>「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
     <TR-Detail>Have only Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響), Ikazuchi (雷) and Inazuma (電) in your fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>156</ID>
+    <JP-Name>「第一水雷戦隊」北方突入準備！</JP-Name>
+    <TR-Name>Get the First Torpedo Squadron Ready for the Northern Offensive</TR-Name>
+    <JP-Detail>「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！</JP-Detail>
+    <TR-Detail>Have Abukuma (阿武隈) as the flagship, Hibiki (響), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -888,6 +895,13 @@
     <TR-Name>6th Destroyer Division's Thorough Anti-Submarine Patrol na no desu!</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
     <TR-Detail>Sortie Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響), Ikazuchi (雷) and Inazuma (電) to World 1-5 and score an A rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>278</ID>
+    <JP-Name>「第一水雷戦隊」ケ号作戦、突入せよ！</JP-Name>
+    <TR-Name>Sortie the First Torpedo Squadron on Operation Ke</TR-Name>
+    <JP-Detail>北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！</JP-Detail>
+    <TR-Detail>Sortie Abukuma (阿武隈) as the flagship, Hibiki (響), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) to World 3-2 and score a victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
