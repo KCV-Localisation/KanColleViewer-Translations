@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.28">
+<Ships Version="1.0.29">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -638,11 +638,11 @@
   </Ship>
   <Ship>
     <JP-Name>隼鷹</JP-Name>
-    <TR-Name>Junyou</TR-Name>
+    <TR-Name>Jun'you</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>隼鷹改</JP-Name>
-    <TR-Name>Junyou Kai</TR-Name>
+    <TR-Name>Jun'you Kai</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朧</JP-Name>
@@ -923,6 +923,10 @@
   <Ship>
     <JP-Name>阿武隈改</JP-Name>
     <TR-Name>Abukuma Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>阿武隈改二</JP-Name>
+    <TR-Name>Abukuma Kai2</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕張</JP-Name>

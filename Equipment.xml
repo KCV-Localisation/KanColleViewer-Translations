@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.22">
+<Equipment Version="1.0.24">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -222,7 +222,7 @@
   </Item>
   <Item>
     <JP-Name>紫電改二</JP-Name>
-    <TR-Name>Shiden Kai 2</TR-Name>
+    <TR-Name>Shiden Kai2</TR-Name>
   </Item>
   <Item>
     <JP-Name>震電改</JP-Name>
@@ -254,7 +254,7 @@
   </Item>
   <Item>
     <JP-Name>12.7cm連装砲B型改二</JP-Name>
-    <TR-Name>12.7cm Twin Mount Type-B Kai 2</TR-Name>
+    <TR-Name>12.7cm Twin Mount Type-B Kai2</TR-Name>
   </Item>
   <Item>
     <JP-Name>Ju87C改</JP-Name>
@@ -358,7 +358,7 @@
   </Item>
   <Item>
     <JP-Name>22号対水上電探改四</JP-Name>
-    <TR-Name>Type 22 Surface RADAR Kai 4</TR-Name>
+    <TR-Name>Type 22 Surface RADAR Kai4</TR-Name>
   </Item>
   <Item>
     <JP-Name>21号対空電探改</JP-Name>
@@ -567,5 +567,9 @@
   <Item>
     <JP-Name>96式150cm探照灯</JP-Name>
     <TR-Name>Type 96 150cm Searchlight</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>15m二重測距儀+21号電探改二</JP-Name>
+    <TR-Name>15m Duplex Rangefinder + Type 21 Air RADAR Kai2</TR-Name>
   </Item>
 </Equipment>

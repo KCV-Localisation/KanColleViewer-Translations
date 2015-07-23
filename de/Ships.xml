@@ -598,11 +598,15 @@
   </Ship>
   <Ship>
     <JP-Name>隼鷹</JP-Name>
-    <TR-Name>Junyou</TR-Name>
+    <TR-Name>Jun'you</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>隼鷹改</JP-Name>
-    <TR-Name>Junyou Kai</TR-Name>
+    <TR-Name>Jun'you Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>隼鷹改二</JP-Name>
+    <TR-Name>Jun'you Kai2</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朧</JP-Name>
