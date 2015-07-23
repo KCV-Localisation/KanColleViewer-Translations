@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.26">
+<Ships Version="1.0.27">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>长门</TR-Name>
@@ -513,6 +513,10 @@
     <TR-Name>加古改</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>加古改二</JP-Name>
+    <TR-Name>加古改二</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name>青葉</JP-Name>
     <TR-Name>青叶</TR-Name>
   </Ship>
@@ -673,12 +677,20 @@
     <TR-Name>潮改</TR-Name>
   </Ship>
   <Ship>
+    <JP-Name>潮改二</JP-Name>
+    <TR-Name>潮改二</TR-Name>
+  </Ship>
+  <Ship>
     <JP-Name>暁</JP-Name>
     <TR-Name>晓</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>暁改</JP-Name>
     <TR-Name>晓改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>暁改二</JP-Name>
+    <TR-Name>晓改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>響</JP-Name>
@@ -911,6 +923,10 @@
   <Ship>
     <JP-Name>阿武隈改</JP-Name>
     <TR-Name>阿武隈改</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>阿武隈改二</JP-Name>
+    <TR-Name>阿武隈改二</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕張</JP-Name>
@@ -1373,10 +1389,6 @@
     <TR-Name>秋月改</TR-Name>
   </Ship>
   <Ship>
-    <JP-Name>潮改二</JP-Name>
-    <TR-Name>潮改二</TR-Name>
-  </Ship>
-  <Ship>
     <JP-Name>扶桑改二</JP-Name>
     <TR-Name>扶桑改二</TR-Name>
   </Ship>
@@ -1429,43 +1441,43 @@
     <TR-Name>朝霜改</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>葛城</JP-Name>
-  	<TR-Name>葛城</TR-Name>
+    <JP-Name>葛城</JP-Name>
+    <TR-Name>葛城</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>葛城改</JP-Name>
-  	<TR-Name>葛城改</TR-Name>
+    <JP-Name>葛城改</JP-Name>
+    <TR-Name>葛城改</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>高波</JP-Name>
-  	<TR-Name>高波</TR-Name>
+    <JP-Name>高波</JP-Name>
+    <TR-Name>高波</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>高波改</JP-Name>
-  	<TR-Name>高波改</TR-Name>
+    <JP-Name>高波改</JP-Name>
+    <TR-Name>高波改</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>Littorio</JP-Name>
-  	<TR-Name>利托里奥</TR-Name>
+    <JP-Name>Littorio</JP-Name>
+    <TR-Name>利托里奥</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>Italia</JP-Name>
-  	<TR-Name>意大利</TR-Name>
+    <JP-Name>Italia</JP-Name>
+    <TR-Name>意大利</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>Roma</JP-Name>
-  	<TR-Name>罗马</TR-Name>
+    <JP-Name>Roma</JP-Name>
+    <TR-Name>罗马</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>Roma改</JP-Name>
-  	<TR-Name>罗马改</TR-Name>
+    <JP-Name>Roma改</JP-Name>
+    <TR-Name>罗马改</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>秋津洲</JP-Name>
-  	<TR-Name>秋津洲</TR-Name>
+    <JP-Name>秋津洲</JP-Name>
+    <TR-Name>秋津洲</TR-Name>
   </Ship>
   <Ship>
-  	<JP-Name>秋津洲改</JP-Name>
-  	<TR-Name>秋津洲改</TR-Name>
+    <JP-Name>秋津洲改</JP-Name>
+    <TR-Name>秋津洲改</TR-Name>
   </Ship>
 </Ships>
