@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.29">
+<Ships Version="1.0.30">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1479,5 +1479,61 @@
   <Ship>
   	<JP-Name>秋津洲改</JP-Name>
   	<TR-Name>Akitsushima Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Libeccio</JP-Name>
+    <TR-Name>Libeccio</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Libeccio改</JP-Name>
+    <TR-Name>Libeccio Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>照月</JP-Name>
+    <TR-Name>Teruzuki</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>照月改</JP-Name>
+    <TR-Name>Teruzuki Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>瑞穂</JP-Name>
+    <TR-Name>Mizuho</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>瑞穂改</JP-Name>
+    <TR-Name>Mizuho Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>風雲</JP-Name>
+    <TR-Name>Kazagumo</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>風雲改</JP-Name>
+    <TR-Name>Kazagumo Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>海風</JP-Name>
+    <TR-Name>Umikaze</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>海風改</JP-Name>
+    <TR-Name>Umikaze Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>江風</JP-Name>
+    <TR-Name>Kawakaze</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>江風改</JP-Name>
+    <TR-Name>Kawakaze Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>速吸</JP-Name>
+    <TR-Name>Hayasui</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>速吸改</JP-Name>
+    <TR-Name>Hayasui Kai</TR-Name>
   </Ship>
 </Ships>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.24">
+<Equipment Version="1.0.25">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -571,5 +571,25 @@
   <Item>
     <JP-Name>15m二重測距儀+21号電探改二</JP-Name>
     <TR-Name>15m Duplex Rangefinder + Type 21 Air RADAR Kai2</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>九七式艦攻(村田隊)</JP-Name>
+    <TR-Name>Type 97 Torpedo Bomber (Murata Squadron)‎</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>天山一二型(村田隊)</JP-Name>
+    <TR-Name>Tenzan Model 12 (Murata Squadron)‎</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>戦闘糧食</JP-Name>
+    <TR-Name>Combat Rations</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>洋上補給</JP-Name>
+    <TR-Name>Off-shore Resupply</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>120mm連装砲</JP-Name>
+    <TR-Name>120mm Twin Gun Mount</TR-Name>
   </Item>
 </Equipment>
