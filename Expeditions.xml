@@ -322,4 +322,18 @@
     <JP-Detail>主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)</JP-Detail>
     <TR-Detail>General Fleet Battle Support Missions: Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)</TR-Detail>
   </Expedition>
+  <Expedition>
+    <ID>157</ID>
+    <JP-Name>前衛支援任務</JP-Name>
+    <TR-Name>Expedition 157</TR-Name>
+    <JP-Detail>支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)</JP-Detail>
+    <TR-Detail>General Vanguard Support Missions: Deploy a support fleet to assist in defending against the enemy invasion force! (Sortie-Support Expedition))</TR-Detail>
+  </Expedition>
+  <Expedition>
+    <ID>158</ID>
+    <JP-Name>艦隊決戦支援任務</JP-Name>
+    <TR-Name>Expedition 158</TR-Name>
+    <JP-Detail>主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)</JP-Detail>
+    <TR-Detail>General Fleet Battle Support Missions: Deploy a support fleet to assist our main forces battle out against an enemy boss! (Sortie-Support Expedition)</TR-Detail>
+  </Expedition>
 </Expeditions>
