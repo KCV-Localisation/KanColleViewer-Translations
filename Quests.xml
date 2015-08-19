@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.33">
+<Quests Version="1.0.34">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1288,4 +1288,83 @@
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
     <TR-Detail>Perform 4 successful modernizations.</TR-Detail>
   </Quest>
+
+  <Quest>
+    <ID>280</ID>
+    <JP-Name>第二次SN作戦、初動作戦完了！</JP-Name>
+    <TR-Name>SN01: The Second Operation SN, Initial Operations Complete!</TR-Name>
+    <JP-Detail>ソロモン海域前方に展開した敵戦力を破砕して、初動作戦を完遂せよ！</JP-Detail>
+    <TR-Detail>Clear E-2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>620</ID>
+    <JP-Name>「工廠」倉庫の整理整頓！</JP-Name>
+    <TR-Name>SN02: Tidying Up the Arsenal!</TR-Name>
+    <JP-Detail>不要な装備を複数「廃棄」して、新装備受け入れのため「工廠」倉庫の整理を進めましょう！</JP-Detail>
+    <TR-Detail>Scrap Equipment 5 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>281</ID>
+    <JP-Name>主力機動部隊の前路哨戒を実施せよ！</JP-Name>
+    <TR-Name>SN03: Carry Out the Patrol on the Main Carrier Task Force's Rout!</TR-Name>
+    <JP-Detail>敵潜水艦を捕捉、これを複数撃滅し、我が主力機動部隊進出の前路を哨戒せよ！</JP-Detail>
+    <TR-Detail>Sink 6 Submarines.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>158</ID>
+    <JP-Name>「赤城」に艦攻「村田隊」を配属せよ！</JP-Name>
+    <TR-Name>SN04: Assign the Murata Squadron Torpedo Bomber to Akagi</TR-Name>
+    <JP-Detail>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</JP-Detail>
+    <TR-Detail>Set Akagi as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>282</ID>
+    <JP-Name>ソロモン海方面の制空権を奪え！</JP-Name>
+    <TR-Name>SN05: Snatch Away the Air Superiority in the Solomon Sea Area!</TR-Name>
+    <JP-Detail>ソロモン海方面の制空権を制する敵飛行場近海に我が挺身部隊を突入、これを破砕せよ！</JP-Detail>
+    <TR-Detail>Clear E-4.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>159</ID>
+    <JP-Name>「翔鶴」に艦攻「村田隊」を配置転換せよ！</JP-Name>
+    <TR-Name>SN06: Reassign the Murata Squadron Torpedo Bomber to Shoukaku!</TR-Name>
+    <JP-Detail>秘書艦を航空母艦「翔鶴」として、同艦に艦攻「村田隊」を配置転換せよ！</JP-Detail>
+    <TR-Detail>Set Shoukaku as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>310</ID>
+    <JP-Name>FS作戦に備え、艦隊練度向上に努めよ！</JP-Name>
+    <TR-Name>SN07: Increase the Fleet's Level of Training in Preparation for Operation FS!</TR-Name>
+    <JP-Detail>FS作戦に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！</JP-Detail>
+    <TR-Detail>Attain 4 victories in PVP.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>621</ID>
+    <JP-Name>「工廠」”機種転換”</JP-Name>
+    <TR-Name>SN08: Arsenal "Model Conversion"</TR-Name>
+    <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
+    <TR-Detail>Set Shoukaku equipped with Type 97 Torpedo Bomber (Murata Squadron) as the Secretary Ship, then Scrap 2 Tenzan (Heavenly Mountain).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>283</ID>
+    <JP-Name>西部方面派遣艦隊、出撃せよ！</JP-Name>
+    <TR-Name>SN09: Eastern Area Dispatch Fleet, Sortie!</TR-Name>
+    <JP-Detail>西方海域に西部方面派遣艦隊を派遣し、同方面の再集結中の敵増援艦隊を叩け！</JP-Detail>
+    <TR-Detail>Clear E-5.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>284</ID>
+    <JP-Name>FS作戦の橋頭堡を築け！</JP-Name>
+    <TR-Name>SN10: Establish a Bridgehead to Operation FS!</TR-Name>
+    <JP-Detail>敵機動部隊を捕捉、これを邀撃。敵空母の減勢を図り、FS方面進出の橋頭堡を形成せよ！</JP-Detail>
+    <TR-Detail>Sink 10 Aircraft Carriers (CVL counts).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>160</ID>
+    <JP-Name>空母機動部隊「第三艦隊」を編成せよ！</JP-Name>
+    <TR-Name>SN11: Organize the Third Fleet of the Carrier Task Force!</TR-Name>
+    <JP-Detail>連合艦隊編成で第一艦隊に「翔鶴」「瑞鶴」「瑞鳳」を配備した、第三艦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Create a Carrier Task Force (Combined Fleet) containing Shoukaku, Zuikaku and Zuihou in the first fleet.</TR-Detail>
+  </Quest>
+
 </Quests>
