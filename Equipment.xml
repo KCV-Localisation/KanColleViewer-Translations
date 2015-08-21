@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.25">
+<Equipment Version="1.0.26">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -591,5 +591,9 @@
   <Item>
     <JP-Name>120mm連装砲</JP-Name>
     <TR-Name>120mm Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>試製南山</JP-Name>
+    <TR-Name>Prototype Nanzan</TR-Name>
   </Item>
 </Equipment>
