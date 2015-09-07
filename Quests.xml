@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.35">
+<Quests Version="1.0.36">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -929,7 +929,7 @@
     <JP-Name>鎮守府正面の対潜哨戒を強化せよ！</JP-Name>
     <TR-Name>These Anti-Submarine Patrols Just Won't End Any Time Soon</TR-Name>
     <JP-Detail>鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 1-5 and score 4 A rank (or higher) victories at the boss node.</TR-Detail>
+    <TR-Detail>Sortie to World 1-5 and score 4 victories at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
