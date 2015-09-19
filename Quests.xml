@@ -486,7 +486,7 @@
   <Quest>
     <ID>213</ID>
     <JP-Name>海上通商破壊作戦</JP-Name>
-    <TR-Name>Bw3: Maritime Trade Disrupt Operation</TR-Name>
+    <TR-Name>Bw3: Disrupt the Marine Trade</TR-Name>
     <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
     <TR-Detail>Sink 20 enemy transport ships.</TR-Detail>
   </Quest>
@@ -521,7 +521,7 @@
   <Quest>
     <ID>218</ID>
     <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
-    <TR-Name>Bd5: Sink 3 Enemy Transport Ships</TR-Name>
+    <TR-Name>Bd5: Sink 3 Transport Ships</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sink 3 enemy transport ships.</TR-Detail>
   </Quest>
@@ -577,7 +577,7 @@
   <Quest>
     <ID>226</ID>
     <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
-    <TR-Name>Bd7: Seize Control of the Southwestern Archipelago Sea</TR-Name>
+    <TR-Name>Bd7: Control the Southwest</TR-Name>
     <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
     <TR-Detail>Defeat 5 bosses in World 2.</TR-Detail>
   </Quest>
@@ -598,7 +598,7 @@
   <Quest>
     <ID>229</ID>
     <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
-    <TR-Name>Bw6: Destroy the Enemy's Eastern Fleet</TR-Name>
+    <TR-Name>Bw6: Destroy the Eastern Fleet</TR-Name>
     <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Defeat 12 bosses in World 4.</TR-Detail>
   </Quest>
@@ -647,21 +647,21 @@
   <Quest>
     <ID>241</ID>
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Bw7: Destroy the Main Force of the Enemy's Northern Fleet</TR-Name>
+    <TR-Name>Bw7: Destroy the Main Force of the Northern Fleet</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Defeat 5 bosses in Worlds 3-3, 3-4 or 3-5.</TR-Detail>
   </Quest>
   <Quest>
     <ID>242</ID>
     <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Bw8: Crush the Core of the Enemy's Eastern Fleet</TR-Name>
+    <TR-Name>Bw8: Crush the Core of the Eastern Fleet</TR-Name>
     <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
     <TR-Detail>Defeat World 4-4 boss.</TR-Detail>
   </Quest>
   <Quest>
     <ID>243</ID>
     <JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
-    <TR-Name>Bw9: Seize Air Superiority on the Southern Sea Coral Islands</TR-Name>
+    <TR-Name>Bw9: Seize Air Superiority in the South</TR-Name>
     <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
     <TR-Detail>Score two S rank victories at the boss node of World 5-2.</TR-Detail>
   </Quest>
@@ -941,21 +941,21 @@
   <Quest>
     <ID>302</ID>
     <JP-Name>大規模演習</JP-Name>
-    <TR-Name>C4(w): Large-scale Exercises</TR-Name>
+    <TR-Name>C4w: Large-scale Exercises</TR-Name>
     <JP-Detail>今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！</JP-Detail>
     <TR-Detail>Get 20 victories in exercises within the same week.</TR-Detail>
   </Quest>
   <Quest>
     <ID>303</ID>
     <JP-Name>「演習」で練度向上！</JP-Name>
-    <TR-Name>C2(d1): Increase the Level of Training</TR-Name>
+    <TR-Name>C2d1: Do Exercises</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊に対して3回「演習」を挑もう！</JP-Detail>
     <TR-Detail>Challenge 3 other fleets in exercises within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>304</ID>
     <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
-    <TR-Name>C3(d2): Overwhelm the Other Admirals</TR-Name>
+    <TR-Name>C3d2: Defeat other Admirals</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
     <TR-Detail>Get 5 victories in exercises within the same day.</TR-Detail>
   </Quest>
@@ -990,7 +990,7 @@
   <Quest>
     <ID>311</ID>
     <JP-Name>精鋭艦隊演習</JP-Name>
-    <TR-Name>C8(m): Exercises for the Elite</TR-Name>
+    <TR-Name>C8m: Exercises for the Elite</TR-Name>
     <JP-Detail>同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
     <TR-Detail>Get 7 victories in exercises within the same day.</TR-Detail>
   </Quest>
@@ -1004,21 +1004,21 @@
   <Quest>
     <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
-    <TR-Name>D2(d1): Complete 3 Expeditions</TR-Name>
+    <TR-Name>D2d1: Complete 3 Expeditions</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
     <TR-Detail>Perform 3 successful expeditions within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>403</ID>
     <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
-    <TR-Name>D3(d2): Complete 10 Expeditions</TR-Name>
+    <TR-Name>D3d2: Complete 10 Expeditions</TR-Name>
     <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
     <TR-Detail>Perform 10 successful expeditions within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>404</ID>
     <JP-Name>大規模遠征作戦、発令！</JP-Name>
-    <TR-Name>D4(w1): Large-scale Expedition Operation</TR-Name>
+    <TR-Name>D4w1: Large-scale Expedition Operation</TR-Name>
     <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
     <TR-Detail>Perform 30 successful expeditions within the same week.</TR-Detail>
   </Quest>
@@ -1053,14 +1053,14 @@
   <Quest>
     <ID>410</ID>
     <JP-Name>南方への輸送作戦を成功させよ！</JP-Name>
-    <TR-Name>D9(w2): Transportation towards South</TR-Name>
+    <TR-Name>D9w2: Transportation towards South</TR-Name>
     <JP-Detail>激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！</JP-Detail>
     <TR-Detail>Complete expedition 37 or 38 (東京急行).</TR-Detail>
   </Quest>
   <Quest>
     <ID>411</ID>
     <JP-Name>南方への鼠輸送を継続実施せよ！</JP-Name>
-    <TR-Name>D11(w3): Transportation towards South (Cont.)</TR-Name>
+    <TR-Name>D11w3: Transportation towards South (Cont.)</TR-Name>
     <JP-Detail>今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！</JP-Detail>
     <TR-Detail>Complete expedition 37 or 38 (東京急行) a total of 7 times in a week.</TR-Detail>
   </Quest>
@@ -1137,14 +1137,14 @@
   <Quest>
     <ID>503</ID>
     <JP-Name>艦隊大整備！</JP-Name>
-    <TR-Name>E3(d1): Daily Repairs</TR-Name>
+    <TR-Name>E3d1: Daily Repairs</TR-Name>
     <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
     <TR-Detail>Repair 5 ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>504</ID>
     <JP-Name>艦隊酒保祭り！</JP-Name>
-    <TR-Name>E4(d2): Daily Resupplies</TR-Name>
+    <TR-Name>E4d2: Daily Resupplies</TR-Name>
     <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
     <TR-Detail>Resupply your ships 15 times.</TR-Detail>
   </Quest>
@@ -1179,35 +1179,35 @@
   <Quest>
     <ID>605</ID>
     <JP-Name>新装備「開発」指令</JP-Name>
-    <TR-Name>F5(d1): Develop New Equipment 1</TR-Name>
+    <TR-Name>F5d1: Develop New Equipment</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！</JP-Detail>
     <TR-Detail>Craft a piece of equipment. (Failures are OK)</TR-Detail>
   </Quest>
   <Quest>
     <ID>606</ID>
     <JP-Name>新造艦「建造」指令</JP-Name>
-    <TR-Name>F6(d2): Construct New Ship 1</TR-Name>
+    <TR-Name>F6d2: Construct New Ship</TR-Name>
     <JP-Detail>「工廠」で艦娘を本日中に新たに「建造」しよう！</JP-Detail>
     <TR-Detail>Craft a ship.</TR-Detail>
   </Quest>
   <Quest>
     <ID>607</ID>
     <JP-Name>装備「開発」集中強化！</JP-Name>
-    <TR-Name>F7(d3): Develop New Equipment 2</TR-Name>
+    <TR-Name>F7d3: Develop New Equipment</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！</JP-Detail>
     <TR-Detail>Craft 3 pieces of equipment. (Failures are OK)</TR-Detail>
   </Quest>
   <Quest>
     <ID>608</ID>
     <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
-    <TR-Name>F8(d4): Construct New Ship 2</TR-Name>
+    <TR-Name>F8d4: Construct New Ships</TR-Name>
     <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
     <TR-Detail>Craft 3 ships.</TR-Detail>
   </Quest>
   <Quest>
     <ID>609</ID>
     <JP-Name>軍縮条約対応！</JP-Name>
-    <TR-Name>F9(d5): Dismantlement Duty</TR-Name>
+    <TR-Name>F9d5: Dismantlement Duty</TR-Name>
     <JP-Detail>少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！</JP-Detail>
     <TR-Detail>Scrap 2 ships.</TR-Detail>
   </Quest>
@@ -1235,7 +1235,7 @@
   <Quest>
     <ID>613</ID>
     <JP-Name>資源の再利用</JP-Name>
-    <TR-Name>F12(w): Recycling Resources</TR-Name>
+    <TR-Name>F12w: Recycling Resources</TR-Name>
     <JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
     <TR-Detail>Scrap equipment 24 times.</TR-Detail>
   </Quest>
@@ -1277,7 +1277,7 @@
   <Quest>
     <ID>619</ID>
     <JP-Name>装備の改修強化</JP-Name>
-    <TR-Name>F18(d6): Equipment Improvement</TR-Name>
+    <TR-Name>F18d6: Improve Equipment</TR-Name>
     <JP-Detail>「改修工廠」で「装備」の改修強化に努めます。</JP-Detail>
     <TR-Detail>Perform equipment modernisation once.</TR-Detail>
   </Quest>
@@ -1291,14 +1291,14 @@
   <Quest>
     <ID>702</ID>
     <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
-    <TR-Name>G2(d): Ship Modernizations</TR-Name>
+    <TR-Name>G2d: Ship Modernizations</TR-Name>
     <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
     <TR-Detail>Perform 2 successful modernizations within the same day.</TR-Detail>
   </Quest>
   <Quest>
     <ID>703</ID>
     <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
-    <TR-Name>G3(w): Proceed with Modernizations</TR-Name>
+    <TR-Name>G3w: Proceed with Modernizations</TR-Name>
     <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
     <TR-Detail>Perform 15 successful modernizations within the same week.</TR-Detail>
   </Quest>
