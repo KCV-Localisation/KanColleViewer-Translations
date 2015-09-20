@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.5">
+<Operations Version="1.0.6">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>World 1-1</TR-Name>
@@ -115,34 +115,6 @@
   <Map>
     <JP-Name>グアノ環礁沖海域</JP-Name>
     <TR-Name>World 6-3</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>ショートランド沖</JP-Name>
-    <TR-Name>E-1</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>ソロモン海</JP-Name>
-    <TR-Name>E-2</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>南太平洋海域</JP-Name>
-    <TR-Name>E-3</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>アイアンボトムサウンド</JP-Name>
-    <TR-Name>E-4</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>西方海域戦線 カレー洋</JP-Name>
-    <TR-Name>E-5</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>ソロモン海東部海域</JP-Name>
-    <TR-Name>E-6</TR-Name>
-  </Map>
-  <Map>
-    <JP-Name>FS方面海域</JP-Name>
-    <TR-Name>E-7</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>渦潮</JP-Name>
@@ -468,4 +440,154 @@
     <JP-Name>敵潜水主力艦隊</JP-Name>
     <TR-Name>Main Submarine Force (Boss)</TR-Name>
   </Sortie>
+
+  <Sortie>
+    <JP-Name>任務部隊C群 前衛部隊</JP-Name>
+    <TR-Name>1-6-B</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>通商破壊潜水艦隊 II群</JP-Name>
+    <TR-Name>1-6-C</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊(第二波)</JP-Name>
+    <TR-Name>1-6-D</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 III群</JP-Name>
+    <TR-Name>1-6-E</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊C群 機動部隊</JP-Name>
+    <TR-Name>1-6-F</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>通商破壊潜水艦隊 I群</JP-Name>
+    <TR-Name>1-6-I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊本隊</JP-Name>
+    <TR-Name>1-6-J</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊支援 水上打撃部隊</JP-Name>
+    <TR-Name>1-6-K</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊A群 機動部隊(第一波)</JP-Name>
+    <TR-Name>1-6-L</TR-Name>
+  </Sortie>
+
+  <Sortie>
+    <JP-Name>敵水雷戦隊</JP-Name>
+    <TR-Name>2-5-A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵前衛艦隊</JP-Name>
+    <TR-Name>2-5-B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵巡洋艦隊</JP-Name>
+    <TR-Name>2-5-D</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵水上打撃部隊</JP-Name>
+    <TR-Name>2-5-E</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵機動艦隊</JP-Name>
+    <TR-Name>2-5-I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵侵攻部隊</JP-Name>
+    <TR-Name>2-5-J</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵主力艦隊</JP-Name>
+    <TR-Name>2-5-L (Boss)</TR-Name>
+  </Sortie>
+
+  <Sortie>
+    <JP-Name>北方前衛警戒部隊</JP-Name>
+    <TR-Name>3-5-A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛A</JP-Name>
+    <TR-Name>3-5-B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方派遣任務部隊</JP-Name>
+    <TR-Name>3-5-C</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方遊撃部隊</JP-Name>
+    <TR-Name>3-5-E</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方AL泊地</JP-Name>
+    <TR-Name>3-5-F</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊前衛B</JP-Name>
+    <TR-Name>3-5-G</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>北方増援部隊主力</JP-Name>
+    <TR-Name>3-5-K (Boss)</TR-Name>
+  </Sortie>
+
+  <Sortie>
+    <JP-Name>中部海域 敵遊撃部隊</JP-Name>
+    <TR-Name>6-1-B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 A地点</JP-Name>
+    <TR-Name>6-1-C</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 B地点</JP-Name>
+    <TR-Name>6-1-D</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>中部海域哨戒戦 D地点</JP-Name>
+    <TR-Name>6-1-F</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵機動部隊</JP-Name>
+    <TR-Name>6-1-H</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵回航中空母</JP-Name>
+    <TR-Name>6-1-K (Boss)</TR-Name>
+  </Sortie>
+
+  <Sortie>
+    <JP-Name>敵攻略支援部隊A群</JP-Name>
+    <TR-Name>6-2-A</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵攻略支援部隊B群</JP-Name>
+    <TR-Name>6-2-B</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵空母機動部隊</JP-Name>
+    <TR-Name>6-2-E</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵高速水上打撃部隊</JP-Name>
+    <TR-Name>6-2-G</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵任務部隊B群</JP-Name>
+    <TR-Name>6-2-H</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵任務部隊A群</JP-Name>
+    <TR-Name>6-2-I</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>敵攻略部隊本体</JP-Name>
+    <TR-Name>6-2-K (Boss)</TR-Name>
+  </Sortie>
+
 </Operations>
