@@ -52,42 +52,42 @@
   <Quest>
     <ID>108</ID>
     <JP-Name>「天龍」型軽巡姉妹の全２艦を編成せよ！</JP-Name>
-    <TR-Name>A8: Form the Tenryuu-class</TR-Name>
+    <TR-Name>A8: Form a Tenryuu-class Fleet</TR-Name>
     <JP-Detail>天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！</JP-Detail>
     <TR-Detail>Have Tenryuu (天龍) and Tatsuta (龍田) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>109</ID>
     <JP-Name>「川内」型軽巡姉妹の全３艦を編成せよ！</JP-Name>
-    <TR-Name>A14: Form the Sendai-class</TR-Name>
+    <TR-Name>A14: Form a Sendai-class Fleet</TR-Name>
     <JP-Detail>川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！</JP-Detail>
     <TR-Detail>Have Sendai (川内), Jintsuu (神通) and Naka (那珂) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>110</ID>
     <JP-Name>「妙高」型重巡姉妹の全４隻を編成せよ！</JP-Name>
-    <TR-Name>A15: Form the Myoukou-class</TR-Name>
+    <TR-Name>A15: Form a Myoukou-class Fleet</TR-Name>
     <JP-Detail>妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！</JP-Detail>
     <TR-Detail>Have Myoukou (妙高), Nachi (那智), Ashigara (足柄) and Haguro (羽黒) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>111</ID>
     <JP-Name>「扶桑」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
-    <TR-Name>A17: Form the Fusou-class</TR-Name>
+    <TR-Name>A17: Form a Fusou-class Fleet</TR-Name>
     <JP-Detail>扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！</JP-Detail>
     <TR-Detail>Have Fusou (扶桑) and Yamashiro (山城) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>112</ID>
     <JP-Name>「伊勢」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
-    <TR-Name>A18: Form the Ise-class</TR-Name>
+    <TR-Name>A18: Form an Ise-class Fleet</TR-Name>
     <JP-Detail>伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！</JP-Detail>
     <TR-Detail>Have Ise (伊勢) and Hyuuga (日向) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>113</ID>
     <JP-Name>戦艦と重巡による主力艦隊を編成せよ！</JP-Name>
-    <TR-Name>A13: Form the Main Fleet with BB and CA</TR-Name>
+    <TR-Name>A13: Form a Main Fleet using BB and CA</TR-Name>
     <JP-Detail>戦艦1隻以上、重巡2隻以上を主力とした水上打撃艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have a BB (slow or fast, BBV don't count) and 2 CA in your main fleet.</TR-Detail>
   </Quest>
@@ -101,7 +101,7 @@
   <Quest>
     <ID>115</ID>
     <JP-Name>第２艦隊を編成せよ！</JP-Name>
-    <TR-Name>A6: Form the Second Fleet</TR-Name>
+    <TR-Name>A6: Form a Second Fleet</TR-Name>
     <JP-Detail>二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have a flagship in your second fleet.</TR-Detail>
   </Quest>
@@ -122,7 +122,7 @@
   <Quest>
     <ID>118</ID>
     <JP-Name>「金剛」型による高速戦艦部隊を編成せよ！</JP-Name>
-    <TR-Name>A16: Form the Kongou-class</TR-Name>
+    <TR-Name>A16: Form a Kongou-class Fleet</TR-Name>
     <JP-Detail>金剛型戦艦「金剛」「比叡」「榛名」「霧島」全４隻の高速戦艦を集中配備せよ！</JP-Detail>
     <TR-Detail>Have Kongou (金剛), Hiei (比叡), Haruna (榛名) and Kirishima (霧島) in your main fleet.</TR-Detail>
   </Quest>
@@ -276,7 +276,7 @@
   <Quest>
     <ID>140</ID>
     <JP-Name>新型電探を配備せよ！</JP-Name>
-    <TR-Name>A38: Test the new RADAR</TR-Name>
+    <TR-Name>A38: Test the New RADAR</TR-Name>
     <JP-Detail>新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！</JP-Detail>
     <TR-Detail>Have Myoukou Kai2 (妙高改二) as the flagship of your fleet.</TR-Detail>
   </Quest>
@@ -311,7 +311,7 @@
   <Quest>
     <ID>145</ID>
     <JP-Name>戦艦を主力とした水上打撃部隊を編成せよ！</JP-Name>
-    <TR-Name>A43: Form the Main Battleship Force</TR-Name>
+    <TR-Name>A43: Form the Surface Strike Fleet</TR-Name>
     <JP-Detail>大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！</JP-Detail>
     <TR-Detail>Have 3 battleships of Nagato, Fusou, Ise or Yamato classes and a CL in your main fleet.</TR-Detail>
   </Quest>
@@ -325,14 +325,14 @@
   <Quest>
     <ID>147</ID>
     <JP-Name>「西村艦隊」を再編成せよ！</JP-Name>
-    <TR-Name>A44: Reorganize the Nishimura Fleet</TR-Name>
+    <TR-Name>A44: Form the Reorganised Nishimura Fleet</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>148</ID>
     <JP-Name>軽快な「水上反撃部隊」を編成せよ！</JP-Name>
-    <TR-Name>A46: Form the Counterattack Squadron</TR-Name>
+    <TR-Name>A46: Form a Counterattack Squadron</TR-Name>
     <JP-Detail>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</JP-Detail>
     <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), 1 CL and 3 more DD in your main fleet.</TR-Detail>
   </Quest>
@@ -388,14 +388,14 @@
   <Quest>
     <ID>156</ID>
     <JP-Name>「第一水雷戦隊」北方突入準備！</JP-Name>
-    <TR-Name>A54: Get the 1st Torpedo Squadron Ready to Sortie to the North</TR-Name>
+    <TR-Name>A54: Prepare the 1st Torpedo Squadron for the Deployment to the Northern Sea</TR-Name>
     <JP-Detail>「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！</JP-Detail>
     <TR-Detail>Have Abukuma (阿武隈) as the flagship, Hibiki (響 or Верный), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>157</ID>
     <JP-Name>「第一水雷戦隊」北方再突入準備！</JP-Name>
-    <TR-Name>A55: Get the 1st Torpedo Squadron Ready for Another Sortie to the North</TR-Name>
+    <TR-Name>A55: Prepare the 1st Torpedo Squadron for Another Sortie to the Northern Sea</TR-Name>
     <JP-Detail>「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！</JP-Detail>
     <TR-Detail>Have Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki (響 or Верный), Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) in your main fleet.</TR-Detail>
   </Quest>
@@ -416,14 +416,14 @@
   <Quest>
     <ID>203</ID>
     <JP-Name>鎮守府正面海域を護れ！</JP-Name>
-    <TR-Name>B2: Protect the Seas of Chinju-Fu</TR-Name>
+    <TR-Name>B2: Protect the Sea Near the Naval Base</TR-Name>
     <JP-Detail>鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！</JP-Detail>
     <TR-Detail>Sortie to World 1-1 and clear the stage.</TR-Detail>
   </Quest>
   <Quest>
     <ID>204</ID>
     <JP-Name>南西諸島沖に出撃せよ！</JP-Name>
-    <TR-Name>B4: Sortie to the Coast of Nansei Islands</TR-Name>
+    <TR-Name>B4: Sortie to the Sea Around Nansei Islands</TR-Name>
     <JP-Detail>南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
     <TR-Detail>Sortie to World 1-2 and clear the stage.</TR-Detail>
   </Quest>
@@ -437,7 +437,7 @@
   <Quest>
     <ID>206</ID>
     <JP-Name>「水雷戦隊」で出撃せよ！</JP-Name>
-    <TR-Name>B6: Sortie the Torpedo Squadron</TR-Name>
+    <TR-Name>B6: Sortie a Torpedo Squadron</TR-Name>
     <JP-Detail>軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with a CL as flagship and 3 DD as escorts.</TR-Detail>
   </Quest>
@@ -493,14 +493,14 @@
   <Quest>
     <ID>214</ID>
     <JP-Name>あ号作戦</JP-Name>
-    <TR-Name>Bw1: Operation A-gou</TR-Name>
+    <TR-Name>Bw1: Operation A-Go</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
     <TR-Detail>Sortie your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S rank victories.</TR-Detail>
   </Quest>
   <Quest>
     <ID>215</ID>
     <JP-Name>第２艦隊、出撃せよ！</JP-Name>
-    <TR-Name>B3: Second Fleet Sortie</TR-Name>
+    <TR-Name>B3: Second Fleet's Deployment</TR-Name>
     <JP-Detail>新たに編成した「第２艦隊」を出撃させよ！</JP-Detail>
     <TR-Detail>Sortie your 2nd Fleet on a combat mission.</TR-Detail>
   </Quest>
@@ -535,14 +535,14 @@
   <Quest>
     <ID>220</ID>
     <JP-Name>い号作戦</JP-Name>
-    <TR-Name>Bw2: Operation I-gou</TR-Name>
+    <TR-Name>Bw2: Operation I-Go</TR-Name>
     <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
     <TR-Detail>Sink 20 enemy aircraft carriers (CV/CVL).</TR-Detail>
   </Quest>
   <Quest>
     <ID>221</ID>
     <JP-Name>ろ号作戦</JP-Name>
-    <TR-Name>Bw4: Operation Ro-gou</TR-Name>
+    <TR-Name>Bw4: Operation Ro-Go</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！</JP-Detail>
     <TR-Detail>Sink 50 enemy transport ships.</TR-Detail>
   </Quest>
@@ -577,7 +577,7 @@
   <Quest>
     <ID>226</ID>
     <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
-    <TR-Name>Bd7: Control the Southwest</TR-Name>
+    <TR-Name>Bd7: Gain Control of the Nansei Islands</TR-Name>
     <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
     <TR-Detail>Defeat 5 bosses in World 2.</TR-Detail>
   </Quest>
@@ -591,14 +591,14 @@
   <Quest>
     <ID>228</ID>
     <JP-Name>海上護衛戦</JP-Name>
-    <TR-Name>Bw5: Marine Escort Battle</TR-Name>
+    <TR-Name>Bw5: Maritime Escort Operation</TR-Name>
     <JP-Detail>有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！</JP-Detail>
     <TR-Detail>Sink 15 enemy submarines.</TR-Detail>
   </Quest>
   <Quest>
     <ID>229</ID>
     <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
-    <TR-Name>Bw6: Destroy the Eastern Fleet</TR-Name>
+    <TR-Name>Bw6: Eliminate the Enemy's Eastern Fleet</TR-Name>
     <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Defeat 12 bosses in World 4.</TR-Detail>
   </Quest>
@@ -647,7 +647,7 @@
   <Quest>
     <ID>241</ID>
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Bw7: Destroy the Main Force of the Northern Fleet</TR-Name>
+    <TR-Name>Bw7: Eliminate the Main Forces of the Enemy's Northern Fleet</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Defeat 5 bosses in Worlds 3-3, 3-4 or 3-5.</TR-Detail>
   </Quest>
@@ -724,7 +724,7 @@
   <Quest>
     <ID>252</ID>
     <JP-Name>戦艦「榛名」出撃せよ！</JP-Name>
-    <TR-Name>B27: Sortie a Haruna-led Fleet</TR-Name>
+    <TR-Name>B27: Deploy a Fleet Led By Haruna</TR-Name>
     <JP-Detail>第二次改装実施した「榛名」を基幹とした艦隊で「南方海域」へ進出、敵艦隊主力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Haruna Kai2 (榛名改二) as the flagship and up to 5 additional ships to World 5-1 and score an S rank victory against the boss.</TR-Detail>
   </Quest>
@@ -773,14 +773,14 @@
   <Quest>
     <ID>259</ID>
     <JP-Name>「水上打撃部隊」南方へ！</JP-Name>
-    <TR-Name>Bm4: Surface Attack Fleet, toward South</TR-Name>
+    <TR-Name>Bm4: Surface Strike Fleet, Onwards to the South!</TR-Name>
     <JP-Detail>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie 3 BB/BBV (only slow battleships), 1 CL and up to 2 additional ships to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>260</ID>
     <JP-Name>「戦艦部隊」北方海域に突入せよ！</JP-Name>
-    <TR-Name>B32: Sortie the Battleship Squadron in the Northern Waters</TR-Name>
+    <TR-Name>B32: Sortie a Battleship Squadron to the Northern Sea</TR-Name>
     <JP-Detail>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie 2 BB (slow or fast, BBV don't count), 1 CVL and up to 3 additional ships to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
@@ -794,7 +794,7 @@
   <Quest>
     <ID>262</ID>
     <JP-Name>「西村艦隊」南方海域へ進出せよ！</JP-Name>
-    <TR-Name>B33: Sortie the Nishimura Fleet in the Southern Waters</TR-Name>
+    <TR-Name>B33: Sortie the Nishimura Fleet to the Southern Waters</TR-Name>
     <JP-Detail>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
@@ -808,7 +808,7 @@
   <Quest>
     <ID>264</ID>
     <JP-Name>「空母機動部隊」西へ！</JP-Name>
-    <TR-Name>Bm6: Carrier Task Force, toward West</TR-Name>
+    <TR-Name>Bm6: Carrier Task Force, Onwards to the West!</TR-Name>
     <JP-Detail>航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet consisting of 2 CV/CVL, 2 DD and 2 additional ships to World 4-2. Score an S rank victory at the boss node.</TR-Detail>
   </Quest>
@@ -885,7 +885,7 @@
   <Quest>
     <ID>275</ID>
     <JP-Name>抜錨！「第十八戦隊」</JP-Name>
-    <TR-Name>B43: 18th Cruiser Division, Set Sail</TR-Name>
+    <TR-Name>B43: 18th Cruiser Division, Set Sail!</TR-Name>
     <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
@@ -934,7 +934,7 @@
   <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
-    <TR-Name>C1: First Exercise</TR-Name>
+    <TR-Name>C1: Your First Exercise</TR-Name>
     <JP-Detail>他の提督(プレイヤー)の艦隊と「演習」を行おう！</JP-Detail>
     <TR-Detail>Challenge another fleet in exercises.</TR-Detail>
   </Quest>
@@ -955,7 +955,7 @@
   <Quest>
     <ID>304</ID>
     <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
-    <TR-Name>C3d2: Defeat other Admirals</TR-Name>
+    <TR-Name>C3d2: Defeat Other Admirals</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
     <TR-Detail>Get 5 victories in exercises within the same day.</TR-Detail>
   </Quest>
@@ -976,7 +976,7 @@
   <Quest>
     <ID>308</ID>
     <JP-Name>演習を強化、艦隊の練度向上に努めよ！</JP-Name>
-    <TR-Name>C6: Improve the Efficiency of the Fleet One More Time</TR-Name>
+    <TR-Name>C6: Improve the Efficiency of the Fleet Again</TR-Name>
     <JP-Detail>艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！</JP-Detail>
     <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
   </Quest>
@@ -1053,14 +1053,14 @@
   <Quest>
     <ID>410</ID>
     <JP-Name>南方への輸送作戦を成功させよ！</JP-Name>
-    <TR-Name>D9w2: Transportation towards South</TR-Name>
+    <TR-Name>D9w2: Transportation Towards South</TR-Name>
     <JP-Detail>激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！</JP-Detail>
     <TR-Detail>Complete expedition 37 or 38 (東京急行).</TR-Detail>
   </Quest>
   <Quest>
     <ID>411</ID>
     <JP-Name>南方への鼠輸送を継続実施せよ！</JP-Name>
-    <TR-Name>D11w3: Transportation towards South (Cont.)</TR-Name>
+    <TR-Name>D11w3: Transportation Towards South (Cont.)</TR-Name>
     <JP-Detail>今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！</JP-Detail>
     <TR-Detail>Complete expedition 37 or 38 (東京急行) a total of 7 times in a week.</TR-Detail>
   </Quest>
@@ -1193,14 +1193,14 @@
   <Quest>
     <ID>607</ID>
     <JP-Name>装備「開発」集中強化！</JP-Name>
-    <TR-Name>F7d3: Develop New Equipment</TR-Name>
+    <TR-Name>F7d3: Develop More Equipment</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！</JP-Detail>
     <TR-Detail>Craft 3 pieces of equipment. (Failures are OK)</TR-Detail>
   </Quest>
   <Quest>
     <ID>608</ID>
     <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
-    <TR-Name>F8d4: Construct New Ships</TR-Name>
+    <TR-Name>F8d4: Construct More New Ships</TR-Name>
     <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
     <TR-Detail>Craft 3 ships.</TR-Detail>
   </Quest>
