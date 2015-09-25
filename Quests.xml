@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.37">
+<Quests Version="1.0.38">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -400,6 +400,27 @@
     <TR-Detail>Have Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki (響 or Верный), Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>161</ID>
+    <JP-Name>「第五航空戦隊」を再編成せよ！</JP-Name>
+    <TR-Name>A56: Reorganise the 5th Carrier Division</TR-Name>
+    <JP-Detail>「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧) and Akigumo (秋雲) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>162</ID>
+    <JP-Name>新編「第二一戦隊」出撃準備！</JP-Name>
+    <TR-Name>A57: Prepare the New 21st Cruiser Division for Sortie</TR-Name>
+    <JP-Detail>「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Nachi Kai2 (那智改二), Ashigara Kai2 (足柄改二), Tama (多摩) and Kiso (木曾) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>163</ID>
+    <JP-Name>「第十六戦隊(第一次)」を編成せよ！</JP-Name>
+    <TR-Name>A58: Organise the 16th Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>
+    <TR-Detail>Have Ashigara (足柄) as the flagship, Kuma (球磨) and Nagara (長良) in your main fleet.</TR-Detail>
+  </Quest>
+   <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
@@ -932,6 +953,27 @@
     <TR-Detail>Sortie to World 1-5 and score 4 victories at the boss node.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>287</ID>
+    <JP-Name>「第五航空戦隊」珊瑚諸島沖に出撃せよ！</JP-Name>
+    <TR-Name>B50: Sortie the 5th CarDiv to the South</TR-Name>
+    <JP-Detail>再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧), Akigumo (秋雲) and up to 2 additional ships to World 5-2 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>288</ID>
+    <JP-Name>新編「第二一戦隊」北方へ出撃せよ！</JP-Name>
+    <TR-Name>B51: Sortie the New 21st Cruiser Division</TR-Name>
+    <JP-Detail>新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Nachi Kai2 (那智改二), Ashigara Kai2 (足柄改二), Tama (多摩), Kiso (木曾) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>289</ID>
+    <JP-Name>「第十六戦隊(第一次)」出撃せよ！</JP-Name>
+    <TR-Name>B52: Sortie the 16th Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Ashigara (足柄) as the flagship, Kuma (球磨), Nagara (長良) and up to 3 additional ships to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: Your First Exercise</TR-Name>
@@ -1121,6 +1163,13 @@
     <TR-Detail>Complete expedition 8 (観艦式).</TR-Detail>
   </Quest>
   <Quest>
+    <ID>420</ID>
+    <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
+    <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
+    <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
+    <TR-Detail>Complete expeditions 26 (MO作戦) and 35 (敵母港空襲作戦).</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
     <TR-Name>E1: First Supply</TR-Name>
@@ -1280,6 +1329,20 @@
     <TR-Name>F18d6: Improve Equipment</TR-Name>
     <JP-Detail>「改修工廠」で「装備」の改修強化に努めます。</JP-Detail>
     <TR-Detail>Perform equipment modernisation once.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>622</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>F20: Model Conversion</TR-Name>
+    <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Shoukaku equipped with a Type 97 Torpedo Bomber (Murata Squadron)‎ as your secretary, scrap 2 Tenzans to upgrade the Type 97 to Tenzan Model 12 (Murata Squadron).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>623</ID>
+    <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
+    <TR-Name>F19: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
+    <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
+    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron)‎.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
