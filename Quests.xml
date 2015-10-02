@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.38">
+<Quests Version="1.0.39">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -943,7 +943,7 @@
     <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
     <TR-Name>B49: Sortie an Aircraft Carrier Task Force to the Aleutian Islands</TR-Name>
     <JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with an CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie a fleet with a CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>286</ID>
@@ -1333,16 +1333,23 @@
   <Quest>
     <ID>622</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F20: Model Conversion</TR-Name>
+    <TR-Name>F19: Model Conversion</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
     <TR-Detail>With Shoukaku equipped with a Type 97 Torpedo Bomber (Murata Squadron)‎ as your secretary, scrap 2 Tenzans to upgrade the Type 97 to Tenzan Model 12 (Murata Squadron).</TR-Detail>
   </Quest>
   <Quest>
     <ID>623</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
-    <TR-Name>F19: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
+    <TR-Name>F20: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron)‎.</TR-Detail>
+    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>624</ID>
+    <JP-Name>試作艤装の準備</JP-Name>
+    <TR-Name>F21: Prototype Flight Deck Outfitting Preparations</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
+    <TR-Detail>Scrap 7 pieces of equipment.</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
