@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.39">
+<Quests Version="1.0.40">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -972,6 +972,20 @@
     <TR-Name>B52: Sortie the 16th Squadron (1st Gen.)</TR-Name>
     <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Ashigara (足柄) as the flagship, Kuma (球磨), Nagara (長良) and up to 3 additional ships to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>290</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」を収獲しよう！</JP-Name>
+    <TR-Name>Saury Fishing: Let's Harvest Some Saury</TR-Name>
+    <JP-Detail>近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！</JP-Detail>
+    <TR-Detail>Defeat enemy fleets in Worlds 1 and 3 and gather 3 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>291</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
+    <TR-Name>Saury Fishing: You've Got to Harvest More Saury</TR-Name>
+    <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
+    <TR-Detail>Ensure the safety of the fishing grounds and gather 10 more saury.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
