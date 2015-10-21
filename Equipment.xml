@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.28">
+<Equipment Version="1.0.29">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -603,5 +603,9 @@
   <Item>
     <JP-Name>秋刀魚の缶詰</JP-Name>
     <TR-Name>Canned Saury</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>試製景雲(艦偵型)</JP-Name>
+    <TR-Name>Prototype Keiun</TR-Name>
   </Item>
 </Equipment>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.40">
+<Quests Version="1.0.41">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -985,7 +985,14 @@
     <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
     <TR-Name>Saury Fishing: You've Got to Harvest More Saury</TR-Name>
     <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
-    <TR-Detail>Ensure the safety of the fishing grounds and gather 10 more saury.</TR-Detail>
+    <TR-Detail>Ensure the safety of the fishing grounds and have a total of 10 saury.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>292</ID>
+    <JP-Name>秋刀魚漁：もっと頑張ってもいいのよ！</JP-Name>
+    <TR-Name>Saury Fishing: Let's Harvest Even More Saury</TR-Name>
+    <JP-Detail>かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！</JP-Detail>
+    <TR-Detail>Work hard and have a total of 30 saury.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
