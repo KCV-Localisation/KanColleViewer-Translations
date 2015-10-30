@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.41">
+<Quests Version="1.0.42">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -420,7 +420,28 @@
     <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>
     <TR-Detail>Have Ashigara (足柄) as the flagship, Kuma (球磨) and Nagara (長良) in your main fleet.</TR-Detail>
   </Quest>
-   <Quest>
+  <Quest>
+    <ID>164</ID>
+    <JP-Name>「第三航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A59: Organise the 3rd Carrier Division</TR-Name>
+    <JP-Detail>「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>165</ID>
+    <JP-Name>「第四航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A60: Organise the 4th Carrier Division</TR-Name>
+    <JP-Detail>航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Ise Kai (伊勢改) and Hyuuga Kai (日向改) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>166</ID>
+    <JP-Name>「小沢艦隊」を編成せよ！</JP-Name>
+    <TR-Name>A61: Organise the Ozawa Fleet</TR-Name>
+    <JP-Detail>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</JP-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet. </TR-Detail>
+  </Quest>
+  <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
@@ -995,6 +1016,20 @@
     <TR-Detail>Work hard and have a total of 30 saury.</TR-Detail>
   </Quest>
   <Quest>
+    <ID>293</ID>
+    <JP-Name>「第三航空戦隊」南西諸島防衛線に出撃！</JP-Name>
+    <TR-Name>B53: Sortie the 3rd Carrier Division to Protect the Nansei Islands</TR-Name>
+    <JP-Detail>編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, Zuihou (瑞鳳), Chitose (千歳), Chiyoda (千代田) and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>294</ID>
+    <JP-Name>「小沢艦隊」出撃せよ！</JP-Name>
+    <TR-Name>B54: Sortie the Ozawa Fleet</TR-Name>
+    <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: Your First Exercise</TR-Name>
@@ -1371,6 +1406,20 @@
     <TR-Name>F21: Prototype Flight Deck Outfitting Preparations</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
     <TR-Detail>Scrap 7 pieces of equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>625</ID>
+    <JP-Name>試製航空艤装の追加試作</JP-Name>
+    <TR-Name>F23: Additional Prototype Deck Outfitting</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。</JP-Detail>
+    <TR-Detail>Scrap 9 pieces of equipment.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>626</ID>
+    <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
+    <TR-Name>F22: Organise the New Elite Air Group</TR-Name>
+    <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
+    <TR-Detail>With Houshou (鳳翔) as the secretary equipped with a Type 21 Zero Fighter (零戦21型) at maximum skill level, scrap 2 Type 21 Zero Fighters (零戦21型) and a Type 96 Fighter (九六艦戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
