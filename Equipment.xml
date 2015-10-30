@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.29">
+<Equipment Version="1.0.30">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -607,5 +607,29 @@
   <Item>
     <JP-Name>試製景雲(艦偵型)</JP-Name>
     <TR-Name>Prototype Keiun</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零式艦戦52型(熟練)</JP-Name>
+    <TR-Name>Type 52 Zero Fighter (Skilled)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零戦52型丙(付岩井小隊)</JP-Name>
+    <TR-Name>Type 52 Model C (Iwai Squadron)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零戦62型(爆戦/岩井隊)</JP-Name>
+    <TR-Name>Type 62 Zero Fighter-Bomber (Iwai Squadron)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零戦21型(付岩本小隊)</JP-Name>
+    <TR-Name>Type 21 Zero Fighter (Iwamoto Squadron)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零戦52型甲(付岩本小隊)</JP-Name>
+    <TR-Name>Type 52 Model A (Iwamoto Squadron)</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>零式艦戦53型(岩本隊)</JP-Name>
+    <TR-Name>Type 53 Zero Fighter (Iwamoto Squadron)</TR-Name>
   </Item>
 </Equipment>
