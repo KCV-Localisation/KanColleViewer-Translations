@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.43">
+<Quests Version="1.0.44">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -439,7 +439,14 @@
     <JP-Name>「小沢艦隊」を編成せよ！</JP-Name>
     <TR-Name>A61: Organise the Ozawa Fleet</TR-Name>
     <JP-Detail>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</JP-Detail>
-    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet. </TR-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>167</ID>
+    <JP-Name>新航空戦隊を編成せよ！</JP-Name>
+    <TR-Name>A62: Organise the New Carrier Fleet</TR-Name>
+    <JP-Detail>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</JP-Detail>
+    <TR-Detail>Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1440,7 +1447,7 @@
     <JP-Name>「艦戦」隊の再編成</JP-Name>
     <TR-Name>F26: Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 52 Zero Fighter (Skilled) (零戦52型(熟練)) at maximum skill level as your secretary, scrap two Type 52-C Zero Fighters (601 Air Group) (零戦52型丙(六〇一空)).</TR-Detail>
+    <TR-Detail>With an aircraft carrier equipped with Type 52 Zero Fighter (Skilled) (零戦52型(熟練)) at maximum skill level as your secretary, scrap a Type 52-C Zero Fighter (601 Air Group) (零戦52型丙(六〇一空)).</TR-Detail>
   </Quest>
   <Quest>
     <ID>630</ID>
@@ -1448,6 +1455,27 @@
     <TR-Name>F28: Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
     <TR-Detail>With Zuikaku equipped with Type 21 Zero Fighter (Skilled) (零戦21型(熟練)) at maximum skill level as your secretary, scrap two Type 21 Zero Fighters (零戦21型).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>631</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>F27: Model Conversion and Force Reorganisation</TR-Name>
+    <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Type 52-C Zero Fighter (Iwai Squadron) (零戦52型丙(付岩井小隊)) at maximum skill level as your secretary, scrap two Type 62 Zero Fighter-bombers (零戦62型(爆戦)).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>632</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>F29: Model Conversion</TR-Name>
+    <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Type 21 Zero Fighter (Iwamoto Squadron) (零戦21型(付岩本小隊)) at maximum skill level as your secretary, scrap two Type 52 Zero Fighters (零戦52型).</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>633</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>F30: Model Conversion and Force Reorganisation</TR-Name>
+    <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
+    <TR-Detail>With Zuikaku equipped with Type 52-A Zero Fighter (Iwamoto Squadron) (零戦52型甲(付岩本小隊)) at maximum skill level as your secretary, scrap two Saiuns (彩雲).</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
