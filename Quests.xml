@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.44">
+<Quests Version="1.0.45">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1447,7 +1447,7 @@
     <JP-Name>「艦戦」隊の再編成</JP-Name>
     <TR-Name>F26: Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 52 Zero Fighter (Skilled) (零戦52型(熟練)) at maximum skill level as your secretary, scrap a Type 52-C Zero Fighter (601 Air Group) (零戦52型丙(六〇一空)).</TR-Detail>
+    <TR-Detail>With Zuikaku equipped with Type 52 Zero Fighter (Skilled) (零戦52型(熟練)) at maximum skill level as your secretary, scrap a Type 52-C Zero Fighter (601 Air Group) (零戦52型丙(六〇一空)).</TR-Detail>
   </Quest>
   <Quest>
     <ID>630</ID>
