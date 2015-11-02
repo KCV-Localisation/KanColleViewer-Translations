@@ -425,7 +425,7 @@
     <JP-Name>「第三航空戦隊」を編成せよ！</JP-Name>
     <TR-Name>A59: Organise the 3rd Carrier Division</TR-Name>
     <JP-Detail>「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田) in your main fleet.</TR-Detail>
+    <TR-Detail>Have Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>165</ID>
@@ -1027,7 +1027,7 @@
     <JP-Name>「第三航空戦隊」南西諸島防衛線に出撃！</JP-Name>
     <TR-Name>B53: Sortie the 3rd Carrier Division to Protect the Nansei Islands</TR-Name>
     <JP-Detail>編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, Zuihou (瑞鳳), Chitose (千歳), Chiyoda (千代田) and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou (瑞鳳), Chitose (千歳) and Chiyoda (千代田), and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>294</ID>
@@ -1426,7 +1426,7 @@
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
     <TR-Name>F22: Reorganisation of the Fighter Forces</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
-    <TR-Detail>With Houshou (鳳翔) as the secretary equipped with a Type 21 Zero Fighter (零戦21型) at maximum skill level, scrap two Type 21 Zero Fighters (零戦21型) and a Type 96 Fighter (九六艦戦).</TR-Detail>
+    <TR-Detail>With Houshou (鳳翔) as the secretary equipped with a Type 21 Zero Fighter (零戦21型) at maximum skill level, scrap two Type 21 Zero Fighters (零戦21型) and a Type 96 Fighter (九六艦戦). You should have Skilled Crew Member (熟練搭乗員) in your inventory, it will be consumed.</TR-Detail>
   </Quest>
   <Quest>
     <ID>627</ID>
