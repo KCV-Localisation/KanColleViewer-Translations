@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.32">
+<Ships Version="1.0.33">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1539,5 +1539,37 @@
   <Ship>
     <JP-Name>速吸改</JP-Name>
     <TR-Name>Hayasui Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Graf Zeppelin</JP-Name>
+    <TR-Name>Graf Zeppelin</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Graf Zeppelin改</JP-Name>
+    <TR-Name>Graf Zeppelin Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>嵐</JP-Name>
+    <TR-Name>Arashi</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>嵐改</JP-Name>
+    <TR-Name>Arashi Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>萩風</JP-Name>
+    <TR-Name>Hagikaze</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>萩風改</JP-Name>
+    <TR-Name>Hagikaze Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>鹿島</JP-Name>
+    <TR-Name>Kashima</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>鹿島改</JP-Name>
+    <TR-Name>Kashima Kai</TR-Name>
   </Ship>
 </Ships>

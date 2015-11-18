@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.32">
+<Equipment Version="1.0.33">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -632,4 +632,16 @@
     <JP-Name>零式艦戦53型(岩本隊)</JP-Name>
     <TR-Name>Type 0 Fighter Model 53 (Iwamoto Squadron)</TR-Name>
   </Item>
+  <Item>
+    <JP-Name>Bf109T改</JP-Name>
+    <TR-Name>Messerschmitt Bf 109T Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Fw190T改</JP-Name>
+    <TR-Name>Focke-Wulf Fw 190T Kai</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>10.5cm連装砲</JP-Name>
+    <TR-Name>10.5cm Twin High-Angle Gun Mount</TR-Name>
+  </Item>  
 </Equipment>
