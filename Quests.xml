@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.46">
+<Quests Version="1.0.47">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -447,6 +447,27 @@
     <TR-Name>A62: Organise the New Carrier Fleet</TR-Name>
     <JP-Detail>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</JP-Detail>
     <TR-Detail>Have Shoukaku Kai2 (翔鶴改二) and Zuikaku Kai2 (瑞鶴改) along with 2 destroyers as their escort in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>168</ID>
+    <JP-Name>「第十六戦隊(第二次)」を編成せよ！</JP-Name>
+    <TR-Name>A63: Organise the 16th Squadron (2nd Gen.)</TR-Name>
+    <JP-Detail>「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！</JP-Detail>
+    <TR-Detail>Have Natori (名取) as the flagship, Isuzu (五十鈴) and Kinu (鬼怒) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>169</ID>
+    <JP-Name>「新編成航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A64: Organize the New Carrier Division</TR-Name>
+    <JP-Detail>空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>170</ID>
+    <JP-Name>精強な「水上反撃部隊」を再編成せよ！</JP-Name>
+    <TR-Name>A65: Strengthen the Surface Counterattack Fleet</TR-Name>
+    <JP-Detail>駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) in your main fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1035,6 +1056,27 @@
     <TR-Name>B54: Sortie the Ozawa Fleet</TR-Name>
     <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie Zuikaku Kai (瑞鶴改) as the flagship, aircraft carriers Zuihou Kai (瑞鳳改), Chitose (千歳) and Chiyoda (千代田), and aviation battleships Ise Kai (伊勢改) and Hyuuga Kai (伊勢改) to World 2-4 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>295</ID>
+    <JP-Name>「第十六戦隊(第二次)」出撃せよ！</JP-Name>
+    <TR-Name>B55: Sortie the 16th Squadron (2nd Gen.)</TR-Name>
+    <JP-Detail>「第十六戦隊(第二次)」をオリョール海に展開、敵主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Natori (名取) as the flagship, Isuzu (五十鈴), Kinu (鬼怒) and up to 3 additional ships to World 2-3 and score a victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>296</ID>
+    <JP-Name>新編成航空戦隊、北方へ進出せよ！</JP-Name>
+    <TR-Name>B56: Sortie the New Carrier Division to the North</TR-Name>
+    <JP-Detail>「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie 2 fleet carriers, 2 aviation battleships or aviation cruisers and 2 destroyers to World 3-3 and score a victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>297</ID>
+    <JP-Name>「礼号作戦」実施せよ！</JP-Name>
+    <TR-Name>B57: Operation Rei-go</TR-Name>
+    <JP-Detail>精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) (you may add another ship) to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
