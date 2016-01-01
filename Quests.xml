@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.49">
+<Quests Version="1.0.50">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1560,5 +1560,33 @@
     <TR-Name>G4: Preparation for LSC (Part 1)</TR-Name>
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
     <TR-Detail>Perform 4 successful modernizations.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>801</ID>
+    <JP-Name>謹賀新年！「水雷戦隊」出撃始め！</JP-Name>
+    <TR-Name>Happy New Year! Sortie a Torpedo Squadron</TR-Name>
+    <JP-Detail>水雷戦隊を製油所地帯沿岸に展開！同海域の敵艦隊を撃滅、新年の暁に勝利を刻むのです！</JP-Detail>
+    <TR-Detail>Sortie 1 CL and 3-5 DD to World 1-3 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>802</ID>
+    <JP-Name>新年の「伊良湖」のお手伝い！</JP-Name>
+    <TR-Name>Help Irako during New Year</TR-Name>
+    <JP-Detail>大丈夫、新年は収集任務じゃないんです！東部オリョール海の敵艦隊を三回撃滅してください！</JP-Detail>
+    <TR-Detail>Sortie a fleet to World 2-3 and score an S rank victory at the boss node 3 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>803</ID>
+    <JP-Name>漲る戦艦魂！大艦巨砲なお正月！</JP-Name>
+    <TR-Name>The burning soul of a battleship! A New Year with big ships and huge guns</TR-Name>
+    <JP-Detail>戦艦4隻を基幹戦力とする艦隊をカレー洋へ展開！敵艦隊を反復撃滅し、同海域を制圧せよ！</JP-Detail>
+    <TR-Detail>Sortie 4 BB/FBB/BBV to World 4-2 (you may add 2 more ships) and score an S rank victory at the boss node 2 times.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>804</ID>
+    <JP-Name>迎春！「機動部隊」抜錨せよ！</JP-Name>
+    <TR-Name>Happy New Year! Sortie a Carrier Task Force</TR-Name>
+    <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
+    <TR-Detail>Sortie 2 CV/CVB/CVL and up to 4 additional ships to World 6-2 and score an S rank victory at the boss node 2 times.</TR-Detail>
   </Quest>
 </Quests>
