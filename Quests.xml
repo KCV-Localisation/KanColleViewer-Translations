@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.51">
+<Quests Version="1.0.52">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1286,7 +1286,7 @@
     <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
     <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expeditions 26 (MO作戦) and 35 (敵母港空襲作戦).</TR-Detail>
+    <TR-Detail>Complete expeditions 26 (敵母港空襲作戦) and 35 (MO作戦).</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
