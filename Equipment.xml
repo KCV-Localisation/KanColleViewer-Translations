@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.33">
+<Equipment Version="1.0.34">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -644,4 +644,16 @@
     <JP-Name>10.5cm連装砲</JP-Name>
     <TR-Name>10.5cm Twin High-Angle Gun Mount</TR-Name>
   </Item>  
+  <Item>
+    <JP-Name>203mm/53 連装砲</JP-Name>
+    <TR-Name>203mm / 53 Twin Gun Mount</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Ro.43水偵</JP-Name>
+    <TR-Name>Ro.43 Seaplane</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch三連装砲 Mk.7</JP-Name>
+    <TR-Name>16inch Triple Gun Mount Mk.7</TR-Name>
+  </Item>
 </Equipment>

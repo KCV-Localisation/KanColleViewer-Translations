@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.34">
+<Ships Version="1.0.35">
   <Ship>
     <JP-Name>長門</JP-Name>
     <TR-Name>Nagato</TR-Name>
@@ -1579,5 +1579,29 @@
   <Ship>
     <JP-Name>鹿島改</JP-Name>
     <TR-Name>Kashima Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>初月</JP-Name>
+    <TR-Name>Hatsuzuki</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>初月改</JP-Name>
+    <TR-Name>Hatsuzuki Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Zara</JP-Name>
+    <TR-Name>Zara</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>Zara改</JP-Name>
+    <TR-Name>Zara Kai</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>沖波</JP-Name>
+    <TR-Name>Okinami</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>沖波改</JP-Name>
+    <TR-Name>Okinami Kai</TR-Name>
   </Ship>
 </Ships>
