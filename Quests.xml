@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.52">
+<Quests Version="1.0.53">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1091,6 +1091,20 @@
     <TR-Name>Preparation for New Year's Eve! Help Mamiya</TR-Name>
     <JP-Detail>提督…もしよかったら…「お飾り材料」32個使って、お飾りを一緒に作りませんか？</JP-Detail>
     <TR-Detail>Have 32 decoration materials in your inventory.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>234</ID>
+    <JP-Name>水上反撃作戦【礼号作戦】を完遂せよ！</JP-Name>
+    <TR-Name>Complete Operation Rei-go</TR-Name>
+    <JP-Detail>カンパン湾より突入部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！</JP-Detail>
+    <TR-Detail>Clear E-2.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>421</ID>
+    <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
+    <TR-Name>Have Friendly Ship Participate in Naval Review</TR-Name>
+    <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
+    <TR-Detail>Send six ships (flagship level 6+, summary level 15+) and complete expedition 175 (親善艦参加観艦式).</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
