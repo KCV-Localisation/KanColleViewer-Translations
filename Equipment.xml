@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.0.34">
+<Equipment Version="1.0.35">
   <Item>
     <JP-Name>12cm単装砲</JP-Name>
     <TR-Name>12cm Naval Gun</TR-Name>
@@ -651,6 +651,10 @@
   <Item>
     <JP-Name>Ro.43水偵</JP-Name>
     <TR-Name>Ro.43 Seaplane</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>Ro.44水上戦闘機</JP-Name>
+    <TR-Name>Ro.44 Seaplane Fighter</TR-Name>
   </Item>
   <Item>
     <JP-Name>16inch三連装砲 Mk.7</JP-Name>
