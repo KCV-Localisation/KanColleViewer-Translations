@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.53">
+<Quests Version="1.0.54">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -468,6 +468,13 @@
     <TR-Name>A65: Strengthen the Surface Counterattack Fleet</TR-Name>
     <JP-Detail>駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！</JP-Detail>
     <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), Ooyodo (大淀), Asashimo (朝霜) and Kiyoshimo (清霜) in your main fleet.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>171</ID>
+    <JP-Name>「第三十一戦隊(第一次)」を編成せよ！</JP-Name>
+    <TR-Name>A66: Organise the 31st Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！</JP-Detail>
+    <TR-Detail>Have Isuzu Kai2 (五十鈴改二) as the flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) in your fleet.</TR-Detail>
   </Quest>
   <Quest>
     <ID>201</ID>
@@ -1616,5 +1623,12 @@
     <TR-Name>B59: Sortie Kasumi and Defeat the Enemy Fleet</TR-Name>
     <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
     <TR-Detail>Sortie a fleet with Kasumi Kai2 (霞改二) as flagship, 2 DD and up to 3 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>807</ID>
+    <JP-Name>「第三十一戦隊」出撃せよ！</JP-Name>
+    <TR-Name>B60: Deploy the 31st Squadron (1st Gen.)</TR-Name>
+    <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>Sortie a fleet with Isuzu Kai2 (五十鈴改二) as flagship, Satsuki Kai2 (皐月改二) and Uzuki Kai (卯月改) and up to 3 additional ships to World 1-6 and complete the map.</TR-Detail>
   </Quest>
 </Quests>
